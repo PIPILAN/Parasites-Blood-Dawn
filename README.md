@@ -1,4 +1,4 @@
-# Adventure of the Golden Warriors
+# Parasites: Blood Dawn
 ![](Parasite_Blood_Dawn.png)
 
 WIKI地址：https://pipilan.gitbook.io/parasites-blood-dawn/
