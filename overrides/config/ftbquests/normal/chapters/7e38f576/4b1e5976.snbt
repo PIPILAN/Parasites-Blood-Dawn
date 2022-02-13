@@ -1,0 +1,28 @@
+{
+	title: "数据收集：掠夺兽",
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "be3c0de3",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_esor",
+		entity: "srparasites:marauder",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "a048a3a2",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$2400.0"
+				},
+				value: 2400.0d
+			}
+		}
+	}]
+}

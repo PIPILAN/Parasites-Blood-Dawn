@@ -1,0 +1,67 @@
+{
+	title: "终极目标",
+	icon: "srparasites:itemtab",
+	x: 0.0d,
+	y: 0.0d,
+	description: "通过前期的数据和样本分析，我们已经取得消灭全部寄生虫的办法了，现在需要你击杀寄生虫领袖以及获得它们的种族的生物群系核心来配合我们研究",
+	dependencies: [
+		"dfd0eb70",
+		"fc0ec1cc",
+		"61f9ea4a",
+		"4b1e5976",
+		"5037c8cf",
+		"3312548b",
+		"124eba64",
+		"3d54d7ae",
+		"798923c2",
+		"0c525e1f"
+	],
+	tasks: [{
+		uid: "dc9577b7",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_oronco",
+		entity: "srparasites:anc_dreadnaut",
+		value: 5L
+	},
+	{
+		uid: "476826c8",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_terla",
+		entity: "srparasites:anc_overlord",
+		value: 5L
+	},
+	{
+		uid: "4d9a516f",
+		type: "item",
+		items: [{
+			item: "srparasites:biomeheart"
+		}],
+		count: 5L,
+		consume_items: true
+	},
+	{
+		uid: "af667227",
+		type: "item",
+		items: [{
+			item: "srparasites:biomeheart"
+		}],
+		count: 5L,
+		consume_items: true
+	},
+	{
+		uid: "5dac7913",
+		type: "item",
+		items: [{
+			item: "srparasites:evolutionlure 1 7"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "07e3993f",
+		type: "command",
+		title: "使用终极浓缩武器",
+		icon: "srparasites:itemtab",
+		team_reward: false,
+		command: "/difficulty peaceful"
+	}]
+}

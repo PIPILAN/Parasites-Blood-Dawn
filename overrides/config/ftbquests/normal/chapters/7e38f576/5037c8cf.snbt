@@ -1,0 +1,28 @@
+{
+	title: "数据收集：看守兽",
+	x: 3.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "e7a1b0bf",
+		type: "kill",
+		icon: "srparasites:bow_core",
+		entity: "srparasites:warden",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "b775006c",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$2400.0"
+				},
+				value: 2400.0d
+			}
+		}
+	}]
+}

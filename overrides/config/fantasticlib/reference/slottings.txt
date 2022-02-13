@@ -1,0 +1,12 @@
+None
+Mainhand
+Offhand
+Hand
+Head
+Chest
+Legs
+Feet
+Armor
+Hotbar
+Cargo
+Any

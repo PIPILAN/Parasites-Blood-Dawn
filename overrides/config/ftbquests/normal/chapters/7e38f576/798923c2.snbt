@@ -1,0 +1,45 @@
+{
+	title: "数据收集：远古双魔君",
+	x: -1.5d,
+	y: 0.0d,
+	dependencies: [
+		"6d0c5cde",
+		"444e073a",
+		"00816314",
+		"942a89bc",
+		"a13cdb8b",
+		"d5272cdc",
+		"c7d43369"
+	],
+	tasks: [{
+		uid: "5c82b9f0",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_oronco",
+		entity: "srparasites:anc_dreadnaut",
+		value: 1L
+	},
+	{
+		uid: "3e280fdc",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_terla",
+		entity: "srparasites:anc_overlord",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "ad83c502",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$30000.0"
+				},
+				value: 30000.0d
+			}
+		},
+		count: 2
+	}]
+}

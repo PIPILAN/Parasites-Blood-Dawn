@@ -1,0 +1,7 @@
+{
+	title: "地表探险任务",
+	icon: "backstab:diamond_dagger",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

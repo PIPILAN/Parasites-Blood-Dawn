@@ -1,0 +1,31 @@
+{
+	title: "数据收集：适应召唤兽",
+	x: -3.0d,
+	y: 2.0d,
+	dependencies: [
+		"d90fbb4d"
+	],
+	tasks: [{
+		uid: "7ca9dc42",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_canraadapted",
+		entity: "srparasites:ada_summoner",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "0040e657",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$3000.0"
+				},
+				value: 3000.0d
+			}
+		}
+	}]
+}

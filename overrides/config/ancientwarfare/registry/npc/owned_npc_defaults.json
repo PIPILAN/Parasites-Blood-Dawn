@@ -1,0 +1,47 @@
+{
+    "load_after": ["target_lists"],
+    "defaults": {
+        "targets": {
+            "lists": [
+                "hostile"
+            ],
+            "include": [],
+            "exclude": []
+        },
+        "attributes": {
+            "generic.maxHealth": 20,
+            "generic.movementSpeed": 0.325,
+            "generic.followRange": 60,
+            "generic.attackDamage": 1
+        },
+        "experience_drop": 0,
+        "can_swim": true,
+        "can_break_doors": true
+    },
+    "npc_subtypes": {
+        "combat": {
+            "can_swim": true,
+            "attributes": {
+                "generic.maxHealth": 30
+            }
+        },
+        "worker": {
+            "can_swim": true
+        },
+        "courier": {
+            "can_swim": true
+        },
+        "trader": {
+            "can_swim": true
+        },
+        "priest": {
+            "can_swim": true
+        },
+        "bard": {
+            "can_swim": true
+        },
+        "siege_engineer": {
+            "can_swim": true
+        }
+    }
+}
