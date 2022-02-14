@@ -1422,4 +1422,4 @@ mw:deathclaw_step
 mw:molded_ambient
 mw:molded_hurt
 mw:molded_death
-mw:sa80.cfg
+mw:configs/sa80.cfg

@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Parasites-Blood Dawn",
-  "version": "1.0.2",
+  "version": "1.0.2.1",
   "author": "",
   "files": [
     {
@@ -116,7 +116,7 @@
     },
     {
       "projectID": 493723,
-      "fileID": 3595919,
+      "fileID": 3640180,
       "required": true
     },
     {
@@ -136,7 +136,7 @@
     },
     {
       "projectID": 367706,
-      "fileID": 3631900,
+      "fileID": 3647389,
       "required": true
     },
     {
@@ -165,13 +165,8 @@
       "required": true
     },
     {
-      "projectID": 258587,
-      "fileID": 3487676,
-      "required": true
-    },
-    {
       "projectID": 239197,
-      "fileID": 3587830,
+      "fileID": 3642364,
       "required": true
     },
     {

@@ -1,7 +1,7 @@
 {
 	title: "数据收集：守卫兽",
-	x: 3.0d,
-	y: 1.0d,
+	x: 1.5d,
+	y: 3.0d,
 	tasks: [{
 		uid: "45386aae",
 		type: "kill",

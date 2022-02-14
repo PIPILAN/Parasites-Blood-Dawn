@@ -91,9 +91,9 @@ key_Toggle Customization Overlay | CTRL + ALT + :21
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:0
+key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.itemin:-200
 key_key.inventorysorter.sort:-98
-key_key.inventorysorter.itemout:-201
 key_key.vehicle.horn:35
 key_key.vehicle.cycle_seats:0
 key_key.moreoverlays.lightoverlay.desc:65

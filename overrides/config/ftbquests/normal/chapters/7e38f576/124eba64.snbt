@@ -1,7 +1,10 @@
 {
 	title: "数据收集：寄生柱",
-	x: 3.0d,
-	y: -2.0d,
+	x: -6.5d,
+	y: 0.0d,
+	dependencies: [
+		"0e54788b"
+	],
 	tasks: [{
 		uid: "0623e360",
 		type: "kill",

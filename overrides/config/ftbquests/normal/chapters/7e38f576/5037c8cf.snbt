@@ -1,6 +1,6 @@
 {
 	title: "数据收集：看守兽",
-	x: 3.0d,
+	x: -0.5d,
 	y: 3.0d,
 	tasks: [{
 		uid: "e7a1b0bf",

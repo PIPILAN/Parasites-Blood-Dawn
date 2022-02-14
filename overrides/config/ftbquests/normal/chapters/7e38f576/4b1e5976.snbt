@@ -1,7 +1,7 @@
 {
 	title: "数据收集：掠夺兽",
-	x: 3.0d,
-	y: 0.0d,
+	x: 0.5d,
+	y: -3.0d,
 	tasks: [{
 		uid: "be3c0de3",
 		type: "kill",
