@@ -3,6 +3,8 @@
 
 WIKI地址：https://pipilan.gitbook.io/parasites-blood-dawn/
 
+[更新记录与更新计划](https://github.com/PIPILAN/Parasites-Blood-Dawn/blob/main/RecordAndUpdate.md) | [下载地址](https://github.com/PIPILAN/Parasites-Blood-Dawn/releases)
+
 ---
 
 # 使用协议
