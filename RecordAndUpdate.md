@@ -4,9 +4,9 @@
 
 ### 模组变更
 
-- +载具
-- +抽屉模组
-- +铁箱子模组
+- +MrCrayfish`s Vehicle Mod
+- +Storage Drawers
+- +Iron Chests
 
 ### 内容变更
 
@@ -22,13 +22,13 @@
 
 ### 模组变更
 
-- +更多熔炉模组
-- +加更好的建筑之杖模组
-- +睡袋模组
-- +物品物理掉落模组
-- +护甲上限突破模组
-- +属性修复模组
-- -移除模块化语音插件
+- +More Furnaces
+- +Better Builder's Wands
+- +Comforts
+- +ItemPhysic
+- +Overloaded Armor Bar
+- +AttributeFix
+- -ModularVoiceChat
 
 ### 内容变更
 
@@ -69,7 +69,11 @@
 
 ### 模组变更
 
+- +Material Changer
+- +Spark
+
 ### 内容变更
+
 - 修复之前版本调整错误导致的怪物仍可背刺的问题，现修改为仅武士刀可造成潜行伤害，其他任何武器均不可，特指匕首背刺伤害调整为20倍
 - 修复之前版本因重启导致的 *[ 远古惧魔和远古君魔以及所有兽棘柱忽视背刺 ]* 无效的BUG
 
