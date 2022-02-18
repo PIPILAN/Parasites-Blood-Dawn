@@ -6,7 +6,7 @@
 
 - +MrCrayfish`s Vehicle Mod
 - +Storage Drawers
-- +Iron Chests
+- +Iron Chest
 
 ### 内容变更
 
@@ -58,9 +58,12 @@
 
 ## 1.0.2.1-Pre
 
+### 模组变更
+
+- -ItemPhysic
+
 ### 内容变更
 - 更改最终目标
-- 去除物理效果模组
 - 部分模组版本更新
 
 ---
@@ -71,11 +74,16 @@
 
 - +Material Changer
 - +Spark
+- +Crafting Tweaks
+- +Culinary Construct
+- +Tetra
+- +Bad Mobs
 
 ### 内容变更
 
 - 修复之前版本调整错误导致的怪物仍可背刺的问题，现修改为仅武士刀可造成潜行伤害，其他任何武器均不可，特指匕首背刺伤害调整为20倍
 - 修复之前版本因重启导致的 *[ 远古惧魔和远古君魔以及所有兽棘柱忽视背刺 ]* 无效的BUG
+- 模组例行更新
 
 ---
 
@@ -114,3 +122,5 @@
 降低寄生虫模组免死次数
 
 添加新武器
+
+修改古代战争2模组基础关系
