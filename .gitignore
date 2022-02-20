@@ -7,6 +7,7 @@
 !/resourcepacks
 !/resources
 !/scripts
+!/local/ftbutilities/ranks.txt
 
 #Files
 !/.gitignore
@@ -17,4 +18,3 @@
 !/Parasite_Blood_Dawn_200x.png
 !/README.md
 !/RecordAndUpdate.md
-!/local/ftbutilities/ranks.txt
