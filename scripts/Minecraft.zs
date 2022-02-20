@@ -9,10 +9,12 @@ furnace.remove(<minecraft:gold_nugget>, <minecraft:golden_helmet>);
 furnace.remove(<minecraft:gold_nugget>, <minecraft:golden_chestplate>);
 furnace.remove(<minecraft:gold_nugget>, <minecraft:golden_leggings>);
 furnace.remove(<minecraft:gold_nugget>, <minecraft:golden_boots>);
+furnace.remove(<minecraft:gold_nugget>, <minecraft:golden_sword>);
 furnace.remove(<minecraft:iron_nugget>, <minecraft:iron_helmet>);
 furnace.remove(<minecraft:iron_nugget>, <minecraft:iron_chestplate>);
 furnace.remove(<minecraft:iron_nugget>, <minecraft:iron_leggings>);
 furnace.remove(<minecraft:iron_nugget>, <minecraft:iron_boots>);
+furnace.remove(<minecraft:iron_nugget>, <minecraft:iron_sword>);
 
 // 根据耐久值判断拆解数量-铁套
 recipes.addShapeless(<minecraft:iron_ingot>*5, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_helmet>.withDamage(0)]);

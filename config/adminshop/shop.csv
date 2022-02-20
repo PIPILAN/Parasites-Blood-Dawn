@@ -126,24 +126,47 @@ buy,mw:Shotgun12Gauge,2.5,2
 
 
 # 装备
+
+## 面具类
 buy,mw:m40gasmask_helmet,1000,3
 buy,mw:Tactical_helmet,1000,3
 buy,mw:JPNVG18_helmet,1000,3
-buy,mw:Swat_helmet,400,3
-buy,mw:Swat_chest,400,3
-buy,mw:Swat_boots,400,3
-buy,mw:Spec_Ops_helmet,400,3
-buy,mw:Spec_Ops_chest,400,3
-buy,mw:Spec_Ops_boots,400,3
-buy,mw:t60_boots,1400,3
-buy,mw:t60_chest,1400,3
-buy,mw:t60_helmet,1200,3
-buy,mw:Juggernaut_helmet,1000,3
-buy,mw:Juggernaut_chest,800,3
-buy,mw:Juggernaut_boots,1000,3
-buy,mw:Umbrella_helmet,400,3
-buy,mw:Umbrella_chest,400,3
-buy,mw:Umbrella_boots,400,3
+
+buy,mw:Swat_helmet,4800,3
+buy,mw:Swat_chest,7200,3
+buy,mw:Swat_boots,4100,3
+buy,mw:Spec_Ops_helmet,4800,3
+buy,mw:Spec_Ops_chest,7200,3
+buy,mw:Spec_Ops_boots,4100,3
+buy,mw:Umbrella_helmet,4800,3
+buy,mw:Umbrella_chest,6900,3
+buy,mw:Umbrella_boots,4100,3
+buy,mw:Juggernaut_helmet,6700,3
+buy,mw:Juggernaut_chest,8150,3
+buy,mw:Juggernaut_boots,5975,3
+buy,mw:marine_helmet,4800,3
+buy,mw:marine_chest,7200,3
+buy,mw:marine_boots,4100,3
+buy,mw:ncr_helmet,3750,3
+buy,mw:ncr_chest,6120,3
+buy,mw:ncr_boots,3750,3
+buy,mw:t60_helmet,7950,3
+buy,mw:t60_chest,10500,3
+buy,mw:t60_boots,7950,3
+buy,mw:mkvi_main_helmet,11100,3
+buy,mw:mkvi_main_chest,14300,3
+buy,mw:mkvi_main_boots,11100,3
+buy,mw:mkvidefault_helmet,11100,3
+buy,mw:mkvidefault_chest,14300,3
+buy,mw:mkvidefault_boots,11100,3
+buy,mw:mkviblue_helmet,11100,3
+buy,mw:mkviblue_chest,14300,3
+buy,mw:mkviblue_boots,11100,3
+buy,mw:mkvired_helmet,11100,3
+buy,mw:mkvired_chest,14300,3
+buy,mw:mkvired_boots,11100,3
+
+
 # 背包
 buy,mw:tactical_push_backpack,4000,3
 buy,mw:desert_tactical_push_backpack,4000,3
