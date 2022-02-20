@@ -14,8 +14,8 @@ customization {
 }
 
 customization {
-  path = resources/music/MainTitleThemeSong.wav
-  loop = false
+  path = resources/music/WhatwasLost.wav
+  loop = true
   action = addaudio
 }
 
