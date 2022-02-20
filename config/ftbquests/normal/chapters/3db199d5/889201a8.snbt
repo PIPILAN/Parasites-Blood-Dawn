@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "84b3c1e6",
+		type: "item",
+		items: [{
+			item: "overlast:dumpling"
+		}]
+	}]
+}

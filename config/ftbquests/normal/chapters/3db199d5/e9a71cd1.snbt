@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	dependencies: [
+		"295e61b8"
+	],
+	tasks: [{
+		uid: "77e26db4",
+		type: "item",
+		items: [{
+			item: "overlast:blockpurifier"
+		}]
+	}]
+}

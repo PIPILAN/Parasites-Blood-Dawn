@@ -1,0 +1,12 @@
+{
+	x: 3.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "220a4ac2",
+		type: "item",
+		items: [{
+			item: "overlast:drinking_potion 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

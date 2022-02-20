@@ -1,0 +1,31 @@
+{
+	title: "数据收集：适应咀骨兽",
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"657c8935"
+	],
+	tasks: [{
+		uid: "e66aebf5",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_hulladapted",
+		entity: "srparasites:ada_manducater",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "f8acb4e3",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$3000.0"
+				},
+				value: 3000.0d
+			}
+		}
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "c6ddb104",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_craftsmansbag"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

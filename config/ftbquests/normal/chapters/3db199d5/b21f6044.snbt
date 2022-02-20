@@ -1,0 +1,13 @@
+{
+	x: -2.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "2c962076",
+		type: "item",
+		items: [{
+			item: "overlast:evo_device"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"2e0ce27d"
+	],
+	tasks: [{
+		uid: "b57b2ab5",
+		type: "item",
+		items: [{
+			item: "overlast:bowl_herbal"
+		}]
+	}]
+}

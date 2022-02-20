@@ -1,0 +1,53 @@
+{
+	title: "一则快讯",
+	x: 0.0d,
+	y: 0.0d,
+	description: "先驱者联盟密信：地上探险小队们，你们好，当你们收到这条消息时，我们正怀揣着激动的心情。因为，我们发现了可以永远解决寄生虫的方法，但是非常危险，我希望你们做好充足的准备。我们从古人那里获取到了召唤祭坛，据他们所说，你们需要大量的寄生物质，然后把他们放在祭坛上，使用肮脏的时钟敲击（shift+右击），几秒钟之后就会召唤出寄生虫始祖君魔和始祖惧魔，打败他们你就可以获得始祖图腾碎片，把始祖图腾碎片合成为始祖图腾交给我们，我们用信号放大器就可以驱逐世界上所有的寄生虫！这是我们给你们提供的一点资源，收下吧！",
+	dependencies: [
+		"dfd0eb70",
+		"fc0ec1cc",
+		"61f9ea4a",
+		"4b1e5976",
+		"5037c8cf",
+		"3312548b",
+		"3d54d7ae",
+		"798923c2",
+		"0c525e1f"
+	],
+	tasks: [{
+		uid: "247ab159",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "a78d309f",
+		type: "item",
+		item: {
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "srparasites:res"
+			}
+		},
+		count: 3
+	},
+	{
+		uid: "a2f6022f",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$30000.0"
+				},
+				value: 30000.0d
+			}
+		}
+	},
+	{
+		uid: "14045ce0",
+		type: "choice",
+		table: 1
+	}]
+}

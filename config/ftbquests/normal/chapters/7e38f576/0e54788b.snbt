@@ -1,0 +1,34 @@
+{
+	title: "数据收集：裂兽",
+	x: -8.0d,
+	y: 0.0d,
+	description: "这就是寄生虫的基本形态-裂兽吗？",
+	dependencies: [
+		"6408b9b6"
+	],
+	tasks: [{
+		uid: "401a6558",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_mudo",
+		entity: "srparasites:rupter",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "44cacea4",
+		type: "item",
+		team_reward: false,
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$15.0"
+				},
+				value: 15.0d
+			}
+		},
+		count: 2
+	}]
+}

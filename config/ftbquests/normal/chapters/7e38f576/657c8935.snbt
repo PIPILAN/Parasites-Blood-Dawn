@@ -1,0 +1,31 @@
+{
+	title: "数据收集：原始咀骨兽",
+	x: -4.5d,
+	y: 0.0d,
+	dependencies: [
+		"124eba64"
+	],
+	tasks: [{
+		uid: "51a67397",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_hull",
+		entity: "srparasites:pri_manducater",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "4291cf9d",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$1000.0"
+				},
+				value: 1000.0d
+			}
+		}
+	}]
+}

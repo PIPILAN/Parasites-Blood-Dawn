@@ -1,0 +1,1 @@
+recipes.removeByMod('mw');

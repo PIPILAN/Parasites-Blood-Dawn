@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "9011536d",
+		type: "item",
+		items: [{
+			item: "comforts:sleeping_bag"
+		}]
+	}]
+}

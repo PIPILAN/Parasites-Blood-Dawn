@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "acde5d15",
+		type: "item",
+		items: [{
+			item: "overlast:pollute_bowl_herbal"
+		}]
+	}]
+}

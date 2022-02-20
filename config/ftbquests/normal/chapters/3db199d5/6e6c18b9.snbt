@@ -1,0 +1,23 @@
+{
+	x: -2.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "edb5cc73",
+		type: "item",
+		title: "建筑手杖",
+		items: [{
+			item: "betterbuilderswands:wandstone"
+		},
+		{
+			item: "betterbuilderswands:wandiron"
+		},
+		{
+			item: "betterbuilderswands:wanddiamond"
+		},
+		{
+			item: "betterbuilderswands:wandunbreakable"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

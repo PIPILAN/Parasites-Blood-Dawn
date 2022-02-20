@@ -1,0 +1,18 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "60f108de",
+		type: "item",
+		items: [{
+			item: "movingelevators:elevator_block"
+		}]
+	},
+	{
+		uid: "9ee8f474",
+		type: "item",
+		items: [{
+			item: "movingelevators:display_block"
+		}]
+	}]
+}

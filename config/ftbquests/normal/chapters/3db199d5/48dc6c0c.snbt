@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "d360537d",
+		type: "item",
+		items: [{
+			item: "overlast:injected_potion"
+		}]
+	}]
+}

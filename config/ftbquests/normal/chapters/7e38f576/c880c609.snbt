@@ -1,0 +1,31 @@
+{
+	title: "数据收集：原始黄眸兽",
+	x: -4.5d,
+	y: 3.0d,
+	dependencies: [
+		"124eba64"
+	],
+	tasks: [{
+		uid: "0cfb73b3",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_emana",
+		entity: "srparasites:pri_yelloweye",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "385b819f",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$1000.0"
+				},
+				value: 1000.0d
+			}
+		}
+	}]
+}

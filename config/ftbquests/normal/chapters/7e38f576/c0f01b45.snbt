@@ -1,0 +1,147 @@
+{
+	title: "所需物资",
+	icon: "srparasites:itemtab",
+	x: 3.0d,
+	y: 0.0d,
+	description: "等你收集齐全这些物资我们会给你召唤祭坛。一定要做好充足的准备！！！将这些物品全部放置在召唤祭坛上，使用肮脏的时钟shift+右键敲击就可以召唤了！！！",
+	dependencies: [
+		"3d881b4b"
+	],
+	tasks: [{
+		uid: "732dc97f",
+		type: "item",
+		items: [{
+			item: "srparasites:parasiterubble 1 2"
+		}],
+		count: 64L
+	},
+	{
+		uid: "e9a3ef1d",
+		type: "item",
+		items: [{
+			item: "srparasites:parasiterubbledense 1 1"
+		}],
+		count: 64L
+	},
+	{
+		uid: "8facc5ab",
+		type: "item",
+		items: [{
+			item: "srparasites:parasitestain"
+		}],
+		count: 64L
+	},
+	{
+		uid: "f90af1c0",
+		type: "item",
+		items: [{
+			item: "srparasites:parasitethin"
+		}],
+		count: 64L
+	},
+	{
+		uid: "4e504263",
+		type: "item",
+		items: [{
+			item: "srparasites:parasitecanister 1 2"
+		}],
+		count: 16L
+	},
+	{
+		uid: "a085256c",
+		type: "item",
+		items: [{
+			item: "srparasites:parasitetrunk 1 1"
+		}],
+		count: 64L
+	},
+	{
+		uid: "176f0ab8",
+		type: "item",
+		items: [{
+			item: "srparasites:parasitetrunk 1 2"
+		}],
+		count: 64L
+	},
+	{
+		uid: "9a028b36",
+		type: "item",
+		items: [{
+			item: "srparasites:lurecomponent6"
+		}],
+		count: 16L
+	},
+	{
+		uid: "d091434e",
+		type: "item",
+		items: [{
+			item: "srparasites:ada_summoner_drop"
+		}],
+		count: 16L
+	},
+	{
+		uid: "7232ebd2",
+		type: "item",
+		items: [{
+			item: "srparasites:parasitemouth"
+		}],
+		count: 16L
+	},
+	{
+		uid: "97f01367",
+		type: "item",
+		items: [{
+			item: "srparasites:parasitestain 1 2"
+		}],
+		count: 64L
+	},
+	{
+		uid: "6de88331",
+		type: "item",
+		items: [{
+			item: "srparasites:parasiterubble 1 1"
+		}],
+		count: 64L
+	},
+	{
+		uid: "765854e0",
+		type: "item",
+		items: [{
+			item: "srparasites:parasitestain 1 1"
+		}],
+		count: 64L
+	},
+	{
+		uid: "2fc0c075",
+		type: "item",
+		items: [{
+			item: "srparasites:parasitestain 1 3"
+		}],
+		count: 64L
+	},
+	{
+		uid: "ddd0b0ab",
+		type: "item",
+		items: [{
+			item: "srparasites:biomeheart"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "cf9a260c",
+		type: "item",
+		item: {
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "srparasites:res"
+			}
+		},
+		count: 3
+	},
+	{
+		uid: "06f79d74",
+		type: "item",
+		item: "zensummoning:altar",
+		count: 8
+	}]
+}

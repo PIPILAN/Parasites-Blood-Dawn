@@ -1,0 +1,31 @@
+{
+	title: "数据收集：寄生柱",
+	x: -6.5d,
+	y: 0.0d,
+	dependencies: [
+		"0e54788b"
+	],
+	tasks: [{
+		uid: "0623e360",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_host",
+		entity: "srparasites:host",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "3b61da86",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$2400.0"
+				},
+				value: 2400.0d
+			}
+		}
+	}]
+}

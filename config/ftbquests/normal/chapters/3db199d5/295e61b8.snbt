@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "dbc31de4",
+		type: "item",
+		items: [{
+			item: "srparasites:biomepurifier"
+		}]
+	}]
+}
