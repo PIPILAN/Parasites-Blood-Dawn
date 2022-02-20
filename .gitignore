@@ -7,7 +7,7 @@
 !/resourcepacks
 !/resources
 !/scripts
-!/local/ftbutilities/
+!/local
 
 #Files
 !/.gitignore
@@ -18,3 +18,8 @@
 !/Parasite_Blood_Dawn_200x.png
 !/README.md
 !/RecordAndUpdate.md
+
+#ignore
+local/client
+local/ftbutilities/backups.json
+local/ftbutilities/players.txt
