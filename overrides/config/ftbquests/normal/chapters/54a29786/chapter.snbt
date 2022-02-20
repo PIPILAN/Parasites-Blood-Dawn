@@ -1,7 +1,0 @@
-{
-	title: "寻求地下人类帮助",
-	icon: "srparasites:evclock",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}
