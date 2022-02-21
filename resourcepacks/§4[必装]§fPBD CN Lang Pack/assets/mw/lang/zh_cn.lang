@@ -57,7 +57,7 @@ item.m79.name=§6M79-GL
 #====================弹夹====================#
 #============================================#
 # 机枪弹匣
-item.mw_M249Mag.name=§a[5.56x45mm][100发]-北约制式弹链箱 
+item.mw_M249Mag.name=§a[5.56x45mm][100发]-北约制式弹链箱
 item.mw_MG42Mag_2.name=§a[7.92x57mm][50发]-机枪弹链盒
 item.mw_DP28Mag.name=§a[7.62x54mmR][47发]-弹盘
 # 步枪弹夹
@@ -148,7 +148,7 @@ item.mw_AKMIron.name=§b[原装]标准金属瞄具
 item.mw_AR15Iron.name=§b[原装]AR提把
 item.mw_AimpointCompM5.name=§b艾姆波音特M5红点瞄准镜
 item.mw_Bipod.name=§b两脚架
-item.mw_HK416RearSights.name=§bHK-416后置机械瞄具
+item.mw_HK416FrontSight.name=§b[原装]HK-416前置机械瞄具
 item.mw_JunoGrip.name=§b折叠握把
 item.mw_KobraGen3.name=§b眼镜蛇Gen-3瞄准镜
 item.mw_LeupoldRailScope.name=§b洛伊波尔德VX-6光学瞄准镜
@@ -181,11 +181,12 @@ item.mw_Laser2.name=§bLD19206-IR战术激光
 #============================================#
 #==================深度配件==================#
 #============================================#
-item.mw_M249HandGuard.name=§dM249护木
-item.mw_M249Stock.name=§dM249枪托
-item.mw_Kar98Ksight.name=§dKar98k机械瞄具
+item.mw_M249HandGuard.name=§d[原装]M249护木
+item.mw_M249Stock.name=§d[原装]M249枪托
+item.mw_Kar98Ksight.name=§d[原装]Kar98k机械瞄具
 item.mw_Kar98Krail.name=§dKar98K导轨
-item.mw_NTW20Guard.name=§dNTW-20枪托
+item.mw_HK416RearSights.name=§b[原装]HK-416后置机械瞄具
+item.mw_NTW20Guard.name=§d[原装]NTW-20枪托
 item.mw_MIMP5MHandGuard.name=§dMI MP5护木
 item.mw_MIMP5TRRail.name=§dMI MP5 TR导轨
 item.mw_MIMP5MRail.name=§dMI MP5 M导轨

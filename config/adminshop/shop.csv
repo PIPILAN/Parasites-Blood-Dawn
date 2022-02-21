@@ -13,7 +13,7 @@ Sell Category Names:,矿产,废旧装置
 ,,,
 "#buy or sell (from player's perspective)",Item/Fluid,Price,Category Index (starting from 0)
 #buy,"adminshop:check {display: {Name: "§6管理员支票 §f$10000000.0"}, value: 10000000.0}",0,0
-#buy,"adminshop:check {display: {Lore: ["§a出票人: 先驱者联盟"], Name: "§6任务支票 §f$4000.0"}, value: 4000.0}",0,0
+#buy,"adminshop:check {display: {Lore: ["§a出票人: 先驱者联盟"], Name: "§6任务支票 §f$500.0"}, value: 500.0}",0,0
 buy,minecraft:coal,5,0
 buy,minecraft:iron_ingot,30,0
 buy,minecraft:gold_ingot,400,0
@@ -249,6 +249,7 @@ buy,mw:AKMIron,500,4
 buy,mw:AR15Iron,500,4
 buy,mw:AimpointCompM5,3000,4
 buy,mw:Bipod,500,4
+buy,mw:hk416frontsight,500,4
 buy,mw:HK416RearSights,500,4
 buy,mw:JunoGrip,500,4
 buy,mw:KobraGen3,3000,4

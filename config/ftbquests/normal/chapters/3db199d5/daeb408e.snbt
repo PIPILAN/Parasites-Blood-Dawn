@@ -1,6 +1,7 @@
 {
 	x: 2.0d,
 	y: 0.0d,
+	description: "高级的草药，可以去除寄群之患效果并给予使用者生命恢复效果。",
 	dependencies: [
 		"2e0ce27d"
 	],
@@ -10,5 +11,21 @@
 		items: [{
 			item: "overlast:bowl_herbal"
 		}]
+	}],
+	rewards: [{
+		uid: "4c8f22dd",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$1000.0"
+				},
+				value: 1000.0d
+			}
+		}
 	}]
 }

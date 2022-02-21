@@ -1,6 +1,7 @@
 {
 	x: -2.5d,
 	y: 1.0d,
+	description: "建筑之杖可以帮助你快速完成建筑，在这个紧张的时代，快速建立起自己的庇护所还是很有必要的！",
 	tasks: [{
 		uid: "edb5cc73",
 		type: "item",
@@ -19,5 +20,21 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "07889e11",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
 	}]
 }

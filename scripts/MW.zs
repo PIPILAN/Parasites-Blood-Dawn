@@ -40,20 +40,28 @@ mods.jei.JEI.addDescription(<mw:acr>,
     "可用弹匣：\n[5.56x45mm][30发]-北约制式标准弹匣\n[5.56x45mm][30发]-北约制式聚合物材料弹匣\n[5.56x45mm][50发]-标准弹鼓\n[5.56x45mm][60发]-标准弹鼓\n[5.56x45mm][100发]-标准弹鼓");
 mods.jei.JEI.addDescription(<mw:g36c>,
     "可用弹匣：\n[5.56x45mm][30发]-北约制式黑克勒&科赫弹匣\n[5.56x45mm][100发]-标准弹鼓");
-mods.jei.JEI.addDescription(<mw:aug>,
+mods.jei.JEI.addDescription(<mw:steyr_aug_a1>,
     "可用弹匣：\n[5.56x45mm][30发]-北约制式标准弹匣\n[5.56x45mm][30发]-北约制式聚合物材料弹匣\n[5.56x45mm][50发]-标准弹鼓\n[5.56x45mm][60发]-标准弹鼓\n[5.56x45mm][100发]-标准弹鼓\n[9x19mm][30发]-帕拉贝鲁姆弹匣▷需帕拉贝鲁姆套件");
-mods.jei.JEI.addDescription(<mw:111>,
-    "可用弹匣：\n");
-mods.jei.JEI.addDescription(<mw:111>,
-    "可用弹匣：\n");
-mods.jei.JEI.addDescription(<mw:111>,
-    "可用弹匣：\n");
-mods.jei.JEI.addDescription(<mw:111>,
-    "可用弹匣：\n");
-mods.jei.JEI.addDescription(<mw:111>,
-    "可用弹匣：\n");
-mods.jei.JEI.addDescription(<mw:111>,
-    "可用弹匣：\n");
+mods.jei.JEI.addDescription(<mw:vss_vintorez>,
+    "可用弹匣：\n[9x39mm][20发]-弹匣");
+mods.jei.JEI.addDescription(<mw:m1_garand>,
+    "可用弹匣：\n[.30-06]春田子弹");
+mods.jei.JEI.addDescription(<mw:springfield>,
+    "可用弹匣：\n[.30-06]春田子弹");
+mods.jei.JEI.addDescription(<mw:kar98k>,
+    "可用弹匣：\n[7.92x57mm]子弹");
+mods.jei.JEI.addDescription(<mw:as50>,
+    "可用弹匣：\n[.50 BMG][10发]-弹匣[AS50]");
+mods.jei.JEI.addDescription(<mw:m82_barrett>,
+    "可用弹匣：\n[.50 BMG][10发]-北约制式弹匣");
+mods.jei.JEI.addDescription(<mw:ntw_20>,
+    "可用弹匣：\n[20x82mm][3发]-弹匣");
+mods.jei.JEI.addDescription(<mw:m249>,
+    "可用弹匣：\n[5.56x45mm][100发]-北约制式弹链箱");
+mods.jei.JEI.addDescription(<mw:mg42>,
+    "可用弹匣：\n[7.92x57mm][50发]-机枪弹链盒");
+mods.jei.JEI.addDescription(<mw:dp28>,
+    "可用弹匣：\n[7.62x54mmR][47发]-弹盘");
 
 
 
