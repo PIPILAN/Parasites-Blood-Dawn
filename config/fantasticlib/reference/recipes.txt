@@ -981,13 +981,13 @@ betterbuilderswands:recipewanddiamond
 betterbuilderswands:recipewandunbreakable
 betterbuilderswands:wandunbreakable13
 betterbuilderswands:wandunbreakable14
+adhooks:1xitem.pudge_launcher@0
+adhooks:1xitem.web_hook@0
+adhooks:1xitem.spear_launcher@0
 adhooks:1xitem.web_launcher@0
 adhooks:1xitem.prototype_launcher@0
-adhooks:1xitem.spear_hook@0
-adhooks:1xitem.web_hook@0
-adhooks:1xitem.pudge_launcher@0
 adhooks:1xitem.pudge_hook@0
-adhooks:1xitem.spear_launcher@0
+adhooks:1xitem.spear_hook@0
 crafttweaker:ct_shaped-1656973041
 crafttweaker:ct_shaped-2062847595
 crafttweaker:ct_shaped225292850

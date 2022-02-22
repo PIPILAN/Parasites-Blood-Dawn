@@ -1,5 +1,15 @@
 recipes.removeByMod('mw');
+//临时解决办法
+<mw:m60e4>.clearTooltip();
+<mw:m60e4>.addTooltip("§6M60E4");
+<mw:m60e4>.addTooltip("§f类型: 通用机枪");
+<mw:m60e4>.addTooltip("§a伤害§f: 13");
+<mw:m60e4>.addTooltip("§a弹药§f: 7.62x51mm");
+<mw:m60e4>.addTooltip("§a开火模式§f: 半自动, 全自动");
+<mw:m60e4>.addTooltip("§a射击速度§f: 0.6");
+<mw:m60e4>.addTooltip("§a可用弹药§f: 按 §6U §f查看");
 
+//JEI支持
 mods.jei.JEI.addDescription(<mw:glock_18c>,
     "可用弹匣：\n[9x19mm][13发]-弹匣[Glock]\n[9x19mm][20发]-弹匣\n[9x19mm][50发]-弹鼓");
 mods.jei.JEI.addDescription(<mw:glock_19>,
@@ -62,6 +72,24 @@ mods.jei.JEI.addDescription(<mw:mg42>,
     "可用弹匣：\n[7.92x57mm][50发]-机枪弹链盒");
 mods.jei.JEI.addDescription(<mw:dp28>,
     "可用弹匣：\n[7.62x54mmR][47发]-弹盘");
+mods.jei.JEI.addDescription(<mw:m712>,
+    "可用弹匣：\n[7.63x25mm][20发]-毛瑟弹匣");
+mods.jei.JEI.addDescription(<mw:ump_45>,
+    "可用弹匣：\n[.45 ACP][25发]-弹匣[UMP-45]\n[9x19mm][30发]-弹匣[UMP-9]▷需UMP9机匣");
+mods.jei.JEI.addDescription(<mw:spas_12>,
+    "可用弹匣：\n12号径霰弹");
+mods.jei.JEI.addDescription(<mw:origin12>,
+    "可用弹匣：\n[12号径][5发]-弹夹\n[12号径][20发]-弹匣");
+mods.jei.JEI.addDescription(<mw:m16a1>,
+    "可用弹匣：\n[5.56x45mm][100发]-标准弹鼓\n[5.56x45mm][60发]-标准弹鼓\n[5.56x45mm][50发]-标准弹鼓\n[5.56x45mm][30发]-北约制式标准弹匣\n[5.56x45mm][30发]-北约制式聚合物材料弹");
+mods.jei.JEI.addDescription(<mw:ak15>,
+    "可用弹匣：\n[7.62x39mm][30发]-弹匣\n[7.62x39mm][30发]-聚合物材料弹匣\n[7.62x39mm][30发]-聚合物材料弹匣-棕黄色涂装\n[7.62x39mm][50发]-弹鼓\n[7.62x39mm][75发]-弹鼓\n[7.62x39mm][100发]-弹鼓");
+mods.jei.JEI.addDescription(<mw:ak101>,
+    "可用弹匣：\n[5.56x45mm][30发]]-弹匣\n[5.56x45mm][60发]-弹匣");
+mods.jei.JEI.addDescription(<mw:m60e4>,
+    "可用弹匣：\n[7.62x51mm][100发]-弹链箱");
+mods.jei.JEI.addDescription(<mw:l96a1>,
+    "可用弹匣：\n[7.62x54mm][10发]-拉普阿弹匣");
 
 
 

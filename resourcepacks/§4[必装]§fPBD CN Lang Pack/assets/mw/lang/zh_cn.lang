@@ -14,6 +14,8 @@ item.night_stick.name=§e警棍
 item.m249.name=§6M249
 item.mg42.name=§6MG-42
 item.dp28.name=§6DP-28
+
+item.m60e4.name=§6M60E4
 # 步枪
 item.m16a4.name=§6M16A4
 item.m4a1.name=§6M4A1
@@ -21,9 +23,16 @@ item.ak47.name=§6AK-47
 item.acr.name=§6ACR
 item.g36c.name=§6G36C
 item.steyr_aug_a1.name=§6AUG
+
+item.m16a1.name=§6M16A1
+item.ak15.name=§6AK-15
+item.ak101.name=§6AK-101
 # 霰弹枪
 item.m1014.name=§6M1014
 item.remington870.name=§6雷明顿870
+
+item.spas_12.name=§6SPAS-12
+item.origin12.name=§6Origin-12
 # 狙击枪
 item.vss_vintorez.name=§6VSS
 item.m1_garand.name=§6M1加兰德
@@ -32,6 +41,8 @@ item.Kar98K.name=§6Kar98K
 item.as50.name=§6AS50
 item.m82_barrett.name=§6M82巴雷特
 item.ntw_20.name=§6NTW-20
+
+item.l96a1.name=§6L96A1
 # 冲锋枪
 item.mp5a5.name=§6MP5A5
 item.mp7.name=§6MP7
@@ -41,12 +52,16 @@ item.mp40.name=§6MP-40
 item.m1928_thompson.name=§6M1928汤普森
 item.kriss_vector.name=§6Vector
 item.uzi.name=§6UZI
+
+item.ump_45.name=§6UMP45
 # 手枪
 item.glock_18c.name=§6格洛克18C
 item.glock_19.name=§6格洛克19
 item.m1911.name=§6柯尔特M1911
 item.taurus_raging_hunter.name=§6陶鲁斯狂暴猎人.44马格南
 item.desert_eagle.name=§6沙漠之鹰
+
+item.m712.name=§6M712
 
 # 重型发射器
 item.rpg7.name=§6RPG-7
@@ -60,6 +75,8 @@ item.m79.name=§6M79-GL
 item.mw_M249Mag.name=§a[5.56x45mm][100发]-北约制式弹链箱
 item.mw_MG42Mag_2.name=§a[7.92x57mm][50发]-机枪弹链盒
 item.mw_DP28Mag.name=§a[7.62x54mmR][47发]-弹盘
+
+item.mw_M60Mag.name=§a[7.62x51mm][100发]-弹链箱
 # 步枪弹夹
 item.mw_M4A1Mag_2.name=§a[5.56x45mm][30发]-北约制式标准弹匣
 item.mw_M38Mag_2.name=§a[5.56x45mm][30发]-北约制式聚合物材料弹匣
@@ -74,11 +91,15 @@ item.mw_AK47PMAGTan.name=§a[7.62x39mm][30发]-聚合物材料弹匣-棕黄色�
 item.mw_AK50Mag.name=§a[7.62x39mm][50发]-弹鼓
 item.mw_AK75Mag.name=§a[7.62x39mm][75发]-弹鼓
 item.mw_AUG9mmMag.name=§a[9x19mm][30发]-帕拉贝鲁姆弹匣
+
+item.mw_AK101Mag_2.name=§a[5.56x45mm][30发]]-弹匣
+item.mw_AK60Mag.name=§a[5.56x45mm][60发]-弹匣
 # 狙击枪弹夹
 item.mw_VSSVintorezMag_2.name=§a[9x39mm][20发]-弹匣
 item.mw_AS50Mag_2.name=§a[.50 BMG][10发]-弹匣[AS50]
 item.mw_M82Mag_2.name=§a[.50 BMG][10发]-北约制式弹匣
 item.mw_NTW20Mag.name=§a[20x82mm][3发]-弹匣
+item.mw_L96A1Mag_2.name=§a[7.62x54mm][10发]-拉普阿弹匣
 # 冲锋枪弹夹
 item.mw_P90Mag.name=§a[5.7x28mm][50发]-弹匣
 item.mw_MP5A5Mag.name=§a[9x19mm][30发]-黑克勒&科赫弹匣
@@ -91,6 +112,9 @@ item.mw_M1928Mag.name=§a[.45 ACP][50发]-弹匣[M1928]
 item.mw_M1A1Mag.name=§a[.45 ACP][30发]-弹匣[M1A1]
 item.mw_VectorMag.name=§a[.45 ACP][25发]-弹匣[Vector]
 item.mw_UziMag_2.name=§a[9x19mm][32发]-弹匣
+
+item.mw_UMP45Mag.name=§a[.45 ACP][25发]-弹匣[UMP-45]
+item.mw_UMP9Mag.name=§a[9x19mm][30发]-弹匣[UMP-9]
 # 手枪弹夹
 item.mw_GlockMag13.name=§a[9x19mm][13发]-弹匣[Glock]
 item.mw_Glock18Cmag_2.name=§a[9x19mm][20发]-弹匣
@@ -100,7 +124,12 @@ item.mw_M1911_44Mag.name=§a[.44][7发]-弹匣[M1911]
 item.mw_M45A1Mag_2.name=§a[.45 ACP][7发]-弹匣
 item.mw_M45A1Mag14.name=§a[.45 ACP][14发]-弹匣
 item.mw_DesertEagleMag.name=§a[.50 AE][7发]-弹匣
+#霰弹弹夹
+item.mw_Origin12Mag.name=§a[12号径][5发]-弹夹
+item.mw_Origin12DrumMag.name=§a[12号径][20发]-弹匣
 
+
+item.mw_M712mag_2.name=§a[7.63x25mm][20发]-毛瑟弹匣
 # 重型弹药
 item.mw_rpg7_rocket.name=§aRPG-7火箭弹
 item.mw_Grenade40mm.name=§a[40mm]-榴弹
@@ -124,6 +153,7 @@ item.mw_Bullet45ACP.name=§4[.45 ACP]子弹
 item.mw_Bullet762x39.name=§4[7.62x39mm]子弹
 item.mw_Bullet50AE.name=§4[.50 AE]子弹
 item.mw_Shotgun12Gauge.name=§412号径霰弹
+item.mw_Bullet762x51.name=§4[7.62x51mm]子弹
 
 
 #============================================#
@@ -299,6 +329,19 @@ item.mw_AR57Handguard.name=§dAR-57护木[M4]
 item.mw_AK15HandleGuard.name=§d[原装]AK-15护木
 item.mw_AK15DustCover.name=§d[原装]AK-15防尘护罩
 item.mw_AK15ironsight.name=§d[原装]AK-15 机械照门
+item.mw_UMP45Receiver.name=§d[原装]UMP45机匣
+item.mw_UMP9Receiver.name=§dUMP9机匣
+item.mw_UMP45Stock.name=§d[原装]UMP45枪托
+item.mw_Origin12Handguard.name=§d[原装]Origin-12护手
+item.mw_HKS20Handguard.name=§dOrigin-12护手[HKS-20]
+item.mw_Origin12Grip.name=§d§d[原装]Origin-12握把
+item.mw_HKS20Grip.name=§dOrigin-12握把[HKS-20]
+item.mw_Origin12Stock.name=§d§d[原装]Origin-12枪托
+item.mw_HKS20Stock.name=§dOrigin-12枪托[HKS-20]
+item.mw_M60HandGuard.name=§d[原装]M60护手
+item.mw_M60E4Guard.name=§dM60E4护手
+item.mw_M60FrontSight.name=§d[原装]M60E4机械准星
+item.mw_M60Rail.name=§dM60导轨
 
 
 #============================================#
@@ -469,7 +512,6 @@ item.m40a6.name=M40A6
 item.m110_sass.name=M110 SASS
 item.ks23.name=KS-23
 item.m500a2.name=M500A2
-item.ak15.name=AK-15
 item.m38_dmr.name=M27 IAR
 item.sr3_vikhr.name=SR-3 “旋风”
 item.kbp_9a91.name=KBP 9A-91
@@ -477,15 +519,12 @@ item.colt_m45a1.name=Colt M45A1
 item.m9a1.name=M9A1 Beretta
 item.mp_443.name=MP-443 “乌鸦”
 item.p10.name=P10
-item.ak101.name=AK-101
 item.stg44.name=StG-44
 item.mk14_ebr.name=M14 DMR
 item.aps.name=APS
 item.Krag_Jorgensen.name=Krag-Jorgensen
-item.m712.name=M712
 item.frommer_stop.name=Frommer Stop
 item.aac_honey_badger.name=AAC “蜜獾”
-item.l96a1.name=L96A1
 item.saiga12.name=Saiga-12
 item.scar_l.name=Mk16 SCAR-L
 item.scar_h_cqc.name=Mk17 CQC SCAR-H
@@ -525,17 +564,13 @@ item.ak103_bullpup.name=AK-103 Bullpup
 item.sl8.name=HK SL8
 item.dl44.name=DL-44
 item.mw_KedrMag_2.name=9x19mm 20发弹匣 | PP-91 Kedr用
-item.mw_AK101Mag_2.name=5.56x45mm 30发弹匣
-item.mw_AK60Mag.name=5.56x45mm 60发弹匣
 item.mw_M9Mag_2.name=9x19mm 15发弹匣
 item.mw_M9DrumMag.name=9x19mm 65发弹鼓
 item.mw_APSMag_2.name=9x19mm 20发弹匣 | APS用
 item.mw_FrommerStopMag.name=.380 ACP 8发弹匣
 item.mw_KBP9A91Mag_2.name=9x39mm 20发KBP弹匣
-item.mw_L96A1Mag_2.name=7.62x54mm 10发LAPUA弹匣
 item.mw_M110Mag_2.name=7.62x51mm 10发北约制式弹匣
 item.mw_M40A6Mag_2.name=.308 Winchester 7发弹匣
-item.mw_M712mag_2.name=7.63x25mm 20发毛瑟弹匣
 item.mw_Mk14EBRmag_2.name=7.62x51mm 20发北约制式弹匣 | Mk14 EBR用
 item.mw_M14Drum50.name=7.62x51mm 50发北约制式弹鼓 | Mk14 EBR用
 item.mw_MP443Mag_2.name=9x19mm 18发弹匣 | MP443用
@@ -548,7 +583,6 @@ item.mw_SV98Mag_2.name=7.62x54mm 10发Izhmash弹匣
 item.mw_VP70mag_2.name=9x19mm 18发弹匣
 item.mw_HoneyBadgerMag_2.name=.300 AAC Blackout 30发弹匣 | AAC “蜜獾”用
 item.mw_Bullet9x18mm.name=9x18mm 子弹
-item.mw_Bullet762x51.name=7.62x51mm 子弹
 item.mw_Bullet308Winchester.name=.308 Winchester 子弹
 item.mw_Shotgun4G.name=4 Gauge 霰弹
 item.mw_Bullet792x33Kurz.name=7.92x33mm Kurz 子弹
@@ -562,7 +596,6 @@ item.mw_Bullet4440.name=44-40 Winchester 子弹
 item.mw_M67Frag.name=M67 破片手雷
 item.mw_ImpactGrenade.name=冲击手雷
 item.mw_M18White.name=M18 白色烟雾弹
-item.mw_ShotgunShell.name=12 Gauge 霰弹
 item.mw_Vortex_sight.name=Vortex UH-1 全息瞄具
 item.mw_Leupold.name=刘坡尔德光学瞄准镜
 item.mw_Silencer357.name=.357 消音器
@@ -754,20 +787,17 @@ item.makarov_pm.name=Makarov PM
 item.asiimov_m4a1.name=M4A4 | 二西莫夫
 item.mp7_black_ice.name=HK MP7 | 墨冰
 item.akm_vulcan.name=AKM | 火神
-item.origin12.name=Origin-12
 item.osipr.name=OSIPR
 item.fnfal.name=FN FAL
-item.m16a1.name=M16A1
 item.k2c1.name=K2C1
 item.ar10_super_sass.name=AR-10 Super SASS
-item.ump45.name=HK UMP-45
 item.m200_intervention.name=M200 “干预”
 item.scorpion_evo3_a1.name=“蝎”式 EVO3 A1
 item.sig_mpx.name=SIG MPX
 item.mp7a1.name=HK MP7A1
 item.hk_p12.name=HK P12
 item.hk_g95.name=HK G95
-item.m17.name=M17 
+item.m17.name=M17
 item.socom_m4a1.name=SOCOM M4A1
 item.g43_gewehr.name=Gewehr 43
 item.hs12.name=HS-12
@@ -783,8 +813,6 @@ item.browning_auto_5.name=Browning Auto-5
 item.bren_mkii.name=Bren MkII
 item.browning_hi_power.name=Browning Hi-Power
 item.mg34.name=MG-34
-item.m60e4.name=M60E4
-item.spas_12.name=SPAS-12
 item.m32_mgl.name=M32 MGL
 item.m134.name=M134
 item.quad_barrel_shotgun.name=四管猎枪
@@ -808,7 +836,6 @@ item.mw_stonermag.name=5.56x45mm 100发弹链箱
 item.mw_HiPowerMag.name=9x19mm 13发弹匣
 item.mw_BrenMag.name=7.62x51mm 30发Bren弹匣
 item.mw_FuelCell.name=电锯用燃油仓
-item.mw_M60Mag.name=7.62x51mm 100发弹链箱
 item.mw_M134Mag.name=7.62x51mm 1000发弹链箱
 item.sa80.name=SA80
 item.l131a1.name=L131A1
@@ -848,17 +875,13 @@ item.mw_Bullet500.name=.500 Magnum 子弹
 item.mw_Bullet765x21.name=7.65x21mm 子弹
 item.mw_ScorpionMag.name=9x19mm 30发弹匣 | “蝎”式 EVO3 A1用
 item.mw_InterventionMag.name=.408 7发弹匣 | M200 “干预”用
-item.mw_UMP9Mag.name=9x19mm 30发弹匣 | UMP-9用
-item.mw_UMP45Mag.name=.45 ACP 25发弹匣 | UMP-45用
 item.mw_MakarovMag.name=9x18 8发弹匣 | Makarov PM用
 item.mw_L131A1Mag.name=9x19mm 17发弹匣 | L131A1用
 item.mw_P2022Mag.name=9x19mm 15发弹匣 | SIG P2022用
 item.mw_M17Mag.name=9x19mm 17发弹匣 | M17用
-item.mw_USP45Mag.name=.45 ACP 8发弹匣 | UMP-45用
 item.mw_SamuraiEdgeMag.name=.40 15发弹匣 | S&W “武士之刃”用
 item.mw_g43_gewehr_mag.name=7.92x57mm 10发弹匣 | Gewehr 43用
 item.mw_DanWessonLaser.name=D&W 激光
 
-item.mw_M60FrontSight.name=M60E4 机械准星
 item.quad_barrel_shotgun=四管霰弹枪
 item.chiappa_triple_crown=Chiappa “三重冠”
