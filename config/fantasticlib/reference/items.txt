@@ -1566,6 +1566,8 @@ adminshop:shop
 adminshop:seller
 adminshop:atm
 adminshop:buyer
+ancientwarfare:engineering_station
+ancientwarfare:research_station
 ancientwarfare:info_tool
 ancientwarfare:research_book
 ancientwarfare:research_note
@@ -1583,8 +1585,7 @@ ancientwarfare:diamond_hammer
 ancientwarfare:manual
 ancientwarfare:component
 ancientwarfare:steel_ingot
-ancientwarfare:engineering_station
-ancientwarfare:research_station
+ancientwarfareautomation:worksite_upgrade
 ancientwarfareautomation:quarry
 ancientwarfareautomation:tree_farm
 ancientwarfareautomation:crop_farm
@@ -1611,7 +1612,7 @@ ancientwarfareautomation:windmill_blade
 ancientwarfareautomation:windmill_generator
 ancientwarfareautomation:chunk_loader_simple
 ancientwarfareautomation:chunk_loader_deluxe
-ancientwarfareautomation:worksite_upgrade
+ancientwarfarenpc:town_hall
 ancientwarfarenpc:wooden_command_baton
 ancientwarfarenpc:stone_command_baton
 ancientwarfarenpc:iron_command_baton
@@ -1670,7 +1671,6 @@ ancientwarfarenpc:iron_cleaver
 ancientwarfarenpc:golden_cleaver
 ancientwarfarenpc:diamond_cleaver
 ancientwarfarenpc:obsidian_spear
-ancientwarfarenpc:town_hall
 ancientwarfarestructure:advanced_spawner
 ancientwarfarestructure:gate_proxy
 ancientwarfarestructure:drafting_station
