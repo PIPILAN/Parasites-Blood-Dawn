@@ -1,14 +1,23 @@
 import crafttweaker.item.IItemStack;
 
-<backstab:wood_dagger>.maxDamage = 600;
-<backstab:stone_dagger>.maxDamage = 1000;
-<backstab:iron_dagger>.maxDamage = 1500;
-<backstab:gold_dagger>.maxDamage = 500;
-<backstab:diamond_dagger>.maxDamage = 3000;
+val maxDamageItem as int[IItemStack] = {
+    <backstab:wood_dagger> : 600,
+    <backstab:stone_dagger> : 1000,
+    <backstab:iron_dagger> : 1500,
+    <backstab:gold_dagger> : 500,
+    <backstab:diamond_dagger> : 3000
+};
 
+for item, damage in maxDamageItem {
+    item.maxDamage = damage;
+}
 
-recipes.remove(<backstab:wood_dagger:0>);
-recipes.remove(<backstab:stone_dagger:0>);
-recipes.remove(<backstab:iron_dagger:0>);
-recipes.remove(<backstab:gold_dagger:0>);
-recipes.remove(<backstab:diamond_dagger:0>);
+val items as IItemStack[] = [
+    <backstab:wood_dagger:0>, <backstab:stone_dagger:0>,
+    <backstab:iron_dagger:0>, <backstab:gold_dagger:0>,
+    <backstab:diamond_dagger:0>
+];
+
+for item in items {
+    recipes.remove(item);
+}
