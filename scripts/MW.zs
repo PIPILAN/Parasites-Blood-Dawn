@@ -1,4 +1,7 @@
+import mods.jei.JEI;
+
 recipes.removeByMod('mw');
+
 //临时解决办法
 <mw:m60e4>.clearTooltip();
 <mw:m60e4>.addTooltip("§6M60E4");
@@ -10,87 +13,83 @@ recipes.removeByMod('mw');
 <mw:m60e4>.addTooltip("§a可用弹药§f: 按 §6U §f查看");
 
 //JEI支持
-mods.jei.JEI.addDescription(<mw:glock_18c>,
+JEI.addDescription(<mw:glock_18c>,
     "可用弹匣：\n[9x19mm][13发]-弹匣[Glock]\n[9x19mm][20发]-弹匣\n[9x19mm][50发]-弹鼓");
-mods.jei.JEI.addDescription(<mw:glock_19>,
+JEI.addDescription(<mw:glock_19>,
     "可用弹匣：\n[9x19mm][13发]-弹匣[Glock]\n[9x19mm][20发]-弹匣\n[9x19mm][30发]-弹匣\n[9x19mm][50发]-弹鼓");
-mods.jei.JEI.addDescription(<mw:m1911>,
+JEI.addDescription(<mw:m1911>,
     "可用弹匣：\n[.45 ACP][7发]-弹匣\n[.45 ACP][14发]-弹匣\n[.44][7发]-弹匣[M1911]▷需.44马格南套件");
-mods.jei.JEI.addDescription(<mw:taurus_raging_hunter>,
+JEI.addDescription(<mw:taurus_raging_hunter>,
     "可用弹匣：\n[.44]马格南子弹");
-mods.jei.JEI.addDescription(<mw:desert_eagle>,
+JEI.addDescription(<mw:desert_eagle>,
     "可用弹匣：\n[.50 AE][7发]-弹匣");
-mods.jei.JEI.addDescription(<mw:mp5a5>,
+JEI.addDescription(<mw:mp5a5>,
     "可用弹匣：\n[9x19mm][30发]-黑克勒&科赫弹匣\n[9x19mm][50发]-黑克勒&科赫弹鼓");
-mods.jei.JEI.addDescription(<mw:mp7>,
+JEI.addDescription(<mw:mp7>,
     "可用弹匣：\n[4.6x30mm][40发]-弹匣");
-mods.jei.JEI.addDescription(<mw:p90>,
+JEI.addDescription(<mw:p90>,
     "可用弹匣：\n[5.7x28mm][50发]-弹匣\n[5.7x28mm][65发]-终结者弹匣▷需终结者转换套件");
-mods.jei.JEI.addDescription(<mw:mac10>,
+JEI.addDescription(<mw:mac10>,
     "可用弹匣：\n[.45 ACP][30发]-弹匣");
-mods.jei.JEI.addDescription(<mw:mp40>,
+JEI.addDescription(<mw:mp40>,
     "可用弹匣：\n[9x19mm][32发]-弹匣[MP40]");
-mods.jei.JEI.addDescription(<mw:m1928_thompson>,
+JEI.addDescription(<mw:m1928_thompson>,
     "可用弹匣：\n[.45 ACP][50发]-弹匣[M1928]\n[.45 ACP][30发]-弹匣[M1A1]");
-mods.jei.JEI.addDescription(<mw:kriss_vector>,
+JEI.addDescription(<mw:kriss_vector>,
     "可用弹匣：\n[.45 ACP][25发]-弹匣[Vector]\n▷以下弹夹均需Vector 5.56x45mm 北约制式护手\n[5.56x45mm][100发]-标准弹鼓\n[5.56x45mm][60发]-标准弹鼓\n[5.56x45mm][50发]-标准弹鼓\n[5.56x45mm][30发]-北约制式标准弹匣\n[5.56x45mm][30发]-北约制式聚合物材料弹");
-mods.jei.JEI.addDescription(<mw:uzi>,
+JEI.addDescription(<mw:uzi>,
     "可用弹匣：\n[9x19mm][32发]-弹匣");
-mods.jei.JEI.addDescription(<mw:m1014>,
+JEI.addDescription(<mw:m1014>,
     "可用弹匣：\n12号径霰弹");
-mods.jei.JEI.addDescription(<mw:remington870>,
+JEI.addDescription(<mw:remington870>,
     "可用弹匣：\n12号径霰弹");
-mods.jei.JEI.addDescription(<mw:m16a4>,
+JEI.addDescription(<mw:m16a4>,
     "可用弹匣：\n[5.56x45mm][100发]-标准弹鼓\n[5.56x45mm][60发]-标准弹鼓\n[5.56x45mm][50发]-标准弹鼓\n[5.56x45mm][30发]-北约制式标准弹匣\n[5.56x45mm][30发]-北约制式聚合物材料弹");
-mods.jei.JEI.addDescription(<mw:m4a1>,
+JEI.addDescription(<mw:m4a1>,
     "可用弹匣：\n[5.56x45mm][100发]-标准弹鼓\n[5.56x45mm][60发]-标准弹鼓\n[5.56x45mm][50发]-标准弹鼓\n[5.56x45mm][30发]-北约制式标准弹匣\n[5.56x45mm][30发]-北约制式聚合物材料弹\n[5.7x28mm][50发]-弹匣▷需AR-57套件");
-mods.jei.JEI.addDescription(<mw:ak47>,
+JEI.addDescription(<mw:ak47>,
     "可用弹匣：\n[7.62x39mm][30发]-弹匣\n[7.62x39mm][30发]-聚合物材料弹匣\n[7.62x39mm][30发]-聚合物材料弹匣-棕黄色涂装\n[7.62x39mm][50发]-弹鼓\n[7.62x39mm][75发]-弹鼓\n[7.62x39mm][100发]-弹鼓");
-mods.jei.JEI.addDescription(<mw:acr>,
+JEI.addDescription(<mw:acr>,
     "可用弹匣：\n[5.56x45mm][30发]-北约制式标准弹匣\n[5.56x45mm][30发]-北约制式聚合物材料弹匣\n[5.56x45mm][50发]-标准弹鼓\n[5.56x45mm][60发]-标准弹鼓\n[5.56x45mm][100发]-标准弹鼓");
-mods.jei.JEI.addDescription(<mw:g36c>,
+JEI.addDescription(<mw:g36c>,
     "可用弹匣：\n[5.56x45mm][30发]-北约制式黑克勒&科赫弹匣\n[5.56x45mm][100发]-标准弹鼓");
-mods.jei.JEI.addDescription(<mw:steyr_aug_a1>,
+JEI.addDescription(<mw:steyr_aug_a1>,
     "可用弹匣：\n[5.56x45mm][30发]-北约制式标准弹匣\n[5.56x45mm][30发]-北约制式聚合物材料弹匣\n[5.56x45mm][50发]-标准弹鼓\n[5.56x45mm][60发]-标准弹鼓\n[5.56x45mm][100发]-标准弹鼓\n[9x19mm][30发]-帕拉贝鲁姆弹匣▷需帕拉贝鲁姆套件");
-mods.jei.JEI.addDescription(<mw:vss_vintorez>,
+JEI.addDescription(<mw:vss_vintorez>,
     "可用弹匣：\n[9x39mm][20发]-弹匣");
-mods.jei.JEI.addDescription(<mw:m1_garand>,
+JEI.addDescription(<mw:m1_garand>,
     "可用弹匣：\n[.30-06]春田子弹");
-mods.jei.JEI.addDescription(<mw:springfield>,
+JEI.addDescription(<mw:springfield>,
     "可用弹匣：\n[.30-06]春田子弹");
-mods.jei.JEI.addDescription(<mw:kar98k>,
+JEI.addDescription(<mw:kar98k>,
     "可用弹匣：\n[7.92x57mm]子弹");
-mods.jei.JEI.addDescription(<mw:as50>,
+JEI.addDescription(<mw:as50>,
     "可用弹匣：\n[.50 BMG][10发]-弹匣[AS50]");
-mods.jei.JEI.addDescription(<mw:m82_barrett>,
+JEI.addDescription(<mw:m82_barrett>,
     "可用弹匣：\n[.50 BMG][10发]-北约制式弹匣");
-mods.jei.JEI.addDescription(<mw:ntw_20>,
+JEI.addDescription(<mw:ntw_20>,
     "可用弹匣：\n[20x82mm][3发]-弹匣");
-mods.jei.JEI.addDescription(<mw:m249>,
+JEI.addDescription(<mw:m249>,
     "可用弹匣：\n[5.56x45mm][100发]-北约制式弹链箱");
-mods.jei.JEI.addDescription(<mw:mg42>,
+JEI.addDescription(<mw:mg42>,
     "可用弹匣：\n[7.92x57mm][50发]-机枪弹链盒");
-mods.jei.JEI.addDescription(<mw:dp28>,
+JEI.addDescription(<mw:dp28>,
     "可用弹匣：\n[7.62x54mmR][47发]-弹盘");
-mods.jei.JEI.addDescription(<mw:m712>,
+JEI.addDescription(<mw:m712>,
     "可用弹匣：\n[7.63x25mm][20发]-毛瑟弹匣");
-mods.jei.JEI.addDescription(<mw:ump_45>,
+JEI.addDescription(<mw:ump_45>,
     "可用弹匣：\n[.45 ACP][25发]-弹匣[UMP-45]\n[9x19mm][30发]-弹匣[UMP-9]▷需UMP9机匣");
-mods.jei.JEI.addDescription(<mw:spas_12>,
+JEI.addDescription(<mw:spas_12>,
     "可用弹匣：\n12号径霰弹");
-mods.jei.JEI.addDescription(<mw:origin12>,
+JEI.addDescription(<mw:origin12>,
     "可用弹匣：\n[12号径][5发]-弹夹\n[12号径][20发]-弹匣");
-mods.jei.JEI.addDescription(<mw:m16a1>,
+JEI.addDescription(<mw:m16a1>,
     "可用弹匣：\n[5.56x45mm][100发]-标准弹鼓\n[5.56x45mm][60发]-标准弹鼓\n[5.56x45mm][50发]-标准弹鼓\n[5.56x45mm][30发]-北约制式标准弹匣\n[5.56x45mm][30发]-北约制式聚合物材料弹");
-mods.jei.JEI.addDescription(<mw:ak15>,
+JEI.addDescription(<mw:ak15>,
     "可用弹匣：\n[7.62x39mm][30发]-弹匣\n[7.62x39mm][30发]-聚合物材料弹匣\n[7.62x39mm][30发]-聚合物材料弹匣-棕黄色涂装\n[7.62x39mm][50发]-弹鼓\n[7.62x39mm][75发]-弹鼓\n[7.62x39mm][100发]-弹鼓");
-mods.jei.JEI.addDescription(<mw:ak101>,
+JEI.addDescription(<mw:ak101>,
     "可用弹匣：\n[5.56x45mm][30发]]-弹匣\n[5.56x45mm][60发]-弹匣");
-mods.jei.JEI.addDescription(<mw:m60e4>,
+JEI.addDescription(<mw:m60e4>,
     "可用弹匣：\n[7.62x51mm][100发]-弹链箱");
-mods.jei.JEI.addDescription(<mw:l96a1>,
+JEI.addDescription(<mw:l96a1>,
     "可用弹匣：\n[7.62x54mm][10发]-拉普阿弹匣");
-
-
-
-
