@@ -1,12 +1,12 @@
 {
-	x: -11.0d,
-	y: 0.0d,
+	x: 0.0d,
+	y: 1.0d,
 	description: "先驱者联盟将我们送到地表是希望我们能拯救人类，我们可不能松懈啊！行动资金居然只有也只有这么点...",
 	tasks: [{
 		uid: "35610106",
 		type: "dimension",
 		title: "抵达地表",
-		icon: "minecraft:stone",
+		icon: "minecraft:grass",
 		dim: 0
 	}],
 	rewards: [{

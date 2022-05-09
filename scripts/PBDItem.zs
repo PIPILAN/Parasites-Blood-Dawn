@@ -15,4 +15,6 @@ recipes.addShapeless(<contenttweaker:pbd_ancestortotem>,[<contenttweaker:pbd_anc
 <contenttweaker:pbd_ancestortotempart1>.addTooltip("寄生虫族始祖图腾碎片之一，据说完整的图腾碎片可以统治寄生虫族");
 <contenttweaker:pbd_ancestortotempart2>.addTooltip("寄生虫族始祖图腾碎片之一，据说完整的图腾碎片可以统治寄生虫族");
 <contenttweaker:pbd_craftsmansbag>.addTooltip("工匠包可以拆解部分装备和武器，回收原材料");
-<contenttweaker:pbd_controller>.addTooltip("先驱者联盟制作的终极武器控制器，他们说，只要按下去，世界就可以恢复如初");
+<contenttweaker:pbd_controller>.addTooltip("先驱者联盟制作的终极武器控制器");
+<contenttweaker:pbd_controller>.addTooltip("他们说，只要按下去，世界就可以恢复如初");
+<contenttweaker:pbd_controller>.addTooltip("人类最后的希望");

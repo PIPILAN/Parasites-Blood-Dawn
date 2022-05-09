@@ -5,7 +5,7 @@
 	tasks: [{
 		uid: "e7a1b0bf",
 		type: "kill",
-		icon: "srparasites:bow_core",
+		icon: "srparasites:itemmobspawner_ganro",
 		entity: "srparasites:warden",
 		value: 1L
 	}],

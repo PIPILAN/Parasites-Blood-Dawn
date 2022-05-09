@@ -1275,6 +1275,8 @@ vehicle:mini_bus_engine_mono
 vehicle:mini_bus_engine_stereo
 vehicle:dirt_bike_engine_mono
 vehicle:dirt_bike_engine_stereo
+playerrevive:death
+playerrevive:revived
 srparasites:infectedhuman.death
 srparasites:infectedhuman.growl
 srparasites:infectedhuman.hurt
@@ -1338,6 +1340,9 @@ srparasites:mudo.cloud
 srparasites:ganro.death
 srparasites:ganro.growl
 srparasites:ganro.hurt
+srparasites:esor.death
+srparasites:esor.growl
+srparasites:esor.hurt
 srparasites:alafha.death
 srparasites:alafha.growl
 srparasites:alafha.hurt
@@ -1388,6 +1393,10 @@ srparasites:mob.explotion
 srparasites:alafha.shooting
 srparasites:alafha.shootingpost
 srparasites:mob.silence
+srparasites:scent.wave
+srparasites:mob.swipe
+srparasites:mob.hitground
+srparasites:mob.tendril
 srparasites:evolution.phaseone
 srparasites:evolution.phasetwo
 srparasites:evolution.phasethree
@@ -1400,8 +1409,6 @@ srparasites:blockinfest.place
 srparasites:blockinfest.break
 srparasites:blockinfest.step
 srparasites:blockinfest.hit
-playerrevive:death
-playerrevive:revived
 ancientwarfarestructure:auto_load/test_drums
 mw:hurt
 mw:zombie_ambient

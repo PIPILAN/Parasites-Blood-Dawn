@@ -154,6 +154,7 @@ srparasites:sim_adventurer
 srparasites:sim_horse
 srparasites:sim_bear
 srparasites:sim_enderman
+srparasites:sim_dragone
 srparasites:sim_sheephead
 srparasites:sim_wolfhead
 srparasites:sim_cowhead
@@ -163,7 +164,6 @@ srparasites:sim_horsehead
 srparasites:sim_humanhead
 srparasites:incompleteform_small
 srparasites:incompleteform_medium
-srparasites:host
 srparasites:carrier_heavy
 srparasites:buglin
 srparasites:carrier_flying
@@ -176,6 +176,9 @@ srparasites:beckon_siii
 srparasites:beckon_siv
 srparasites:kyphosis
 srparasites:sentry
+srparasites:host
+srparasites:heed
+srparasites:crux
 srparasites:pri_longarms
 srparasites:pri_manducater
 srparasites:pri_reeker
@@ -183,6 +186,7 @@ srparasites:pri_yelloweye
 srparasites:pri_summoner
 srparasites:pri_bolster
 srparasites:pri_arachnida
+srparasites:pri_devourer
 srparasites:ada_longarms
 srparasites:ada_manducater
 srparasites:ada_reeker
@@ -208,10 +212,13 @@ srparasites:ancientball
 srparasites:homming
 srparasites:antiinfestedblock
 srparasites:biomassball
+srparasites:missile
 srparasites:bomb
+srparasites:cloudtoxic
 srparasites:biomass
 srparasites:gore
 srparasites:tendril
+srparasites:scent
 rewired:rail_rider
 rewired:cyberskeleton
 gravestone:player_ghost

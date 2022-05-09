@@ -45,7 +45,7 @@ buy,mw:glock_19,3499,1
 buy,mw:m1911,3562,1
 buy,mw:taurus_raging_hunter,4212,1
 buy,mw:desert_eagle,4299,1
-buy,mw:m712,100000,1
+buy,mw:m712,3530,1
 # ³å·æÇ¹ #
 buy,mw:mp5a5,6049,1
 buy,mw:mp7,5887,1
@@ -120,6 +120,9 @@ buy,mw:M45A1Mag_2,22,2
 buy,mw:M45A1Mag14,34,2
 buy,mw:DesertEagleMag,29,2
 buy,mw:M712mag_2,40,2
+# ö±µ¯µ¯Ï»
+buy,mw:origin12mag,27.5,2
+buy,mw:origin12drummag,70,2
 # ÖØÐÍµ¯Ò©
 buy,mw:rpg7_rocket,300,2
 buy,mw:Grenade40mm,300,2
@@ -390,7 +393,12 @@ buy,mw:Remington870SawedGrip,500,5
 buy,mw:Remington870Barrel,500,5
 buy,mw:Remington870PoliceMagnumBarrel,500,5
 buy,mw:Remington870SawedBarrel,500,5
-buy,mw:fabdefensemount>,500,5
+buy,mw:origin12handguard,500,5
+buy,mw:hks20handguard,500,5
+buy,mw:origin12grip,500,5
+buy,mw:hks20grip,500,5
+buy,mw:origin12stock,500,5
+buy,mw:fabdefensemount,500,5
 buy,mw:Glock18Cstock,500,5
 buy,mw:Glock19Body,500,5
 buy,mw:Glock19XBody,500,5

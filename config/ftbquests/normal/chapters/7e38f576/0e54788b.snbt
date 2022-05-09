@@ -3,9 +3,6 @@
 	x: -8.0d,
 	y: 0.0d,
 	description: "这就是寄生虫的基本形态-裂兽吗？",
-	dependencies: [
-		"6408b9b6"
-	],
 	tasks: [{
 		uid: "401a6558",
 		type: "kill",

@@ -1,0 +1,13 @@
+{
+	title: "悬赏说明",
+	icon: "minecraft:writable_book",
+	x: 1.5d,
+	y: 1.0d,
+	text: [
+		"因为模组之间的配合问题，目前的悬赏无法根据演化进度生成任务，所以现在的任务完成难度非常非常高，以后我会想个办法解决此问题，目前只能这样。"
+	],
+	tasks: [{
+		uid: "3df574f8",
+		type: "checkmark"
+	}]
+}

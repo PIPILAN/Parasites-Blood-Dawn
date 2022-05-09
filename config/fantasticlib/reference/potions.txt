@@ -38,6 +38,14 @@ srparasites:corrosive
 srparasites:viral
 srparasites:rage
 srparasites:repel
+srparasites:senses
+srparasites:prey
+overlast:heat_radiation
+overlast:frosty
+overlast:hypothermia
+overlast:over_heating
 overlast:parasites_purify
 overlast:parasites_infect
+overlast:cool
 overlast:fortunate
+overlast:evil

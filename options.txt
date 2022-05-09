@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:0
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -88,6 +88,7 @@ key_key.hotbar.9:10
 key_of.key.zoom:46
 key_Reload Menu | CTRL + ALT + :26
 key_Toggle Customization Overlay | CTRL + ALT + :27
+key_keybind.baublesinventory:0
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:0
@@ -115,7 +116,7 @@ key_key.proning:44
 key_key.attach_laser:54
 key_key.sight:52
 key_key.custom_inventory:21
-key_neat.keybind.toggle:0
+key_neat.keybind.toggle:76
 key_key.switchhud:51
 key_walljump.key.walljump:42
 key_smoothfont.key.guiOpen:199
@@ -175,6 +176,10 @@ key_key.i18nmod.mcmod_key.desc:0
 key_key.i18nmod.reload_key.desc:0
 key_key.toggleLiquids:51
 key_key.toggleVisible:39
+key_key.toolbelt.open:-97
+key_key.toolbelt.cycle.left:0
+key_key.toolbelt.cycle.right:0
+key_key.toolbelt.slot:47
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:26

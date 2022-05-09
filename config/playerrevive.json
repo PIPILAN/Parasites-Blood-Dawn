@@ -1,7 +1,7 @@
 {
   "playerReviveTime": 100,
   "playerReviveSurviveTime": 1200,
-  "playerHealthAfter": 2,
+  "playerHealthAfter": 4,
   "playerFoodAfter": 6,
   "banPlayerAfterDeath": false,
   "exhaustion": 0.5,

@@ -1,0 +1,7 @@
+{
+	title: "【重要】基础设定与百科全书",
+	icon: "minecraft:writable_book",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

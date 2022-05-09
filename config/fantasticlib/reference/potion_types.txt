@@ -45,6 +45,13 @@ srparasites:corro
 srparasites:vira
 srparasites:rage
 srparasites:repel
+srparasites:senses
+overlast:heat_radiation
+overlast:over_heating
+overlast:hypothermia
+overlast:frosty
 overlast:parasites_purify
 overlast:parasites_infect
+overlast:cool
 overlast:fortunate
+overlast:evil
