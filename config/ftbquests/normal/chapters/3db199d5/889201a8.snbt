@@ -6,7 +6,19 @@
 		uid: "84b3c1e6",
 		type: "item",
 		items: [{
-			item: "overlast:dumpling"
+			ForgeCaps: {
+				"foodfunk:rot": {
+					start: 0L,
+					time: 0L
+				}
+			},
+			id: "overlast:dumpling",
+			tag: {
+				Rot: {
+					start: 0L,
+					time: 0L
+				}
+			}
 		}]
 	}],
 	rewards: [{

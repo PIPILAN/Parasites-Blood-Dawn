@@ -1236,6 +1236,14 @@ ancientwarfarevehicle:giant_trebuchet_launch
 ancientwarfarevehicle:trebuchet_launch
 ancientwarfarevehicle:trebuchet_reload
 ancientwarfarevehicle:vehicle_moving
+foodfunk:esky_open
+foodfunk:esky_close
+foodfunk:freezer_open
+foodfunk:freezer_close
+foodfunk:larder_open
+foodfunk:larder_close
+foodfunk:icebox_open
+foodfunk:icebox_close
 vehicle:horn_mono
 vehicle:horn_stereo
 vehicle:atv_engine_mono

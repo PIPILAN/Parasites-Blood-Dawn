@@ -9,7 +9,19 @@
 		uid: "b57b2ab5",
 		type: "item",
 		items: [{
-			item: "overlast:bowl_herbal"
+			ForgeCaps: {
+				"foodfunk:rot": {
+					start: 0L,
+					time: 0L
+				}
+			},
+			id: "overlast:bowl_herbal",
+			tag: {
+				Rot: {
+					start: 0L,
+					time: 0L
+				}
+			}
 		}]
 	}],
 	rewards: [{

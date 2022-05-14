@@ -11,11 +11,11 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:1
+difficulty:0
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["PBD Resource Pack","PBD CN Lang Pack"]
+resourcePacks:["TZP 1.12.2_2.1.zip","PBD Resource Pack","PBD CN Lang Pack"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
@@ -92,9 +92,9 @@ key_keybind.baublesinventory:0
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:0
-key_key.inventorysorter.itemout:-201
-key_key.inventorysorter.itemin:-200
 key_key.inventorysorter.sort:-98
+key_key.inventorysorter.itemin:-200
+key_key.inventorysorter.itemout:-201
 key_key.vehicle.horn:35
 key_key.vehicle.cycle_seats:0
 key_key.moreoverlays.lightoverlay.desc:65
@@ -140,6 +140,8 @@ key_keybind.vehicle.turret.left:75
 key_keybind.vehicle.turret.right:77
 key_keybind.vehicle.mouse.aim:0
 key_keybind.vehicle.ammo.select:82
+key_key.toggleLiquids:51
+key_key.toggleVisible:39
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -174,8 +176,6 @@ key_key.i18nmod.report_key.desc:0
 key_key.i18nmod.weblate_key.desc:0
 key_key.i18nmod.mcmod_key.desc:0
 key_key.i18nmod.reload_key.desc:0
-key_key.toggleLiquids:51
-key_key.toggleVisible:39
 key_key.toolbelt.open:-97
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0

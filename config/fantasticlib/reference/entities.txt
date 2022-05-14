@@ -221,6 +221,7 @@ srparasites:tendril
 srparasites:scent
 rewired:rail_rider
 rewired:cyberskeleton
+webslinger:webbing
 gravestone:player_ghost
 mw:bandit1
 mw:samplemissiongiver

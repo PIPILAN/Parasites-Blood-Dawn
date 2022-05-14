@@ -49,3 +49,6 @@
 
 #召唤祭坛
 <zensummoning:altar>.addTooltip("按 §6U §f键可以查看召唤配方");
+<zensummoning:altar>.addTooltip("配方图外圈为需要放在祭坛上的物品");
+<zensummoning:altar>.addTooltip("配方中心祭坛上方的物品为用于召唤时手持物品");
+<zensummoning:altar>.addTooltip("召唤全部在一个祭坛上操作，无需多个祭坛");

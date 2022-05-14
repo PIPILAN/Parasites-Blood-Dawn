@@ -7,10 +7,20 @@
 		type: "item",
 		title: "三明治",
 		items: [{
+			ForgeCaps: {
+				"foodfunk:rot": {
+					start: 0L,
+					time: 0L
+				}
+			},
 			id: "culinaryconstruct:sandwich",
 			tag: {
 				Size: 5,
 				Saturation: 1.0f,
+				Rot: {
+					start: 0L,
+					time: 0L
+				},
 				Ingredients: {
 					Items: [{
 						Slot: 0b,

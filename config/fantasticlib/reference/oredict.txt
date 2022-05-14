@@ -198,6 +198,8 @@ shaftSteel
 foodBundle
 drawerBasic
 drawerTrim
+listAllmetalingots
+listAllmetalblocks
 ingotRefinedIron
 ingotSilver
 nuggetCopper
@@ -205,5 +207,12 @@ pbdCyberLimbs
 pbdCyberHand
 pbdBlockGray
 pbdBlockRed
+food
+rotten
+compostable
+preserver
+listAllmelons
+listAllseed
+listAllseedfoods
 blockCompactRawPorkchop
 bread

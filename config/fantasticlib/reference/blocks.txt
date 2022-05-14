@@ -372,11 +372,6 @@ mw:spookyghost3
 mw:swat_truck
 rewired:ecglass
 rewired:canopic_jar
-sereneseasons:greenhouse_glass
-sereneseasons:season_sensor_spring
-sereneseasons:season_sensor_summer
-sereneseasons:season_sensor_autumn
-sereneseasons:season_sensor_winter
 adminshop:shop
 adminshop:seller
 adminshop:atm
@@ -459,6 +454,13 @@ ancientwarfarestructure:coin_stack_silver
 ancientwarfarestructure:coin_stack_gold
 ancientwarfarestructure:coin_stack_ancient
 ancientwarfarestructure:gravestone
+wumpleutil:blank
+wumpleutil:repairing_block
+wumpleutil:placeholder
+foodfunk:esky
+foodfunk:freezer
+foodfunk:larder
+foodfunk:icebox
 comforts:rope
 comforts:sleeping_bag_white
 comforts:sleeping_bag_orange
@@ -576,7 +578,6 @@ srparasites:srpweb
 srparasites:evolutionlure
 srparasites:gore
 srparasites:canisteractive
-serenetweaks:blockbranches
 storagedrawers:basicdrawers
 storagedrawers:keybutton
 storagedrawers:compdrawers

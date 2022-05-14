@@ -1,0 +1,17 @@
+{
+	title: "背刺与潜行系统说明（二）",
+	icon: "minecraft:writable_book",
+	x: -2.5d,
+	y: 2.0d,
+	text: [
+		"&b▷&f特制匕首可享受潜行的双倍伤害和背刺的10倍伤害，对寄生虫生物威胁巨大",
+		"&b▷&f目前只有太刀（机械改造模组物品）可以造成潜行伤害，为6倍，但是无背刺加成。"
+	],
+	dependencies: [
+		"0cb158d8"
+	],
+	tasks: [{
+		uid: "afb172fa",
+		type: "checkmark"
+	}]
+}
