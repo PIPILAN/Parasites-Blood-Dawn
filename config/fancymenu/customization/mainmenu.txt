@@ -243,7 +243,7 @@ customization {
   y = -9
   scale = 1.0
   alignment = left
-  value = Version: 1.0.4.1 Date: %realtimeyear%.%realtimemonth%.%realtimeday%
+  value = Version: 1.0.4.2 Date: %realtimeyear%.%realtimemonth%.%realtimeday%
 }
 
 customization {

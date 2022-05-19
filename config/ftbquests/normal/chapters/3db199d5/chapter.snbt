@@ -6,7 +6,7 @@
 	],
 	always_invisible: false,
 	group: 0,
-	default_quest_shape: "",
+	default_quest_shape: "rsquare",
 	images: [{
 		x: 0.5d,
 		y: -2.5d,

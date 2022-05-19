@@ -1,4 +1,4 @@
-itemGroup.overlast=寄生兽末世扩展
+itemGroup.overlast=寄生兽末世扩展[作者：浅白]
 
 #Overlast Item
 item.overlast.chocolate_smoothie.name=巧克力沙冰
@@ -111,31 +111,31 @@ message.seasons.summer=夏季
 message.seasons.fall=秋季
 message.seasons.winter=冬季
 message.seasons.error=错误
-message.seasons.login=当前季节为%s，第%d天
-message.seasons.forecast0=早上好，先驱者，今天又是崭新的一天。当前季节为%s，第%d天
+message.seasons.login=嘿，先驱者，睡醒了？
+message.seasons.forecast0=早上好，先驱者，今天又是崭新的一天。
 message.seasons.forecast1=§7你感到一个邪恶的存在正注视着你......
 message.weather.noThunder=今日有雨，注意减少外出，降雨将在%d时开始，持续%d时。
 message.weather.isThunder=今日有雷暴，注意减少外出，降雨将在%d时开始，持续%d时。
 message.weather.sunny=今日天气良好，适合探索任务...大概吧
 message.seasons.daily0=Wake dafaq up samora, we've gott a city to burn!
 message.seasons.daily1=亲爱的观众朋友们，我想死你们了，你们都还活着吗？哈哈
-message.seasons.daily2=欢迎收听末世电台，每天八点，不见不散。
+message.seasons.daily2=欢迎收听先驱者联盟电台，每天八点，不见不散。
 message.seasons.daily3=迟来的英雄啊，和妾身一起享受这末世的欢愉吧！
 message.seasons.daily4=这破电台真是干不下去了，我要在这声卡上种菜！我要整点薯条！滋滋滋滋滋——
 message.seasons.daily5=昨天的感染乐透，最后的结果是变了整整三十个。
 message.seasons.daily6=北边营地再次被攻占，大楼又不知道摔死了多少个。
 message.seasons.daily7=多亏了魔神柱信徒，南方又新增了一个感染区
-message.seasons.daily8=东边的寄生兽和鬼楼的剑心大战，你猜猜谁赢了
+message.seasons.daily8=东边的寄生兽和姊妹天使团大战，你猜猜谁赢了
 message.seasons.daily9=和我一起，开始碎梦之城新的一天吧
 message.seasons.daily10=有人说末世唯一不能缺的就是电台，你觉得呢
 message.seasons.daily11=最近，一直在做一个梦，整个世界被寄生虫所占领，一根巨大的召唤住矗立在城市的废墟之中。
 message.seasons.daily12=祝各位新春快乐，春节期间，饺子不限量供应，不要好奇是什么馅的好吗
 message.seasons.daily13=答应我，不要饲养魔神柱好吗
-message.seasons.daily14=各位幸存者们，根据最新消息，请警惕与你离开超过一天再回来的伙伴，他可能已经是它了。
+message.seasons.daily14=各位先驱者们，根据最新消息，请警惕与你离开超过一天再回来的伙伴，他可能已经是它了。
 message.seasons.daily15=上膛！瞄准！一击毙命！怪物可以失误好多次，你只能失误一次！
 message.seasons.daily16=§k They §r§f 生生不息
 message.seasons.daily17=不知道你是否有时间坐下来听我聊聊，关于我们伟大的神……
-message.seasons.daily18=休斯顿，我们有麻烦了！外面全是寄生兽！
+message.seasons.daily18=先驱者，我们有麻烦了！外面全是寄生兽！
 message.seasons.daily19=我的幸福既无虚伪，也不会令人不安，人生也是有意义的。我有好好地活过。
 
 message.seasons.dailySpring0=最近气温适宜，正是寄生兽回老家过年的好时机嚯嚯嚯
@@ -150,7 +150,7 @@ message.seasons.dailySummer0=末世的夏日就是末世的狂欢，为今天的
 message.seasons.dailySummer1=今天是烤肉的好天气，不带把伞的话。
 message.seasons.dailySummer2=小心别变成kfc全家桶，末世配送费可不是一般的高。
 message.seasons.dailySummer3=今天风和日丽，适合户外工作。如果与实际不相符那就对了，中心的气象站昨天又垮了一个。
-message.seasons.dailySummer4=幸存者营地举办了夏日庙会，西瓜棒冰万岁！
+message.seasons.dailySummer4=先驱者营地举办了夏日庙会，西瓜棒冰万岁！
 
 message.seasons.dailyFall0=据报道今年的收成不错，你也想去喂寄生虫？
 message.seasons.dailyFall1=昨天秋叶祭圆满结束，你确定不是办的秋叶祭？
@@ -202,8 +202,8 @@ message.finalBattle.timing2=当前决战波数：%d/%d，距离结束还剩%d秒
 
 message.finalBattle.start0=世界净化结构搭建完毕
 message.finalBattle.start1=信标充能完毕
-message.finalBattle.start2=各位幸存者们，我们与寄生兽的决战即将开始。
-message.finalBattle.start3=请幸存者们迅速集合至X:%d Y:%d Z:%d，寄生虫即将发起总攻！
+message.finalBattle.start2=各位先驱者们，我们与寄生兽的决战即将开始。
+message.finalBattle.start3=请先驱者们迅速集合至X:%d Y:%d Z:%d，寄生虫即将发起总攻！
 message.finalBattle.start4=在净化结构的作用范围内坚持10分钟，如果中途净化结构被破坏，重新修复结构即可继续净化。
 message.finalBattle.start5=靠近信标能够暂时抵抗寄生兽带来的负面状态，但被仇恨吸引导致破坏的概率也就越大，完成这最后的一战吧
 message.finalBattle.start6=§l成败在此一举，夺回世界就靠你们了！

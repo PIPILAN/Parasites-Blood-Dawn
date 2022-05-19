@@ -92,9 +92,9 @@ key_keybind.baublesinventory:0
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:0
-key_key.inventorysorter.sort:-98
-key_key.inventorysorter.itemin:-200
 key_key.inventorysorter.itemout:-201
+key_key.inventorysorter.itemin:-200
+key_key.inventorysorter.sort:-98
 key_key.vehicle.horn:35
 key_key.vehicle.cycle_seats:0
 key_key.moreoverlays.lightoverlay.desc:65
@@ -196,8 +196,6 @@ key_key.journeymap.fullscreen.north:0
 key_key.journeymap.fullscreen.south:0
 key_key.journeymap.fullscreen.east:0
 key_key.journeymap.fullscreen.west:0
-key_toolbelt.binding.access:47
-key_toolbelt.binding.restock:47:SHIFT
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0

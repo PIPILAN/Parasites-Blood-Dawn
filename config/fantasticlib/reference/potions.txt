@@ -27,8 +27,6 @@ minecraft:luck
 minecraft:unluck
 cyberware:neuropozyne
 cyberware:rejection
-tetra:bleeding
-tetra:earthbound
 dynamicstealth:soulsight
 srparasites:coth
 srparasites:fear

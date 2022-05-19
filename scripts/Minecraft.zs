@@ -1,22 +1,11 @@
 
-// 马鞍增加配方
+# 马鞍增加配方
 recipes.addShaped(<minecraft:saddle:0>,[
     [<minecraft:leather:0>, <minecraft:leather:0>, <minecraft:leather:0>],
     [<minecraft:leather:0>, null, <minecraft:leather:0>],
     [<minecraft:leather:0>, null, <minecraft:leather:0>]]);
-// 移除装备烧制配方
-furnace.remove(<minecraft:gold_nugget>, <minecraft:golden_helmet>);
-furnace.remove(<minecraft:gold_nugget>, <minecraft:golden_chestplate>);
-furnace.remove(<minecraft:gold_nugget>, <minecraft:golden_leggings>);
-furnace.remove(<minecraft:gold_nugget>, <minecraft:golden_boots>);
-furnace.remove(<minecraft:gold_nugget>, <minecraft:golden_sword>);
-furnace.remove(<minecraft:iron_nugget>, <minecraft:iron_helmet>);
-furnace.remove(<minecraft:iron_nugget>, <minecraft:iron_chestplate>);
-furnace.remove(<minecraft:iron_nugget>, <minecraft:iron_leggings>);
-furnace.remove(<minecraft:iron_nugget>, <minecraft:iron_boots>);
-furnace.remove(<minecraft:iron_nugget>, <minecraft:iron_sword>);
 
-// 根据耐久值判断拆解数量-铁套
+# 根据耐久值判断拆解数量-铁套
 recipes.addShapeless(<minecraft:iron_ingot>*5, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_helmet>.withDamage(0)]);
 recipes.addShapeless(<minecraft:iron_ingot>*4, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_helmet>.anyDamage().onlyDamageBetween(1, 42)]);
 recipes.addShapeless(<minecraft:iron_ingot>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_helmet>.anyDamage().onlyDamageBetween(43, 83)]);
@@ -44,7 +33,7 @@ recipes.addShapeless(<minecraft:iron_ingot>*4, [<contenttweaker:pbd_craftsmansba
 recipes.addShapeless(<minecraft:iron_ingot>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_boots>.anyDamage().onlyDamageBetween(1, 64)]);
 recipes.addShapeless(<minecraft:iron_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_boots>.anyDamage().onlyDamageBetween(65, 129)]);
 recipes.addShapeless(<minecraft:iron_ingot>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_boots>.anyDamage().onlyDamageBetween(130, 195)]);
-// 根据耐久值判断拆解数量-金套
+# 根据耐久值判断拆解数量-金套
 recipes.addShapeless(<minecraft:gold_ingot>*5, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_helmet>.withDamage(0)]);
 recipes.addShapeless(<minecraft:gold_ingot>*4, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_helmet>.anyDamage().onlyDamageBetween(1, 19)]);
 recipes.addShapeless(<minecraft:gold_ingot>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_helmet>.anyDamage().onlyDamageBetween(20, 38)]);
@@ -72,7 +61,7 @@ recipes.addShapeless(<minecraft:gold_ingot>*4, [<contenttweaker:pbd_craftsmansba
 recipes.addShapeless(<minecraft:gold_ingot>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_boots>.anyDamage().onlyDamageBetween(1, 31)]);
 recipes.addShapeless(<minecraft:gold_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_boots>.anyDamage().onlyDamageBetween(32, 62)]);
 recipes.addShapeless(<minecraft:gold_ingot>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_boots>.anyDamage().onlyDamageBetween(63, 91)]);
-// 根据耐久值判断拆解数量-钻套
+# 根据耐久值判断拆解数量-钻套
 recipes.addShapeless(<minecraft:diamond>*5, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_helmet>.withDamage(0)]);
 recipes.addShapeless(<minecraft:diamond>*4, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_helmet>.anyDamage().onlyDamageBetween(1, 91)]);
 recipes.addShapeless(<minecraft:diamond>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_helmet>.anyDamage().onlyDamageBetween(92, 182)]);
@@ -100,7 +89,7 @@ recipes.addShapeless(<minecraft:diamond>*4, [<contenttweaker:pbd_craftsmansbag:*
 recipes.addShapeless(<minecraft:diamond>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_boots>.anyDamage().onlyDamageBetween(1, 143)]);
 recipes.addShapeless(<minecraft:diamond>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_boots>.anyDamage().onlyDamageBetween(144, 286)]);
 recipes.addShapeless(<minecraft:diamond>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_boots>.anyDamage().onlyDamageBetween(287, 429)]);
-// 根据耐久值判断拆解数量-剑
+# 根据耐久值判断拆解数量-剑
 recipes.addShapeless(<minecraft:diamond>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_sword>.withDamage(0)]);
 recipes.addShapeless(<minecraft:diamond>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_sword>.anyDamage().onlyDamageAtLeast(1)]);
 recipes.addShapeless(<minecraft:iron_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_sword>.withDamage(0)]);
@@ -108,7 +97,7 @@ recipes.addShapeless(<minecraft:iron_ingot>*1, [<contenttweaker:pbd_craftsmansba
 recipes.addShapeless(<minecraft:gold_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_sword>.withDamage(0)]);
 recipes.addShapeless(<minecraft:gold_ingot>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_sword>.anyDamage().onlyDamageAtLeast(1)]);
 
-// 根据耐久值判断拆解数量-长矛
+# 根据耐久值判断拆解数量-长矛
 recipes.addShapeless(<minecraft:iron_ingot>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:iron_spear>.withDamage(0)]);
 recipes.addShapeless(<minecraft:iron_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:iron_spear>.anyDamage().onlyDamageBetween(1, 125)]);
 recipes.addShapeless(<minecraft:iron_ingot>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:iron_spear>.anyDamage().onlyDamageAtLeast(126)]);
@@ -120,7 +109,7 @@ recipes.addShapeless(<minecraft:gold_ingot>*1, [<contenttweaker:pbd_craftsmansba
 recipes.addShapeless(<minecraft:diamond>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:diamond_spear>.withDamage(0)]);
 recipes.addShapeless(<minecraft:diamond>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:diamond_spear>.anyDamage().onlyDamageBetween(1, 780)]);
 recipes.addShapeless(<minecraft:diamond>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:diamond_spear>.anyDamage().onlyDamageAtLeast(781)]);
-// 根据耐久值判断拆解数量-长戟
+# 根据耐久值判断拆解数量-长戟
 recipes.addShapeless(<minecraft:iron_ingot>*4, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:iron_halberd>.withDamage(0)]);
 recipes.addShapeless(<minecraft:iron_ingot>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:iron_halberd>.anyDamage().onlyDamageBetween(1, 83)]);
 recipes.addShapeless(<minecraft:iron_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:iron_halberd>.anyDamage().onlyDamageBetween(84, 167)]);
@@ -135,7 +124,7 @@ recipes.addShapeless(<minecraft:diamond>*4, [<contenttweaker:pbd_craftsmansbag:*
 recipes.addShapeless(<minecraft:diamond>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:diamond_halberd>.anyDamage().onlyDamageBetween(1, 521)]);
 recipes.addShapeless(<minecraft:diamond>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:diamond_halberd>.anyDamage().onlyDamageBetween(522, 1042)]);
 recipes.addShapeless(<minecraft:diamond>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:diamond_halberd>.anyDamage().onlyDamageAtLeast(1043)]);
-// 根据耐久值判断拆解数量-长枪
+# 根据耐久值判断拆解数量-长枪
 recipes.addShapeless(<minecraft:iron_ingot>*4, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:iron_lance>.withDamage(0)]);
 recipes.addShapeless(<minecraft:iron_ingot>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:iron_lance>.anyDamage().onlyDamageBetween(1, 83)]);
 recipes.addShapeless(<minecraft:iron_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:iron_lance>.anyDamage().onlyDamageBetween(84, 167)]);
@@ -150,3 +139,51 @@ recipes.addShapeless(<minecraft:diamond>*4, [<contenttweaker:pbd_craftsmansbag:*
 recipes.addShapeless(<minecraft:diamond>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:diamond_lance>.anyDamage().onlyDamageBetween(1, 521)]);
 recipes.addShapeless(<minecraft:diamond>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:diamond_lance>.anyDamage().onlyDamageBetween(522, 1042)]);
 recipes.addShapeless(<minecraft:diamond>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <ancientwarfarenpc:diamond_lance>.anyDamage().onlyDamageAtLeast(1043)]);
+
+# 拆解马铠
+recipes.addShapeless(<minecraft:iron_ingot>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_horse_armor>]);
+recipes.addShapeless(<minecraft:gold_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_horse_armor>]);
+recipes.addShapeless(<minecraft:diamond>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_horse_armor>]);
+
+#根据耐久值判断拆解数量-斧头
+recipes.addShapeless(<minecraft:iron_ingot>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_axe>.withDamage(0)]);
+recipes.addShapeless(<minecraft:iron_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_axe>.anyDamage().onlyDamageBetween(1, 249)]);
+recipes.addShapeless(<minecraft:iron_ingot>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_axe>.anyDamage().onlyDamageAtLeast(250)]);
+
+recipes.addShapeless(<minecraft:gold_ingot>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_axe>.withDamage(0)]);
+recipes.addShapeless(<minecraft:gold_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_axe>.anyDamage().onlyDamageBetween(1, 31)]);
+recipes.addShapeless(<minecraft:gold_ingot>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_axe>.anyDamage().onlyDamageAtLeast(32)]);
+
+recipes.addShapeless(<minecraft:diamond>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_axe>.withDamage(0)]);
+recipes.addShapeless(<minecraft:diamond>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_axe>.anyDamage().onlyDamageBetween(1, 1560)]);
+recipes.addShapeless(<minecraft:diamond>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_axe>.anyDamage().onlyDamageAtLeast(1561)]);
+
+#根据耐久值判断拆解数量-镐子
+recipes.addShapeless(<minecraft:iron_ingot>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_pickaxe>.withDamage(0)]);
+recipes.addShapeless(<minecraft:iron_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_pickaxe>.anyDamage().onlyDamageBetween(1, 249)]);
+recipes.addShapeless(<minecraft:iron_ingot>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_pickaxe>.anyDamage().onlyDamageAtLeast(250)]);
+
+recipes.addShapeless(<minecraft:gold_ingot>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_pickaxe>.withDamage(0)]);
+recipes.addShapeless(<minecraft:gold_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_pickaxe>.anyDamage().onlyDamageBetween(1, 31)]);
+recipes.addShapeless(<minecraft:gold_ingot>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_pickaxe>.anyDamage().onlyDamageAtLeast(32)]);
+
+recipes.addShapeless(<minecraft:diamond>*3, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_pickaxe>.withDamage(0)]);
+recipes.addShapeless(<minecraft:diamond>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_pickaxe>.anyDamage().onlyDamageBetween(1, 1560)]);
+recipes.addShapeless(<minecraft:diamond>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_pickaxe>.anyDamage().onlyDamageAtLeast(1561)]);
+
+#根据耐久值判断拆解数量-铲子
+recipes.addShapeless(<minecraft:iron_ingot>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_shovel>.withDamage(0)]);
+
+recipes.addShapeless(<minecraft:gold_ingot>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_shovel>.withDamage(0)]);
+
+recipes.addShapeless(<minecraft:diamond>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_shovel>.withDamage(0)]);
+
+#根据耐久值判断拆解数量-锄头
+recipes.addShapeless(<minecraft:iron_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_hoe>.withDamage(0)]);
+recipes.addShapeless(<minecraft:iron_ingot>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_hoe>.anyDamage().onlyDamageBetween(1, 250)]);
+
+recipes.addShapeless(<minecraft:gold_ingot>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_hoe>.withDamage(0)]);
+recipes.addShapeless(<minecraft:gold_ingot>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:golden_hoe>.anyDamage().onlyDamageBetween(1, 32)]);
+
+recipes.addShapeless(<minecraft:diamond>*2, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_hoe>.withDamage(0)]);
+recipes.addShapeless(<minecraft:diamond>*1, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:diamond_hoe>.anyDamage().onlyDamageBetween(1, 1561)]);
