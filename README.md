@@ -1,7 +1,7 @@
 # Parasites: Blood Dawn
 ![](Parasite_Blood_Dawn.png)
 
-WIKI地址：https://pipilan.gitbook.io/parasites-blood-dawn/
+WIKI地址：https://gitee.com/pipilans/Parasites-Blood-Dawn/wikis/pages
 
 [更新记录与更新计划](https://github.com/PIPILAN/Parasites-Blood-Dawn/blob/main/RecordAndUpdate.md) | [下载地址](https://github.com/PIPILAN/Parasites-Blood-Dawn/releases)
 
