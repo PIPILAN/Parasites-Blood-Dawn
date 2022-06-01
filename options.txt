@@ -15,7 +15,7 @@ difficulty:0
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["TZP 1.12.2_2.1.zip","PBD Resource Pack","PBD CN Lang Pack"]
+resourcePacks:["PBD Resource Pack","PBD CN Lang Pack"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -92,9 +92,9 @@ key_keybind.baublesinventory:0
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:0
+key_key.inventorysorter.sort:-98
 key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.itemin:-200
-key_key.inventorysorter.sort:-98
 key_key.vehicle.horn:35
 key_key.vehicle.cycle_seats:0
 key_key.moreoverlays.lightoverlay.desc:65
@@ -118,7 +118,13 @@ key_key.sight:52
 key_key.custom_inventory:21
 key_neat.keybind.toggle:76
 key_key.switchhud:51
+key_key.toggleFoVChanges:51:SHIFT
+key_key.reloadSoundSystem:66:SHIFT
+key_key.toggleTimeOfDayOverlay:0
+key_key.togglePotionParticles:66:CONTROL
 key_walljump.key.walljump:42
+key_key.dismount:42
+key_key.narrator:48:CONTROL
 key_smoothfont.key.guiOpen:199
 key_key.unhook:45
 key_keybind.awCore.alt.item.use.1:83

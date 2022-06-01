@@ -1,4 +1,4 @@
-#给食物添加理智值提示
+# 给食物添加理智值提示
 <minecraft:chicken>.addTooltip("理智值：-3");
 <minecraft:beef>.addTooltip("理智值：-5");
 <minecraft:rabbit>.addTooltip("理智值：-3");
@@ -39,11 +39,11 @@
 <overlast:ice_sucker>.addTooltip("理智值：-1");
 <ancientwarfarenpc:food_bundle>.addTooltip("理智值：15");
 
-#食物额外提示
+# 食物额外提示
 <overlast:dumpling>.addTooltip("可以快速食用，满饥饿值也可以食用");
 <overlast:dumpling>.addTooltip("食用后获得30s福运buff和1秒的饱和buff，因此实际饱和度为10");
 
-#同步核心
+# 同步核心
 <sync:item_placeholder>.addTooltip("用于制造克隆机的核心物品");
 <sync:item_placeholder>.addTooltip("非极限模式玩家无需购买");
 
