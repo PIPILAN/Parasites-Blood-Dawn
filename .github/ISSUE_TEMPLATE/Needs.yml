@@ -1,0 +1,42 @@
+name: 需求建议 Needs and recommendations
+description: 
+  提出您的改进建议或需求。 (Put forward your improvement suggestions or needs.)
+body:
+  - type: markdown
+    attributes:
+      value: |
+        并非所有建议都会被采纳。
+        (Not all suggestions will be accepted.)
+
+        我会选择比较适合的建议内容融入游戏中。
+        (I will choose appropriate suggestions to integrate into the game.)
+  - type: dropdown
+    id: rate
+    attributes:
+      label: 评分 Rate
+      description: 请给出您现在对整合包的评分。 (Please give your current rating of the integration pack.)
+      options:
+        - 1/10
+        - 2/10
+        - 3/10
+        - 4/10
+        - 5/10
+        - 6/10
+        - 7/10
+        - 8/10
+        - 9/10
+        - 10/10
+    validations:
+      required: true
+  - type: textarea
+    id: crash
+    attributes:
+      label: 目前痛点 (Current Problems)
+      description: 填写您认为现在整合包不合理的地方。 (Fill in the places where you think the current integration package is unreasonable.)
+      placeholder: 此处可以上传文件/图片等。(Here you can upload files / pictures, etc.)
+  - type: textarea
+    id: recurrence
+    attributes:
+      label: 您的想法 (Your Thoughts)
+      description: 填写您认为可行的改进方法。 (Fill in the improvement methods you think are feasible.)
+      placeholder: 此处可以上传文件/图片等。(Here you can upload files / pictures, etc.)

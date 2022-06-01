@@ -15,7 +15,7 @@ body:
   - type: dropdown
     id: check
     attributes:
-      label: 校验 Check
+      label: 校验 (Check)
       description: 是否有增添模组或者修改配置文件？ (Are there any modules added or configuration files modified?)
       options:
         - 是
@@ -25,7 +25,7 @@ body:
   - type: input
     id: modpack-version
     attributes:
-      label: 整合包版本(Modpack Version)
+      label: 整合包版本 (Modpack Version)
       description: 请输入您所游玩的整合包版本。(Please enter the modpack version you are playing.)
       placeholder: 例如：1.0.4.2 (e.g. 3.5.2.218)
     validations:
@@ -41,13 +41,13 @@ body:
   - type: textarea
     id: crash
     attributes:
-      label: 崩溃报告(Crash Report)
+      label: 崩溃报告 (Crash Report)
       description: 如果出现了崩溃问题请填入崩溃报告内容。 (If there is a crash problem, please fill in the crash report.)
       placeholder: 此处可以上传文件/图片等。(Here you can upload files / pictures, etc.)
   - type: textarea
     id: recurrence
     attributes:
-      label: 问题描述 Bug Description
+      label: 问题描述 (Bug Description)
       description: 请详细描述出现的问题，后果以及可能的猜测原因；如果可以的话，也请把复现方式详细描述出来。 (Please describe the problems, consequences and possible reasons in detail; If you can, please also describe the reproduction method in detail.)
       placeholder: 此处可以上传文件/图片等。(Here you can upload files / pictures, etc.)
     validations:
