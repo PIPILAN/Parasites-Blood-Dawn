@@ -1,0 +1,15 @@
+name: 其他 Others
+description:
+  其他想反馈的内容。 (Other content you want to feed back.)
+body:
+  - type: markdown
+    attributes:
+      value: |
+        其他没有提到的可反馈内容。
+        (Other feedbacks not mentioned.)
+  - type: textarea
+    id: content
+    attributes:
+      label: 反馈内容 (Content)
+      description: 请填入您想反馈的内容。 (Please fill in the content you want to feedback.)
+      placeholder: 此处可以上传文件/图片等。(Here you can upload files / pictures, etc.)

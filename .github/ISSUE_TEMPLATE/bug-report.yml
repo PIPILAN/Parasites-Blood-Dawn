@@ -1,5 +1,5 @@
 name: 问题反馈 Bug Report
-description: 
+description:
   反馈游戏中出现的BUG。 (Feed back the bugs in the game.)
 body:
   - type: markdown
