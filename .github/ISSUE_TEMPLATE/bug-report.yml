@@ -12,6 +12,14 @@ body:
         (**If you modify the integration package, all the problems fed back will be ignored, whether it is the integration package itself or not**.)
         在提交BUG前请先确保为**最新版本整合包**.
         (Before reportting a bug, please ensure that **the latest version of the package** is integrated.)
+  - type: dropdown
+    id: check
+    attributes:
+      label: 校验 Check
+      description: 是否有增添模组或者修改配置文件？ (Are there any modules added or configuration files modified?)
+      options:
+        - 是
+        - 否
   - type: input
     id: modpack-version
     attributes:
@@ -36,11 +44,3 @@ body:
     attributes:
       label: 问题描述 Bug Description
       description: 请详细描述出现的问题，后果以及可能的猜测原因；如果可以的话，也请把复现方式详细描述出来。 (Please describe the problems, consequences and possible reasons in detail; If you can, please also describe the reproduction method in detail.)
-  - type: dropdown
-    id: ceshi
-    attributes:
-      label: 问题描述 Bug Description
-      options:
-        - ceshi1
-        - ceshi2
-        - ceshi3
