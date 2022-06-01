@@ -10,6 +10,7 @@ body:
 
         **如果你对整合包进行了修改，那么反馈的一切问题都将忽视，无论是否为整合包自身问题**。
         (**If you modify the integration package, all the problems fed back will be ignored, whether it is the integration package itself or not**.)
+
         在提交BUG前请先确保为**最新版本整合包**.
         (Before reportting a bug, please ensure that **the latest version of the package** is integrated.)
   - type: dropdown
