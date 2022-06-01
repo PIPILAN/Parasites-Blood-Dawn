@@ -1,7 +1,6 @@
 name: Bug Report
 description: 
-  反馈游戏中出现的BUG。**如果你对整合包进行了修改，那么反馈的一切问题都将忽视，无论是否为整合包自身问题**。
-  (Feed back the bugs in the game. **If you modify the integration package, all the problems fed back will be ignored, whether it is the integration package itself or not**.)
+  反馈游戏中出现的BUG-Feed back the bugs in the game.
 body:
   - type: markdown
     attributes:
@@ -10,8 +9,10 @@ body:
         请详细填写下列信息以帮助我定位问题.
         (Please fill in the following information to help me locate the problem.)
 
+        **如果你对整合包进行了修改，那么反馈的一切问题都将忽视，无论是否为整合包自身问题**。
+        (**If you modify the integration package, all the problems fed back will be ignored, whether it is the integration package itself or not**.)
         在提交BUG前请先确保为**最新版本整合包**.
-        (Before reportting a bug, please ensure that the latest version of the package is integrated.)
+        (Before reportting a bug, please ensure that **the latest version of the package** is integrated.)
   - type: input
     id: modpack-version
     attributes:
@@ -35,4 +36,4 @@ body:
     id: recurrence
     attributes:
       label: 问题描述 Bug Description
-      description: 请详细描述问题和出现经过。(Please describe the problem and its occurrence in detail.)
+      description: 请详细描述出现的问题，后果以及可能的猜测原因；如果可以的话，也请把复现方式详细描述出来。(Please describe the problems, consequences and possible reasons in detail; If you can, please also describe the reproduction method in detail.)
