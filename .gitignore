@@ -8,6 +8,7 @@
 !/resources
 !/scripts
 !/local
+!/.github
 
 #Files
 !/.gitignore

@@ -1,0 +1,38 @@
+name: Bug Report
+description: 
+  反馈游戏中出现的BUG。**如果你对整合包进行了修改，那么反馈的一切问题都将忽视，无论是否为整合包自身问题**。
+  (Feed back the bugs in the game. **If you modify the integration package, all the problems fed back will be ignored, whether it is the integration package itself or not**.)
+body:
+  - type: markdown
+    attributes:
+      value: |
+    
+        请详细填写下列信息以帮助我定位问题.
+        (Please fill in the following information to help me locate the problem.)
+
+        在提交BUG前请先确保为**最新版本整合包**.
+        (Before reportting a bug, please ensure that the latest version of the package is integrated.)
+  - type: input
+    id: modpack-version
+    attributes:
+      label: 整合包版本(Modpack Version)
+      description: 请输入您所游玩的整合包版本。(Please enter the modpack version you are playing.)
+      placeholder: 例如：1.0.4.2(e.g. 3.5.2.218)
+    validations:
+      required: true
+  - type: input
+    id: java-version
+    attributes:
+      label: Java
+      description: 请输入您所使用的 Java 的版本。(Please enter the version of Java you are using.)
+      placeholder: 例如：8u333(e.g. 8u333)
+  - type: textarea
+    id: crash
+    attributes:
+      label: 崩溃报告(Crash Report)
+      description: 如果出现了崩溃问题请填入崩溃报告内容。(If there is a crash problem, please fill in the crash report.)
+  - type: textarea
+    id: recurrence
+    attributes:
+      label: 问题描述 Bug Description
+      description: 请详细描述出现的问题，后果以及可能的猜测原因；如果可以的话，也请把复现方式详细描述出来。(Please describe the problems, consequences and possible reasons in detail; If you can, please also describe the reproduction method in detail.)
