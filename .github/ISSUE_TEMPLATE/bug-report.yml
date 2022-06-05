@@ -16,8 +16,8 @@ body:
   - type: dropdown
     id: check
     attributes:
-      label: 校验 (Check)
-      description: 是否有增添模组或者修改配置文件？ (Are there any modules added or configuration files modified?)
+      label: 是否有增添模组或者修改配置文件？ (Are there any modules added or configuration files modified?)
+      description: 请诚实回答！这很重要。 (Please be honest! That's important.)
       options:
         - 是
         - 否
