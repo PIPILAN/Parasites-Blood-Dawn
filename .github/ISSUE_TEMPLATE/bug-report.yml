@@ -27,8 +27,8 @@ body:
     id: modpack-version
     attributes:
       label: 整合包版本 (Modpack Version)
-      description: 请输入您所游玩的整合包版本。(Please enter the modpack version you are playing.)
-      placeholder: 例如：1.0.4.2 (e.g. 3.5.2.218)
+      description: 请输入您所游玩的整合包版本，不是游戏版本。(Please enter the modpack version you are playing,not game version.)
+      placeholder: 例如：1.0.4.2 (e.g. 1.0.4.2)
     validations:
       required: true
   - type: input
