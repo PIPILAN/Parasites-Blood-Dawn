@@ -93,3 +93,5 @@ JEI.addDescription(<mw:m60e4>,
     "可用弹匣：\n[7.62x51mm][100发]-弹链箱");
 JEI.addDescription(<mw:l96a1>,
     "可用弹匣：\n[7.62x54mm][10发]-拉普阿弹匣");
+JEI.addDescription(<mw:m134>,
+    "可用弹匣：\n[7.62x51mm][1000发]-弹链箱");

@@ -1,0 +1,15 @@
+{
+    "name": "赞助者",
+    "icon": "minecraft:gold_ingot",
+    "category": "patchouli:thanks",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type":"link",
+            "title":"赞助者名单",
+            "url":"https://afdian.net/@pipilan",
+            "link_text":"给作者经济支持",
+            "text":"$(br)  这边都是曾经赞助过我的人！非常感谢支持！$(br2)  > tiges"
+        }
+    ]
+}

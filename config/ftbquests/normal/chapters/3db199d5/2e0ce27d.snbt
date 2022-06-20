@@ -8,12 +8,6 @@
 		uid: "acde5d15",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"foodfunk:rot": {
-					start: 0L,
-					time: 0L
-				}
-			},
 			id: "overlast:pollute_bowl_herbal",
 			tag: {
 				Rot: {

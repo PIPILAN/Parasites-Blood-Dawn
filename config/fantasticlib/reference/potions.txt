@@ -27,6 +27,12 @@ minecraft:luck
 minecraft:unluck
 cyberware:neuropozyne
 cyberware:rejection
+quark:blue
+quark:black
+quark:white
+quark:resilience
+quark:curse
+quark:danger_sight
 dynamicstealth:soulsight
 srparasites:coth
 srparasites:fear

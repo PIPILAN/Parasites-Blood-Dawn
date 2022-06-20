@@ -1,9 +1,21 @@
-
+import crafttweaker.item.IItemStack;
 # 马鞍增加配方
 recipes.addShaped(<minecraft:saddle:0>,[
     [<minecraft:leather:0>, <minecraft:leather:0>, <minecraft:leather:0>],
     [<minecraft:leather:0>, null, <minecraft:leather:0>],
     [<minecraft:leather:0>, null, <minecraft:leather:0>]]);
+
+val BanItem as IItemStack[] = [
+    <backstab:wood_dagger>,
+    <backstab:stone_dagger>,
+    <backstab:iron_dagger>,
+    <backstab:gold_dagger>,
+    <backstab:diamond_dagger>
+];
+
+for item in BanItem {
+    recipes.remove(item);
+}
 
 # 根据耐久值判断拆解数量-铁套
 recipes.addShapeless(<minecraft:iron_ingot>*5, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_helmet>.withDamage(0)]);

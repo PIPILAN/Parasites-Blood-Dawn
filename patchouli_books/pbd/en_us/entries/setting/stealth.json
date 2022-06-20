@@ -1,0 +1,22 @@
+{
+    "name": "潜行系统",
+    "icon": "cyberware:katana",
+    "category": "patchouli:setting",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type":"text",
+            "title":"潜行系统",
+            "text":"$(br)  在敌人未察觉到的情况下直接造成高倍率伤害，触发条件为敌人为感知到自己。$(br2)  当前仅有背刺武器和太刀可造成潜行伤害。不同武器的潜行伤害倍率不同。$(br2)  背刺武器统一为2倍，太刀为3倍。同样也可以叠加药水效果/强化肌肉组件。"
+        },
+        {
+            "type":"spotlight",
+            "item":"cyberware:katana",
+            "text":"$(br)  这种太刀并非如今材料制作，是来自未来的怪物们的武器，似乎在未来只是一种量产武器，但其本身的材料性能却是如今时代的佼佼者。$(br2)  攻击伤害: 7$(br)  "
+        },
+        {
+            "type":"relations",
+            "entries":["patchouli:setting/backstab"]
+        }
+    ]
+}

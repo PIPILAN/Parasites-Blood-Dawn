@@ -1,5 +1,5 @@
 {
-	x: 0.5d,
+	x: 2.0d,
 	y: 3.5d,
 	text: [
 		"温室玻璃可以让你在非适宜季节种植作物，只需将温室玻璃放在作物上方即可。"
@@ -10,5 +10,21 @@
 		items: [{
 			item: "sereneseasons:greenhouse_glass"
 		}]
+	}],
+	rewards: [{
+		uid: "5733b885",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
 	}]
 }

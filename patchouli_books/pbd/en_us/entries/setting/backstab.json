@@ -1,0 +1,47 @@
+{
+    "name": "背刺系统",
+    "icon": "backstab:diamond_dagger",
+    "category": "patchouli:setting",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type":"text",
+            "title":"背刺系统",
+            "text":"  使用特制的背刺武器可在背后对生物发起突袭，造成远超于面板数值(X10)的伤害，触发条件只需要从背后攻击。$(br2)  当前仅有五把武器可造成背刺伤害。这五把武器都可以在悬赏中获得，暗铁刺客和流光游侠可以商店买到。$(br2)  另外背刺武器一般能同时触发潜行伤害，还可以叠加药水效果/强化肌肉组件。"
+        },
+        {
+            "type":"spotlight",
+            "link_recipe":"true",
+            "item":"backstab:diamond_dagger",
+            "text":"$(br)     §4血流成河，血染黎明$(br2)  这便是血染黎明的封刃语，使用最高级的材料制作完成，极其耐用，实为神器，不知出自谁手。$(br2)  攻击伤害: 4$(br)  "
+        },
+        {
+            "type":"spotlight",
+            "link_recipe":"true",
+            "item":"backstab:iron_dagger",
+            "text":"$(br)     §1月下阴影，幽狼现世$(br2)  材料性能仅次于血染黎明，是传说中雪鹰杀手团的主要武器，它将是你伏杀时坚实的基础。$(br2)  攻击伤害: 3$(br)  "
+        },
+        {
+            "type":"spotlight",
+            "link_recipe":"true",
+            "item":"backstab:stone_dagger",
+            "text":"$(br)          §6黑暗之下$(br)      §6唯有一丝希望永存$(br2)  这是姊妹天使团大师仿制血染黎明制作的精兵武器，虽然无法触及神器之名，但它的威慑力也是不可小觑的。$(br2)  攻击伤害: 2$(br)  "
+        },
+        {
+            "type":"spotlight",
+            "link_recipe":"true",
+            "item":"backstab:gold_dagger",
+            "text":"$(br)   §8御风，穿行，刀破，人亡$(br2)  雇佣兵常用的两大匕首之一，拥有不错的锋利性和实用性。$(br2)  攻击伤害: 1$(br)  "
+        },
+        {
+            "type":"spotlight",
+            "link_recipe":"true",
+            "item":"backstab:wood_dagger",
+            "text":"$(br)       §7隐藏于黑暗之中$(br)       §7伏杀于静谧之下$(br2)  雇佣兵常用的两大匕首之一，拥有不错的锋利性和实用性，较之流光游侠，耐久度更高。$(br2)  攻击伤害: 1$(br)  "
+        },
+        {
+            "type":"relations",
+            "entries":["patchouli:setting/stealth"]
+        }
+    ]
+}

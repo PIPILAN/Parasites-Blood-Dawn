@@ -5,6 +5,9 @@ import crafttweaker.world.IWorld;
 import crafttweaker.player.IPlayer;
 import crafttweaker.server.IServer;
 import crafttweaker.event.PlayerRightClickItemEvent;
+import crafttweaker.event.BlockBreakEvent;
+import crafttweaker.event.BlockPlaceEvent;
+import crafttweaker.block.IBlock;
 import mods.zenutils.DelayManager;
 //import crafttweaker.data.IData;
 
@@ -97,5 +100,102 @@ events.onPlayerRightClickItem(function(event as crafttweaker.event.PlayerRightCl
             // var iDataPlus = {loggedIn : iData.loggedIn.asInt() + 1} as IData;
             // player.update(iDataPlus);
         }
+    }
+});
+
+
+events.onBlockPlace(function(event as crafttweaker.event.BlockPlaceEvent){
+    var block as IBlock = event.block;
+    if(block.definition.id == "projecte:transmutation_table"){
+        event.player.sendStatusMessage(format.red("检测到作弊模组：等价交换，已禁用")); 
+        event.cancel();
+    }
+});
+
+events.onBlockPlace(function(event as crafttweaker.event.BlockPlaceEvent){
+    var block as IBlock = event.block;
+    if(block.definition.id == "projecte:interdiction_torch"){
+        event.player.sendStatusMessage(format.red("检测到作弊模组：等价交换，已禁用")); 
+        event.cancel();
+    }
+});
+
+events.onBlockPlace(function(event as crafttweaker.event.BlockPlaceEvent){
+    var block as IBlock = event.block;
+    if(block.definition.id == "projecte:dm_pedestal"){
+        event.player.sendStatusMessage(format.red("检测到作弊模组：等价交换，已禁用")); 
+        event.cancel();
+    }
+});
+
+events.onBlockPlace(function(event as crafttweaker.event.BlockPlaceEvent){
+    var block as IBlock = event.block;
+    if(block.definition.id == "torcherino:blocktorcherino"){
+        event.player.sendStatusMessage(format.red("检测到作弊模组：加速火把，已禁用")); 
+        event.cancel();
+    }
+});
+
+events.onBlockPlace(function(event as crafttweaker.event.BlockPlaceEvent){
+    var block as IBlock = event.block;
+    if(block.definition.id == "torcherino:blockcompressedtorcherino"){
+        event.player.sendStatusMessage(format.red("检测到作弊模组：加速火把，已禁用")); 
+        event.cancel();
+    }
+});
+
+events.onBlockPlace(function(event as crafttweaker.event.BlockPlaceEvent){
+    var block as IBlock = event.block;
+    if(block.definition.id == "torcherino:blockdoublecompressedtorcherino"){
+        event.player.sendStatusMessage(format.red("检测到作弊模组：加速火把，已禁用")); 
+        event.cancel();
+    }
+});
+
+events.onBlockPlace(function(event as crafttweaker.event.BlockPlaceEvent){
+    var block as IBlock = event.block;
+    if(block.definition.id == "torcherino:blocklanterino"){
+        event.player.sendStatusMessage(format.red("检测到作弊模组：加速火把，已禁用")); 
+        event.cancel();
+    }
+});
+
+events.onBlockPlace(function(event as crafttweaker.event.BlockPlaceEvent){
+    var block as IBlock = event.block;
+    if(block.definition.id == "torcherino:blockcompressedlanterino"){
+        event.player.sendStatusMessage(format.red("检测到作弊模组：加速火把，已禁用")); 
+        event.cancel();
+    }
+});
+
+events.onBlockPlace(function(event as crafttweaker.event.BlockPlaceEvent){
+    var block as IBlock = event.block;
+    if(block.definition.id == "torcherino:blockdoublecompressedlanterino"){
+        event.player.sendStatusMessage(format.red("检测到作弊模组：加速火把，已禁用")); 
+        event.cancel();
+    }
+});
+
+events.onBlockPlace(function(event as crafttweaker.event.BlockPlaceEvent){
+    var block as IBlock = event.block;
+    if(block.definition.id == "deconstruction:table"){
+        event.player.sendStatusMessage(format.red("检测到作弊模组：解构工作台，已禁用")); 
+        event.cancel();
+    }
+});
+
+events.onPlayerRightClickItem(function(event as crafttweaker.event.PlayerRightClickItemEvent){
+    var item as IItemStack = event.item;
+    if(item.definition.id == "projecte:item.pe_transmutation_tablet"){
+        event.player.sendStatusMessage(format.red("检测到作弊模组：等价交换，已禁用")); 
+        event.cancel();
+    }
+});
+
+events.onPlayerRightClickItem(function(event as crafttweaker.event.PlayerRightClickItemEvent){
+    var item as IItemStack = event.item;
+    if(item.definition.id == "projecte:item.pe_time_watch"){
+        event.player.sendStatusMessage(format.red("检测到作弊模组：等价交换，已禁用")); 
+        event.cancel();
     }
 });

@@ -1,0 +1,13 @@
+{
+    "name": "魔改帮助",
+    "icon": "minecraft:paper",
+    "category": "patchouli:thanks",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type":"text",
+            "title":"帮助名单",
+            "text":"$(br)  这边都是曾经指导过我魔改的人！排名不分先后！$(br2)  > Dark2932$(br)  > 吕不才$(br)  > 迺逸夫$(br)  > KilaBash$(br2)应该还有很多没想起来的。"
+        }
+    ]
+}

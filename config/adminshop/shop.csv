@@ -27,54 +27,57 @@ buy,sync:item_placeholder:0,3000,0
 buy,cyberware:creative_battery:0,5000,0
 buy,lootbags:itemlootbag:1 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},6000,0
 buy,lootbags:itemlootbag:2 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},9000,0
-buy,lootbags:itemlootbag:3 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},52500,0
-buy,lootbags:itemlootbag:4 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},27000,0
-buy,lootbags:itemlootbag:5 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},37500,0
+buy,lootbags:itemlootbag:3 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},33000,0
+buy,lootbags:itemlootbag:4 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},18000,0
+buy,lootbags:itemlootbag:5 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},33000,0
 buy,contenttweaker:pbd_craftcore,5000,0
 
 # 特制匕首 #
-buy,"backstab:wood_dagger {display: {Lore: ["§7隐藏于黑暗之中，伏杀于静谧之下！"]}}",1200,1
-buy,"backstab:gold_dagger {display: {Lore: ["§7御风，穿行，刀破，人亡。"]}}",1000,1
+buy,backstab:wood_dagger,1200,1
+buy,backstab:gold_dagger,1000,1
 # 近战武器 #
 buy,mw:night_stick,500,1
 buy,mw:baseball_bat,700,1
 buy,mw:baseball_bat_nails,1500,1
 # 手枪 #
-buy,mw:glock_18c,3503,1
-buy,mw:glock_19,3499,1
-buy,mw:m1911,3562,1
-buy,mw:taurus_raging_hunter,4212,1
-buy,mw:desert_eagle,4299,1
-buy,mw:m712,3530,1
+buy,mw:glock_18c,4000,1
+buy,mw:glock_19,4500,1
+buy,mw:m1911,4000,1
+buy,mw:taurus_raging_hunter,4000,1
+buy,mw:desert_eagle,4500,1
+buy,mw:m712,4000,1
 # 冲锋枪 #
-buy,mw:mp5a5,6049,1
-buy,mw:mp7,5887,1
-buy,mw:p90,6081,1
-buy,mw:mac10,6564,1
-buy,mw:mp40,5247,1
-buy,mw:m1928_thompson,5866,1
-buy,mw:kriss_vector,6711,1
-buy,mw:uzi,5355,1
+buy,mw:mp5a5,7500,1
+buy,mw:mp7,7500,1
+buy,mw:p90,7500,1
+buy,mw:mac10,7000,1
+buy,mw:mp40,5000,1
+buy,mw:m1928_thompson,5500,1
+buy,mw:kriss_vector,7000,1
+buy,mw:uzi,5500,1
 # 霰弹枪 #
-buy,mw:m1014,7249,1
-buy,mw:remington870,7265,1
-buy,mw:spas_12,7842,1
-buy,mw:origin12,7692,1
+buy,mw:m1014,9000,1
+buy,mw:remington870,9500,1
+buy,mw:spas_12,8500,1
+buy,mw:origin12,10000,1
 # 步枪 #
-buy,mw:ak47,16830,1
+buy,mw:ak47,12500,1
+buy,mw:g36c,10500,1
 # 狙击枪 #
-buy,mw:m1_garand,16687,1
-buy,mw:springfield,27076,1
-buy,mw:kar98k,30138,1
+buy,mw:m1_garand,15000,1
+buy,mw:springfield,15000,1
+buy,mw:kar98k,16000,1
 # 机枪 #
-buy,mw:dp28,25495,1
+buy,mw:dp28,21500,1
+buy,mw:mg42,21000,1
 
 
 # 机枪弹匣
 buy,mw:M249Mag,200,2
 buy,mw:MG42Mag_2,130,2
-buy,mw:DP28Mag,100.5,2
-buy,mw:M60Mag,200.5,2
+buy,mw:DP28Mag,100,2
+buy,mw:M60Mag,200,2
+buy,mw:M134Mag,1800,2
 # 步枪弹匣
 buy,mw:M4A1Mag_2,70,2
 buy,mw:M38Mag_2,100,2
@@ -96,6 +99,7 @@ buy,mw:VSSVintorezMag_2,140,2
 buy,mw:AS50Mag_2,315,2
 buy,mw:M82Mag_2,315,2
 buy,mw:NTW20Mag,165,2
+buy,mw:l96a1mag_2,25,2
 # 冲锋枪弹匣
 buy,mw:P90Mag,80,2
 buy,mw:MP5A5Mag,55,2
@@ -143,6 +147,7 @@ buy,mw:Bullet762x39,1.5,2
 buy,mw:Bullet50AE,2,2
 buy,mw:Shotgun12Gauge,2.5,2
 buy,mw:Bullet762x51,1.5,2
+buy,mw:Bullet763x25,1,2
 
 
 # 装备
@@ -217,30 +222,30 @@ buy,mw:urban_bergen_backpack,18000,3
 buy,mw:sso_attack_2,18000,3
 buy,mw:forest_sso_attack_2,18000,3
 # 背心
-buy,mw:flyye_field_compact_plate_carrier,3000,3
-buy,mw:forest_flyye_field_compact_plate_carrier,3000,3
-buy,mw:black_flyye_field_compact_plate_carrier,3000,3
-buy,mw:flyye_molle_rrv,3000,3
-buy,mw:black_flyye_molle_rrv,3000,3
-buy,mw:urban_flyye_molle_rrv,3000,3
-buy,mw:force_recon_vest,3000,3
-buy,mw:forest_force_recon_vest,3000,3
-buy,mw:urban_force_recon_vest,3000,3
-buy,mw:black_force_recon_vest,3000,3
-buy,mw:usmc_vest,3000,3
-buy,mw:umbrella_corp_vest,3000,3
-buy,mw:hammer_down_vest,3000,3
-buy,mw:hecu_vest,3000,3
-buy,mw:juggernaut_body_armor,3000,3
-buy,mw:marine_vest,3000,3
-buy,mw:swat_vest,3000,3
-buy,mw:fort_armor,3000,3
-buy,mw:viper_sf,3000,3
-buy,mw:viper_sf_green,3000,3
-buy,mw:viper_sf_desert,3000,3
-buy,mw:blackhawk_ballistic_vest,3000,3
-buy,mw:wfi_task_force_vest,3000,3
-buy,mw:scar_vest,3000,3
+# buy,mw:flyye_field_compact_plate_carrier,3000,3
+# buy,mw:forest_flyye_field_compact_plate_carrier,3000,3
+# buy,mw:black_flyye_field_compact_plate_carrier,3000,3
+# buy,mw:flyye_molle_rrv,3000,3
+# buy,mw:black_flyye_molle_rrv,3000,3
+# buy,mw:urban_flyye_molle_rrv,3000,3
+# buy,mw:force_recon_vest,3000,3
+# buy,mw:forest_force_recon_vest,3000,3
+# buy,mw:urban_force_recon_vest,3000,3
+# buy,mw:black_force_recon_vest,3000,3
+# buy,mw:usmc_vest,3000,3
+# buy,mw:umbrella_corp_vest,3000,3
+# buy,mw:hammer_down_vest,3000,3
+# buy,mw:hecu_vest,3000,3
+# buy,mw:juggernaut_body_armor,3000,3
+# buy,mw:marine_vest,3000,3
+# buy,mw:swat_vest,3000,3
+# buy,mw:fort_armor,3000,3
+# buy,mw:viper_sf,3000,3
+# buy,mw:viper_sf_green,3000,3
+# buy,mw:viper_sf_desert,3000,3
+# buy,mw:blackhawk_ballistic_vest,3000,3
+# buy,mw:wfi_task_force_vest,3000,3
+# buy,mw:scar_vest,3000,3
 
 
 # 配件

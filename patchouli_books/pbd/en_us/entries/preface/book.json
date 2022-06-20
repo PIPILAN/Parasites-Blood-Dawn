@@ -1,0 +1,13 @@
+{
+    "name": "先驱者联盟数据库",
+    "icon": "minecraft:written_book",
+    "category": "patchouli:preface",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type":"crafting",
+            "recipe":"crafttweaker:pbd_guidebook",
+            "text":"如果数据库不慎丢失，可以用以上方法制作。$(br2)  或者你也可以在任务的紧急物品中领取到。"
+        }
+    ]
+}

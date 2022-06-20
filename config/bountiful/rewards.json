@@ -8,7 +8,8 @@
       "min": 1,
       "max": 10
     }
-  },{
+  },
+  {
     "content": "adminshop:check",
     "unitWorth": 100,
     "weight": 200,
@@ -17,7 +18,8 @@
       "min": 1,
       "max": 10
     }
-  },{
+  },
+  {
     "content": "adminshop:check",
     "unitWorth": 1000,
     "weight": 200,
@@ -26,7 +28,8 @@
       "min": 1,
       "max": 10
     }
-  },{
+  },
+  {
     "content": "adminshop:check",
     "unitWorth": 10000,
     "weight": 200,
@@ -853,8 +856,7 @@
   {
     "content": "backstab:wood_dagger",
     "unitWorth": 600,
-    "weight": 700,
-    "nbt_data": "{display:{Lore: [\"§7隐藏于黑暗之中，伏杀于静谧之下！\"]}}",
+    "weight": 10,
     "amount": {
       "min": 1,
       "max": 1
@@ -863,8 +865,7 @@
   {
     "content": "backstab:stone_dagger",
     "unitWorth": 1000,
-    "weight": 600,
-    "nbt_data": "{display:{Lore: [\"§7黑暗之下，唯有一丝希望永存\"]}}",
+    "weight": 10,
     "amount": {
       "min": 1,
       "max": 1
@@ -873,8 +874,7 @@
   {
     "content": "backstab:iron_dagger",
     "unitWorth": 1500,
-    "weight": 500,
-    "nbt_data": "{display:{Lore: [\"§7月下阴影，幽狼现世\"]}}",
+    "weight": 10,
     "amount": {
       "min": 1,
       "max": 1
@@ -883,8 +883,7 @@
   {
     "content": "backstab:gold_dagger",
     "unitWorth": 500,
-    "weight": 720,
-    "nbt_data": "{display:{Lore: [\"§7御风，穿行，刀破，人亡。\"]}}",
+    "weight": 10,
     "amount": {
       "min": 1,
       "max": 1
@@ -893,8 +892,7 @@
   {
     "content": "backstab:diamond_dagger",
     "unitWorth": 3000,
-    "weight": 300,
-    "nbt_data": "{display:{Lore: [\"§7血流成河，血染黎明\"]}}",
+    "weight": 10,
     "amount": {
       "min": 1,
       "max": 1
@@ -903,7 +901,17 @@
   {
     "content": "minecraft:splash_potion",
     "unitWorth": 3200,
-    "weight": 300,
+    "weight": 100,
+    "nbt_data": "{Potion: \"srparasites:res\"}",
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:lingering_potion",
+    "unitWorth": 3200,
+    "weight": 100,
     "nbt_data": "{Potion: \"srparasites:res\"}",
     "amount": {
       "min": 1,
@@ -912,8 +920,8 @@
   },
   {
     "content": "mw:glock_18c",
-    "unitWorth": 3503,
-    "weight": 300,
+    "unitWorth": 4000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -921,8 +929,8 @@
   },
   {
     "content": "mw:glock_19",
-    "unitWorth": 3562,
-    "weight": 300,
+    "unitWorth": 4500,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -930,8 +938,8 @@
   },
   {
     "content": "mw:m1911",
-    "unitWorth": 3562,
-    "weight": 300,
+    "unitWorth": 4000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -940,7 +948,7 @@
   {
     "content": "lootbags:itemlootbag:1",
     "unitWorth": 4000,
-    "weight": 300,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -948,8 +956,8 @@
   },
   {
     "content": "mw:mp40",
-    "unitWorth": 5247,
-    "weight": 300,
+    "unitWorth": 5000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -957,8 +965,8 @@
   },
   {
     "content": "mw:taurus_raging_hunter",
-    "unitWorth": 4212,
-    "weight": 300,
+    "unitWorth": 4000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -966,8 +974,8 @@
   },
   {
     "content": "mw:desert_eagle",
-    "unitWorth": 4299,
-    "weight": 300,
+    "unitWorth": 4500,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -975,8 +983,8 @@
   },
   {
     "content": "mw:mp5a5",
-    "unitWorth": 6049,
-    "weight": 300,
+    "unitWorth": 7500,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -984,8 +992,8 @@
   },
   {
     "content": "mw:mac10",
-    "unitWorth": 6564,
-    "weight": 300,
+    "unitWorth": 700,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -993,8 +1001,8 @@
   },
   {
     "content": "mw:uzi",
-    "unitWorth": 5355,
-    "weight": 300,
+    "unitWorth": 5500,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1002,8 +1010,8 @@
   },
   {
     "content": "mw:mp7",
-    "unitWorth": 5887,
-    "weight": 300,
+    "unitWorth": 7500,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1011,8 +1019,8 @@
   },
   {
     "content": "mw:m1_garand",
-    "unitWorth": 16687,
-    "weight": 50,
+    "unitWorth": 15000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1021,7 +1029,7 @@
   {
     "content": "lootbags:itemlootbag:2",
     "unitWorth": 6000,
-    "weight": 300,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1029,8 +1037,8 @@
   },
   {
     "content": "mw:kriss_vector",
-    "unitWorth": 6711,
-    "weight": 300,
+    "unitWorth": 7000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1038,8 +1046,8 @@
   },
   {
     "content": "mw:p90",
-    "unitWorth": 6081,
-    "weight": 300,
+    "unitWorth": 7500,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1047,8 +1055,8 @@
   },
   {
     "content": "mw:Springfield",
-    "unitWorth": 27076,
-    "weight": 50,
+    "unitWorth": 15000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1056,8 +1064,8 @@
   },
   {
     "content": "mw:m1928_thompson",
-    "unitWorth": 5866,
-    "weight": 300,
+    "unitWorth": 5500,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1065,8 +1073,8 @@
   },
   {
     "content": "mw:Kar98K",
-    "unitWorth": 30138,
-    "weight": 50,
+    "unitWorth": 16000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1074,7 +1082,7 @@
   },
   {
     "content": "mw:ak47",
-    "unitWorth": 16830,
+    "unitWorth": 12500,
     "weight": 100,
     "amount": {
       "min": 1,
@@ -1083,8 +1091,8 @@
   },
   {
     "content": "mw:dp28",
-    "unitWorth": 25495,
-    "weight": 50,
+    "unitWorth": 21500,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1092,7 +1100,7 @@
   },
   {
     "content": "mw:acr",
-    "unitWorth": 16730,
+    "unitWorth": 12500,
     "weight": 100,
     "amount": {
       "min": 1,
@@ -1101,7 +1109,7 @@
   },
   {
     "content": "mw:m16a4",
-    "unitWorth": 16838,
+    "unitWorth": 12000,
     "weight": 100,
     "amount": {
       "min": 1,
@@ -1109,8 +1117,8 @@
     }
   },
   {
-    "content": "lootbags:itemlootbag:4",
-    "unitWorth": 18000,
+    "content": "lootbags:itemlootbag:3",
+    "unitWorth": 22000,
     "weight": 100,
     "amount": {
       "min": 1,
@@ -1119,7 +1127,7 @@
   },
   {
     "content": "mw:g36c",
-    "unitWorth": 16311,
+    "unitWorth": 10500,
     "weight": 100,
     "amount": {
       "min": 1,
@@ -1128,7 +1136,7 @@
   },
   {
     "content": "mw:m4a1",
-    "unitWorth": 16827,
+    "unitWorth": 12000,
     "weight": 100,
     "amount": {
       "min": 1,
@@ -1137,7 +1145,7 @@
   },
   {
     "content": "mw:steyr_aug_a1",
-    "unitWorth": 16652,
+    "unitWorth": 12000,
     "weight": 100,
     "amount": {
       "min": 1,
@@ -1146,17 +1154,17 @@
   },
   {
     "content": "mw:vss_vintorez",
-    "unitWorth": 22736,
-    "weight": 50,
+    "unitWorth": 18000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
     }
   },
   {
-    "content": "lootbags:itemlootbag:3",
-    "unitWorth": 35000,
-    "weight": 50,
+    "content": "lootbags:itemlootbag:4",
+    "unitWorth": 12000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1164,8 +1172,8 @@
   },
   {
     "content": "lootbags:itemlootbag:5",
-    "unitWorth": 25000,
-    "weight": 50,
+    "unitWorth": 22000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1173,8 +1181,8 @@
   },
   {
     "content": "mw:m249",
-    "unitWorth": 26673,
-    "weight": 50,
+    "unitWorth": 22000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1182,8 +1190,8 @@
   },
   {
     "content": "mw:mg42",
-    "unitWorth": 25647,
-    "weight": 50,
+    "unitWorth": 21000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1191,8 +1199,8 @@
   },
   {
     "content": "mw:as50",
-    "unitWorth": 43684,
-    "weight": 50,
+    "unitWorth": 25000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1200,8 +1208,8 @@
   },
   {
     "content": "mw:m82_barrett",
-    "unitWorth": 43684,
-    "weight": 50,
+    "unitWorth": 25000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1209,8 +1217,8 @@
   },
   {
     "content": "mw:ntw_20",
-    "unitWorth": 68724,
-    "weight": 50,
+    "unitWorth": 50000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1218,8 +1226,8 @@
   },
   {
     "content": "mw:m60e4",
-    "unitWorth": 27195,
-    "weight": 50,
+    "unitWorth": 26000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1227,7 +1235,7 @@
   },
   {
     "content": "mw:m16a1",
-    "unitWorth": 16893,
+    "unitWorth": 12000,
     "weight": 100,
     "amount": {
       "min": 1,
@@ -1236,7 +1244,7 @@
   },
   {
     "content": "mw:ak15",
-    "unitWorth": 16897,
+    "unitWorth": 12500,
     "weight": 100,
     "amount": {
       "min": 1,
@@ -1245,7 +1253,7 @@
   },
   {
     "content": "mw:ak101",
-    "unitWorth": 16371,
+    "unitWorth": 11500,
     "weight": 100,
     "amount": {
       "min": 1,
@@ -1254,8 +1262,8 @@
   },
   {
     "content": "mw:spas_12",
-    "unitWorth": 7842,
-    "weight": 150,
+    "unitWorth": 8500,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1263,8 +1271,8 @@
   },
   {
     "content": "mw:origin12",
-    "unitWorth": 7692,
-    "weight": 150,
+    "unitWorth": 10000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1272,8 +1280,8 @@
   },
   {
     "content": "mw:l96a1",
-    "unitWorth": 35469,
-    "weight": 50,
+    "unitWorth": 17000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1281,8 +1289,8 @@
   },
   {
     "content": "mw:ump_45",
-    "unitWorth": 5866,
-    "weight": 300,
+    "unitWorth": 6000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1
@@ -1290,8 +1298,17 @@
   },
   {
     "content": "mw:m712",
-    "unitWorth": 3530,
-    "weight": 300,
+    "unitWorth": 4000,
+    "weight": 100,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "mw:m134",
+    "unitWorth": 80000,
+    "weight": 100,
     "amount": {
       "min": 1,
       "max": 1

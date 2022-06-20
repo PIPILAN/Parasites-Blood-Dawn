@@ -5,7 +5,19 @@
 	default_autoclaim_rewards: "disabled",
 	default_quest_shape: "circle",
 	default_quest_disable_jei: false,
-	emergency_items_cooldown: "5m",
+	emergency_items: [{
+		item: "adminshop:shop"
+	},
+	{
+		item: "bountiful:bountyboarditem"
+	},
+	{
+		id: "patchouli:guide_book",
+		tag: {
+			"patchouli:book": "patchouli:pbd"
+		}
+	}],
+	emergency_items_cooldown: "1m",
 	drop_loot_crates: false,
 	loot_crate_no_drop: {
 		passive: 4000,

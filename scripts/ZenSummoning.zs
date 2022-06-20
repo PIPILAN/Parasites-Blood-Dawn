@@ -23,7 +23,7 @@ SummoningDirector.addSummonInfo(
             //偏移量(X,Y,Z)
             .setSpread(0,1,0)
             //散步范围，空间，比如现在就是xyz各1格的出现范围
-            .setData({"DeathLootTable":"loottweaker:ancestoroverlord", "CustomName":"§4始祖君魔", "PersistenceRequired":"1b", "Health": 500, "Attributes":[{"Name":"generic.attackDamage","Base":30},{"Name":"generic.maxHealth","Base":500},{"Name":"generic.armor","Base":20},{"Name":"generic.armorToughness","Base":8}]})
+            .setData({"DeathLootTable":"loottweaker:ancestoroverlord", "CustomName":"§4始祖君魔", "PersistenceRequired":"1b", "Health": 2000, "Attributes":[{"Name":"generic.attackDamage","Base":50},{"Name":"generic.maxHealth","Base":2000},{"Name":"generic.armor","Base":20},{"Name":"generic.armorToughness","Base":8}]})
             //设置NBT
         )
         .addMob(MobInfo.create()
@@ -49,7 +49,7 @@ SummoningDirector.addSummonInfo(
             .setCount(1)
             .setOffset(0,5,0)
             .setSpread(0,1,0)
-            .setData({"DeathLootTable":"loottweaker:ancestordreadnaut", "CustomName":"§4始祖惧魔", "PersistenceRequired":"1b", "Health": 400, "Attributes":[{"Name":"generic.attackDamage","Base":25},{"Name":"generic.maxHealth","Base":400},{"Name":"generic.armor","Base":20},{"Name":"generic.armorToughness","Base":8}]})
+            .setData({"DeathLootTable":"loottweaker:ancestordreadnaut", "CustomName":"§4始祖惧魔", "PersistenceRequired":"1b", "Health": 1600, "Attributes":[{"Name":"generic.attackDamage","Base":40},{"Name":"generic.maxHealth","Base":1600},{"Name":"generic.armor","Base":20},{"Name":"generic.armorToughness","Base":8}]})
         )
         .addMob(MobInfo.create()
             .setMob("srparasites:beckon_siv")

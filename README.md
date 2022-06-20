@@ -1,5 +1,5 @@
 # Parasites: Blood Dawn
-![](Parasite_Blood_Dawn.png)
+![](Document/Parasite_Blood_Dawn.png)
 
 WIKI地址：https://gitee.com/pipilans/Parasites-Blood-Dawn/wikis/pages
 
