@@ -16,8 +16,8 @@ body:
   - type: dropdown
     id: check
     attributes:
-      label: 校验 (Check)
-      description: 是否有增添模组或者修改配置文件？ (Are there any modules added or configuration files modified?)
+      label: 是否有增添模组或者修改配置文件？ (Are there any modules added or configuration files modified?)
+      description: 请诚实回答！这很重要。 (Please be honest! That's important.)
       options:
         - 是
         - 否
@@ -27,8 +27,8 @@ body:
     id: modpack-version
     attributes:
       label: 整合包版本 (Modpack Version)
-      description: 请输入您所游玩的整合包版本。(Please enter the modpack version you are playing.)
-      placeholder: 例如：1.0.4.2 (e.g. 3.5.2.218)
+      description: 请输入您所游玩的整合包版本，不是游戏版本。(Please enter the modpack version you are playing,not game version.)
+      placeholder: 例如：1.0.4.2 (e.g. 1.0.4.2)
     validations:
       required: true
   - type: input
