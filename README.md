@@ -27,3 +27,5 @@ WIKI地址：https://gitee.com/pipilans/Parasites-Blood-Dawn/wikis/pages
 - 在没有得到我允许的情况下用于运营商业性质的服务器
 - 对该整合包进行收费或从事其他商业行为
 - 宣称这是你的整合包
+
+牛
