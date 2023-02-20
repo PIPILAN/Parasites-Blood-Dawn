@@ -1,8 +1,0 @@
-type = customizablemenus
-
-net.minecraft.client.gui.inventory.GuiContainerCreative {
-}
-
-net.minecraft.client.gui.GuiMainMenu {
-}
-
