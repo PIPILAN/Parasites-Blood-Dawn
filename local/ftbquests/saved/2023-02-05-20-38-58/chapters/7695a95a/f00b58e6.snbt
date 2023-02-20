@@ -1,0 +1,28 @@
+{
+	icon: "srparasites:itemmobspawner_infhuman",
+	x: 0.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "9132b9f1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_data11"
+		}]
+	}],
+	rewards: [{
+		uid: "ca3e1422",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$200.0"
+				},
+				value: 200.0d
+			}
+		}
+	}]
+}

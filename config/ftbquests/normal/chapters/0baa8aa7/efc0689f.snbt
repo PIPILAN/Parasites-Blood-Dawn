@@ -1,0 +1,28 @@
+{
+	icon: "srparasites:itemmobspawner_inhoos",
+	x: -1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "de3206ab",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_inhoos",
+		entity: "srparasites:incompleteform_small",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "7394eab3",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$100.0"
+				},
+				value: 100.0d
+			}
+		}
+	}]
+}

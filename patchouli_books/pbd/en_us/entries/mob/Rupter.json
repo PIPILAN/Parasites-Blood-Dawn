@@ -1,0 +1,20 @@
+{
+    "name": "裂兽",
+    "icon": "srparasites:itemmobspawner_mudo",
+    "category": "patchouli:mob",
+    "sortnum": 1,
+    "pages": [
+		{
+			"type":"entity",
+			"entity":"srparasites:rupter",
+			"scale":"0.5",
+			"title":"裂兽"
+		},
+		{
+			"type":"text",
+			"text":"$(br)◆ 生命值：10.0$(br)◆ 攻击力：5.0$(br)◆ 防御力：5.0$(br)◆ 击退抗性：20%$(br2)▸ 裂兽是最低级的寄生虫，由虫灵成长而成，在演化阶段达到阶段1后也可以自然生成。裂兽脆弱但灵活，可以像蜘蛛一样爬墙，在演化早期负责向生物传播寄群之唤并将他们转变为寄生生物，在演化后期作为一种低等召唤物也可以辅助攻击。"
+		}
+    ]
+}
+
+

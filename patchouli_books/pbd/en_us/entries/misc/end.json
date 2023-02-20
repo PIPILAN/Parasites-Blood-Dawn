@@ -1,0 +1,14 @@
+{
+    "name": "奇怪的文件",
+    "icon": "itemfilters:missing",
+    "category": "patchouli:misc",
+    "sortnum": 10,
+    "pages": [
+		{
+			"type":"image",
+            "border":"true",
+			"images":["patchouli:textures/entries/misc/end.png"],
+			"text":"奇怪的图形，不知道具体作用"
+		}
+    ]
+}

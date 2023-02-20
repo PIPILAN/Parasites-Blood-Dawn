@@ -1,0 +1,33 @@
+type = menu
+
+customization-meta {
+  identifier = ejektaflex.bountiful.gui.GuiBoard
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources/image/all_.png
+  description = 悬赏榜会根据你的见闻提升等级%n%解锁方法为&a近战&f攻击一次相应等级的寄生体%n%比如近战攻击一次裂兽即可解锁一级赏金等级
+  label = 悬赏说明
+  loopbackgroundanimations = true
+  x = -137
+  width = 48
+  actionid = 39f23ab5-69d5-4dec-8458-c6fac489c0ac1675757880062
+  action = addbutton
+  y = -79
+  backgroundnormal = resources/image/all.png
+  value = 
+  height = 20
+}
+

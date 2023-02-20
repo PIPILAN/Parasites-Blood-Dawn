@@ -1,0 +1,14 @@
+{
+	title: "2196年",
+	disable_toast: true,
+	x: 4.5d,
+	y: 1.0d,
+	description: "太阳二次变异，此次变异辐射出现异常状态，对寄生虫寄生生物表现出强烈杀伤性，这意味着有98%的人类都无法暴露在阳光之下，否则他们会逐步燃为灰烬，人类被迫进入地下生存，建造了地下巨型城市——天盾城。",
+	dependencies: [
+		"7a40738d"
+	],
+	tasks: [{
+		uid: "eb3fdee7",
+		type: "checkmark"
+	}]
+}

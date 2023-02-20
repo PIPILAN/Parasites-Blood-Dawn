@@ -1,0 +1,6 @@
+{
+	"name": "生物",
+	"description": "$(br)  在这里您可以查询到生物的信息。$(br2) 这边的信息还不完整，之后会补全。",
+	"icon": "srparasites:itemtab",
+    "sortnum": 1
+}

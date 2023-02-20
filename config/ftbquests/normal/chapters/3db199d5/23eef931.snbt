@@ -1,0 +1,96 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	text: [
+		"使用食品加工台可以制作三明治，各种食物综合到一起，管饱易携带，如果有药水还可以添加效果！",
+		"&4目前三明治无法恢复理智值，等待后续修复"
+	],
+	tasks: [{
+		uid: "08090269",
+		type: "item",
+		title: "三明治",
+		items: [{
+			ForgeCaps: {
+				"foodfunk:rot": {
+					start: 0L,
+					time: 0L
+				}
+			},
+			id: "culinaryconstruct:sandwich",
+			tag: {
+				Size: 5,
+				Saturation: 1.0f,
+				Rot: {
+					start: 0L,
+					time: 0L
+				},
+				Ingredients: {
+					Items: [{
+						Slot: 0b,
+						id: "minecraft:nether_star",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 1b,
+						id: "minecraft:nether_star",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 2b,
+						id: "minecraft:nether_star",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 3b,
+						id: "minecraft:nether_star",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 4b,
+						id: "minecraft:nether_star",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 5b,
+						id: "minecraft:bread",
+						Count: 1b,
+						Damage: 0s
+					}]
+				},
+				Bonus: 2,
+				Depth: 0,
+				Food: 20
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b3ef4983",
+		type: "item",
+		items: [{
+			item: "culinaryconstruct:sandwich_station"
+		}]
+	}],
+	rewards: [{
+		uid: "a80699a4",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
+	}]
+}

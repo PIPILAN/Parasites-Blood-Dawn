@@ -1,0 +1,35 @@
+{
+	title: "火之高兴",
+	icon: {
+		id: "minecraft:enchanted_book",
+		tag: {
+			StoredEnchantments: [{
+				lvl: 1s,
+				id: 50s
+			}]
+		}
+	},
+	loot_size: 1,
+	rewards: [{
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1s,
+					id: 50s
+				}]
+			}
+		}
+	},
+	{
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 2s,
+					id: 20s
+				}]
+			}
+		}
+	}]
+}

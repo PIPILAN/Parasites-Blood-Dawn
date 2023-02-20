@@ -1,0 +1,29 @@
+{
+	icon: "srparasites:itemmobspawner_dorpa",
+	x: -6.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "42ff4af8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_data9"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "b98280aa",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$300.0"
+				},
+				value: 300.0d
+			}
+		}
+	}]
+}

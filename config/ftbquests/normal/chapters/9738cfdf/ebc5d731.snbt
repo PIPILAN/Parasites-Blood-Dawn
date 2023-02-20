@@ -1,0 +1,29 @@
+{
+	icon: "srparasites:itemmobspawner_elvia",
+	x: 1.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "36e72aeb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_data62"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "336042af",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$15000.0"
+				},
+				value: 15000.0d
+			}
+		}
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"工匠包可以将损坏的装备和武器拆解为原材料，在资源不是很多的现在，还是很有必要的！"
+	],
+	tasks: [{
+		uid: "c6ddb104",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_craftsmansbag"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1ac5d8ac",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
+	}]
+}

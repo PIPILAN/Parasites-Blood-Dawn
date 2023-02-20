@@ -1,0 +1,28 @@
+{
+	icon: "srparasites:itemmobspawner_lencia",
+	x: -1.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "ca34b574",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_data63"
+		}]
+	}],
+	rewards: [{
+		uid: "56ce639a",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$10000.0"
+				},
+				value: 10000.0d
+			}
+		}
+	}]
+}

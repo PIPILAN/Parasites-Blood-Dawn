@@ -1,0 +1,21 @@
+{
+	title: "小工具",
+	icon: "overlast:evo_device",
+	description: [
+		"这是一些新奇的小玩意，有些很有用"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "rsquare",
+	images: [{
+		x: 0.5d,
+		y: -2.5d,
+		width: 9.0d,
+		height: 1.0d,
+		rotation: 0.0d,
+		image: "lostcities:textures/gui/logo.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

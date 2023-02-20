@@ -1,0 +1,7681 @@
+{
+  "recipes": [
+    {
+      "entryName": "mw:glock_18c",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_sidearmparts",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 7
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:glock_19",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_sidearmparts",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m1911",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_sidearmparts",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:p226",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_sidearmparts",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m9a1",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_sidearmparts",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:taurus_raging_hunter",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_sidearmparts",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:desert_eagle",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_sidearmparts",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 7
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m712",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_sidearmparts",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mp5a5",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_submachinegunparts",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 7
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mp7",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_submachinegunparts",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 7
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:p90",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_submachinegunparts",
+          "isOreDictionary": false,
+          "count": 9
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 7
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mac10",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_submachinegunparts",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 7
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mp40",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_submachinegunparts",
+          "isOreDictionary": false,
+          "count": 7
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 7
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m1928_thompson",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_submachinegunparts",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:vector",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_submachinegunparts",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 9
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:uzi",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_submachinegunparts",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 7
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ump_45",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_submachinegunparts",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 9
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:apc9",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_submachinegunparts",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m1014",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_shotgunparts",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:remington870",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_shotgunparts",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:browning_auto_5",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_shotgunparts",
+          "isOreDictionary": false,
+          "count": 9
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mp43e",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_shotgunparts",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:spas_12",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_shotgunparts",
+          "isOreDictionary": false,
+          "count": 9
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:origin12",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_shotgunparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 7
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m16a4",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_rifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m4a1",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_rifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak47",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_rifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak74",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_rifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:izhmash_ak12",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_rifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:acr",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_rifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:g36c",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_rifleparts",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 9
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:steyr_aug_a1",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_rifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m16a1",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_rifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak15",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_rifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak101",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_rifleparts",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:vss_vintorez",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_longrangerifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m1_garand",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_longrangerifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "entryName": "mw:springfield",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_longrangerifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:springfield",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_longrangerifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:kar98k",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_longrangerifleparts",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:g43_gewehr",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_longrangerifleparts",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "immersiveengineering:treated_wood",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:as50",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_longrangerifleparts",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m82_barrett",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_longrangerifleparts",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:l96a1",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_longrangerifleparts",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m200_intervention",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_longrangerifleparts",
+          "isOreDictionary": false,
+          "count": 18
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m249",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_machinegunparts",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 18
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mg42",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_machinegunparts",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 18
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 18
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:dp28",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_machinegunparts",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 18
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m60e4",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_machinegunparts",
+          "isOreDictionary": false,
+          "count": 30
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m134",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_heavygunparts",
+          "isOreDictionary": false,
+          "count": 50
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 30
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 30
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 16
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m67frag",
+      "craftingGroup": "GUN",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_heavygunparts",
+          "isOreDictionary": false,
+          "count": 50
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 30
+        },
+        {
+          "entryName": "mw:gunmetalplate",
+          "isOreDictionary": false,
+          "count": 30
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "contenttweaker:pbd_spring",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "contenttweaker:pbd_screw",
+          "isOreDictionary": false,
+          "count": 16
+        }
+      ]
+    },
+    {
+      "entryName": "mw:silencer556x45",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:silencer762x39",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:silencer12gauge",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:silencer50bmg",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:silencer9mm",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:silencermp7",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:silencer57x38",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:silencer45acp",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:samuraiedgesuppressor",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:silencer545x39",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:holographic2",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:eotechhybrid2",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:tritiumrearsights",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:holographicalt",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:aimpointcompm5",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:specter",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:bijiareflex",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:microreflex",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:acog",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:vortexsight",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:kobragen3",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:leupoldrailscope",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:reflex",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:microt1",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:kobra",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:nightraiderscope",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:augscope",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:rmrsight",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:pso1",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:okp7",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:kobramount",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:aimpointcompm2",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:hpscope",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "rewired:ecglass",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:laser",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "immersiveengineering:material:27",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:laser2",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:copperingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "immersiveengineering:material:27",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:bipod",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:junogrip",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:grip2",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:vgrip",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:angledgrip",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:stubbygrip",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:auggrip",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m1928grip",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m1a1grip",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:syntheticpolymercomposite",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ar15iron",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:akmiron",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mbusrearsights",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:hk416rearsights",
+      "craftingGroup": "ATTACHMENT_NORMAL",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M4Receiver",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:VLTORReceiver",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AUGA3extGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M16A1PicatinnyRail",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Remington870Barrel",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Remington870SawedBarrel",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Remington870PoliceMagnumBarrel",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:KrissVectorReceiver",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:UMP45Receiver",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:UMP9Receiver",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M4FrontSight",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M38FrontSight",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:hk416frontsight",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MBUSFrontSight",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AKIron",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:RPKbarrel",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AUGParaConversion",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AUGDefaultKit",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:VSSVintorezTriRailMount",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP7IronSights",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP7IronSightsStanding",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak12ironsight",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:krissvector556handguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Glock19Slide",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Glock19XSlide",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Glock18CSlide",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:glock18ccncslide",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:GlockRazorbackSlide",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:glock19ghostprecisionslide",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Glock19RockslideOlive",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M191144MagSlide",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M1911Slide",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m9a1slide",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:samuraiedgeslide",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Mk18HandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M16HandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M4MagpulHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M4MagpulHandGuardTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:LVOAVHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M16A4HandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M4CarbineHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M4HandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:FSSTacLiteHandguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Mk18HandGuardBlack",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Block2SOCOMHandguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AK47HandleGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MLOKExtendedHandguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRPrecisionHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRSBRHandGuardTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRHandGuardBlack",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRWEMSKHandguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRSquareDropHandguardTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRPolymerHandguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRPrecisionHandGuardTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRPolymerHandguardTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRSquareDropHandguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRWEMSKHandguardTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRSBRHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:EF88Handguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AUGA1",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AUGA2handguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AUGA3handguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M16A1Handguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:RPK16handguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AK15HandleGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MLOKHandguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Remington870Pump",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Remington870MagpulPump",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Remington870PoliceMagnumPump",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Remington870FABDefensePump",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Origin12Handguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:HKS20Handguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP5NavyHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP5BMHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:UTGTriRailHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MIMP5MHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP5A5HandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP5SDHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:VectorMk1ModularHandguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:VectorCarbineHandguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:samuraiedgemount",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M4Grip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M4GripTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M4GripGray",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:HeraArmsGrip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:HK416Grip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AKErgoGripTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AK47Grip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AKErgoGrip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AK101Grip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:origin12grip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:hks20grip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP5HOGUEGrip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:P90Terminator",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:P90DefaultKit",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:VectorTapedGrip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Glock19Body",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Glock19XBody",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:GlockRazorbackBody",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M191144MagBody",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M1911Body",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:DesertEagleBody",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m9a1body",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:samuraiedgebody",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:HeraArmsStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M249MilspecStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:CollapsableMOEStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MagpulCTRStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MagpulCTRStockTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:HK416Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:HK416StockTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M16Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MilSpecStockTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AK101Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AK101Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:RPKstock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRStockBlack",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRFixedStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRFixedStockTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRPRSStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRPRSStockTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRLongRangeStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ACRPDWStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M4BenelliStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M1014Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Remington870Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Remington870PoliceMagnumStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Remington870MilSpecStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Remington870HK416StockStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Remington870SawedGrip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Spas12Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:origin12stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:HKS20Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:VSSVintorezStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ASValHandguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak12bhandguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak12handguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:VSSVintorezMilspecStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP5StockAdapter",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP5A3Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP5A4Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP5Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP7Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MP7MilSpecStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MAC10Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MAC21Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:VectorStockAdapter",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:UMP45Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Glock18Cstock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:GlockHogueGrip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:GlockHogueGripTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak12grip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak12ergogrip",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AKMDustcover",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:VeprDustCover",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AK47Dustcover",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AK101DustCover",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M16A1ScopeMount",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AK15DustCover",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ShotgunRail",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:VSSMDustCover",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:VSSVintorezDustCover",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak12bdustcover",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak12dustcover",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Kar98Ksight",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Kar98Krail",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MIMP5TRRail",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MIMP5MRail",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:P90swordfish",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:RailRiser",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:fabdefensemount",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M249HandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M249Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Mk48HandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M249UpperHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Mk48UpperHandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M249ParaStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M249Hk416Stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M60HandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M60E4Guard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M60FrontSight",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:M60Rail",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:VectorStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AR57Receiver",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AR57Handguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:MilSpecStock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak74stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak12stock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak12zenitcostock",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AK101HandGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AKMagpulHandleGuard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:AKMagpulHandleGuardTan",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak74handguard",
+      "craftingGroup": "ATTACHMENT_MODIFICATION",
+      "recipe": [
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:combat_sustainment_backpack",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:combat_sustainment_backpack_black",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:combat_sustainment_backpack",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 4
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:assault_backpack",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:assault_backpack_black",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:assault_backpack_forest",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:f5switchbladebackpack",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:tru_spec_cordura_backpack",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 16
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:tru_spec_cordura_backpack_black",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 16
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:tru_spec_cordura_backpack_forest",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 16
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m43a_chest_harness",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:flyye_field_compact_plate_carrier",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:molle_black",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:molle_green",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:molle_urban",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:swat_vest",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:juggernaut_helmet",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "srparasites:living_core",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "srparasites:vile_shell",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 40
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 16
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 16
+        }
+      ]
+    },
+    {
+      "entryName": "mw:juggernaut_chest",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "srparasites:living_core",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "srparasites:vile_shell",
+          "isOreDictionary": false,
+          "count": 3
+        },
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 45
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 18
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 18
+        }
+      ]
+    },
+    {
+      "entryName": "mw:juggernaut_boots",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "srparasites:living_core",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "srparasites:vile_shell",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 40
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 16
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 16
+        }
+      ]
+    },
+    {
+      "entryName": "mw:swat_helmet",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "srparasites:vile_shell",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 30
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:swat_chest",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "srparasites:vile_shell",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 40
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 16
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 16
+        }
+      ]
+    },
+    {
+      "entryName": "mw:swat_boots",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "srparasites:vile_shell",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 30
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:marine_helmet",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "entryName": "mw:marine_chest",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 30
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:marine_boots",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:spec_ops_helmet",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "entryName": "mw:spec_ops_chest",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 30
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:spec_ops_boots",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:spetznaz_helmet",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "entryName": "mw:spetznaz_chest",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 30
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:spetznaz_boots",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:urban_helmet",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "entryName": "mw:urban_chest",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 30
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:urban_boots",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ghillie_helmet",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 25
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 10
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ghillie_chest",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 30
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 12
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ghillie_boots",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:santa_helmet",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:santa_chest",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:santa_boots",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:nazisanta_helmet",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:nazisanta_chest",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 20
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:nazisanta_boots",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "mw:carbonfiber",
+          "isOreDictionary": false,
+          "count": 15
+        },
+        {
+          "entryName": "mw:gunmetalingot",
+          "isOreDictionary": false,
+          "count": 6
+        },
+        {
+          "entryName": "mw:syntheticplastic",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "overlast:specimen_cell",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "srparasites:ada_summoner_drop",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "srparasites:ada_manducater_drop",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "srparasites:assimilated_flesh",
+          "isOreDictionary": false,
+          "count": 16
+        },
+        {
+          "entryName": "srparasites:beckon_drop",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "srparasites:dispatcher_drop",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "overlast:boss_chip>",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "srparasites:living_core",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "srparasites:vile_shell",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "srparasites:lurecomponent1",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "srparasites:lurecomponent2",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "srparasites:lurecomponent3",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "srparasites:lurecomponent4",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "srparasites:lurecomponent5",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "srparasites:lurecomponent6",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "overlast:specimen_infect",
+      "craftingGroup": "GEAR",
+      "recipe": [
+        {
+          "entryName": "srparasites:infestedstain",
+          "isOreDictionary": false,
+          "count": 64
+        },
+        {
+          "entryName": "srparasites:infestedtrunk",
+          "isOreDictionary": false,
+          "count": 64
+        },
+        {
+          "entryName": "srparasites:infestedrubble",
+          "isOreDictionary": false,
+          "count": 64
+        },
+        {
+          "entryName": "srparasites:biomeheart",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "srparasites:colonyheart",
+          "isOreDictionary": false,
+          "count": 2
+        },
+        {
+          "entryName": "srparasites:parasitetrunk",
+          "isOreDictionary": false,
+          "count": 64
+        },
+        {
+          "entryName": "srparasites:parasitestain",
+          "isOreDictionary": false,
+          "count": 64
+        },
+        {
+          "entryName": "srparasites:parasitethin",
+          "isOreDictionary": false,
+          "count": 64
+        },
+        {
+          "entryName": "srparasites:parasitesapling",
+          "isOreDictionary": false,
+          "count": 64
+        },
+        {
+          "entryName": "srparasites:parasitemouth",
+          "isOreDictionary": false,
+          "count": 64
+        },
+        {
+          "entryName": "overlast:crops",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet3006Springfield",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet792x57",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet44",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet556x45",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet762x54",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet9x39mm",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet50BMG",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 5
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet20x82mm",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 8
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 4
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet9x19mm",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet46x30mm",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet57x28mm",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet45ACP",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet762x39",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet50AE",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Shotgun12Gauge",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet762x51",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:Bullet763x25",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:bullet545x39",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:bullet408ct",
+      "craftingGroup": "BULLET",
+      "recipe": [
+        {
+          "entryName": "contenttweaker:pbd_ingotbrass",
+          "isOreDictionary": false,
+          "count": 1
+        },
+        {
+          "entryName": "minecraft:gunpowder",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m249mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mg42mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:dp28mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m60mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m134mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 100
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m4a1mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m38mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:stanag50",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:stanag60",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:stanag100",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "entryName": "mw:g36cmag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak100mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 10
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak15mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak47mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak47pmagtan",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak50mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak75mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak74mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak12mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak74mag60",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak75mag545x39",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 8
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak12mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:aug9mmmag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak101mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ak60mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 6
+        }
+      ]
+    },
+    {
+      "entryName": "mw:socom_mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:vssvintorezmag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:as50mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m82mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:asvalmag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:l96a1mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:p90mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mp5a5mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:hk50drum",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mp7mag20",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mp7mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:p90terminatormag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 7
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mac10mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:mp40mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m1928mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m1a1mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:vectormag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:uzimag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ump45mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:ump9mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:apc9mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:famasf1mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:vectordrummag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:glockmag13",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:glock18cmag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m9mag30",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "entryName": "mw:glockmag50",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m1911_44mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m9mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m9drummag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 7
+        }
+      ]
+    },
+    {
+      "entryName": "mw:samuraiedgemag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m45a1mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m45a1mag14",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:deserteaglemag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:m712mag_2",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:origin12mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:origin12drummag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "entryName": "mw:g43_gewehr_mag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    },
+    {
+      "entryName": "mw:interventionmag",
+      "craftingGroup": "MAGAZINE",
+      "recipe": [
+        {
+          "entryName": "mw:steelingot",
+          "isOreDictionary": false,
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

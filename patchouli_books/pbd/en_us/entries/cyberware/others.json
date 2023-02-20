@@ -1,0 +1,31 @@
+{
+    "name": "其他重要方块",
+    "icon": "cyberware:scanner",
+    "category": "patchouli:cyberware",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type":"spotlight",
+            "item": "cyberware:scanner",
+            "link_recipe":"true",
+            "text":"  本模组的核心方块之一。$(br2)  将搜集到的废弃机械零件和纸放入对应的GUI内即可开始自动扫描。$(br2)  可通过放置多个相同的零件增加出蓝图的概率，但最多不超过百分之五十，是蓝图的主要来源。本方块运行不需要能量。"
+        },
+        {
+            "type":"spotlight",
+            "item": "cyberware:beacon_large",
+            "link_recipe":"true",
+            "text":"  建造此多方块结构需要无限电信号塔和无线电信号塔零件，二者都需合成。$(br2)  成型的信号塔可将在其一定范围内的普通僵尸和普通骷髅转变为半机械怪物（在生成普通怪物的瞬间即刻进行转化判定，概率为20%）。"
+        },
+        {
+            "type":"text",
+            "text":"  $(br)  因此建议把获取到的第一批基础材料用来合成信号塔并摆放在城市中攻楼，可以高效率获取机械零件。$(br2)  机械零件“颅内广播装置”也有此功效，但转化几率比信号塔低得多。$(br2)  信号塔结构如右图，红色区域也需放置无线电信号塔零件，然后再放上无线电信号塔即可。（这里没有放是因为放上去就直接转变为信号塔整体了，羊毛方便看高度）"
+        },
+		{
+			"type":"image",
+            "border":"true",
+			"images":["patchouli:textures/entries/cyberware/radiotower.png"],
+			"text":"            信号塔支架结构"
+		}
+    ]
+}
+

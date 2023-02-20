@@ -1,0 +1,34 @@
+{
+	title: "2256年7月1日",
+	x: 11.5d,
+	y: 0.0d,
+	description: "今天，在先驱者联盟的组织下，你们将抵达地表，为我们收集重要的数据......",
+	dependencies: [
+		"91e619b7"
+	],
+	tasks: [{
+		uid: "59fccaba",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "973e9917",
+		type: "item",
+		item: "backstab:wood_dagger"
+	},
+	{
+		uid: "6fbd6ff1",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
+	}]
+}

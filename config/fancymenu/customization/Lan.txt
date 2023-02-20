@@ -1,0 +1,32 @@
+type = menu
+
+customization-meta {
+  identifier = rikka.lanserverproperties.ShareToLanScreen2
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  description = 如果你想关闭PVP，可以打开背包%n%在左上角找到并点开客户端设定%n%然后打开我的服务器设置%n%找到启用PVP，将其设置为false即可
+  label = 帮助
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:345100
+  x = -44
+  width = 30
+  actionid = 38c47fb6-6714-4a0b-b29b-33dbd02f14b01675606011453
+  action = addbutton
+  y = 0
+  value = 
+  height = 20
+}
+

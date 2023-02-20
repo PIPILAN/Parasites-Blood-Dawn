@@ -1,0 +1,7 @@
+{
+	title: "纯粹种",
+	icon: "srparasites:itemmobspawner_esor",
+	always_invisible: false,
+	group: 1661514835,
+	default_quest_shape: ""
+}

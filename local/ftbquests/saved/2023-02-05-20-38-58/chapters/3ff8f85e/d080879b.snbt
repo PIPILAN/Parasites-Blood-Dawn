@@ -1,0 +1,29 @@
+{
+	icon: "srparasites:itemmobspawner_oronco",
+	x: 2.0d,
+	y: 0.0d,
+	size: 3.0d,
+	tasks: [{
+		uid: "850f5815",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_data67"
+		}]
+	}],
+	rewards: [{
+		uid: "9d8f7eef",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$20000.0"
+				},
+				value: 20000.0d
+			}
+		}
+	}]
+}

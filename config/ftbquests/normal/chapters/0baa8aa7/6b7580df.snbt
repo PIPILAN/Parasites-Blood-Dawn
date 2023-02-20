@@ -1,0 +1,29 @@
+{
+	icon: "srparasites:itemmobspawner_host",
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "ac03ba88",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_data34"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "fe6d24a8",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$1200.0"
+				},
+				value: 1200.0d
+			}
+		}
+	}]
+}

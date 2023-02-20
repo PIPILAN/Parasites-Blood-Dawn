@@ -1,0 +1,12 @@
+{
+	title: "编年史",
+	disable_toast: true,
+	x: -0.5d,
+	y: 0.0d,
+	description: "让我们一步步揭开人类走过的历史...",
+	tasks: [{
+		uid: "1ffb122b",
+		type: "checkmark",
+		title: "希望"
+	}]
+}

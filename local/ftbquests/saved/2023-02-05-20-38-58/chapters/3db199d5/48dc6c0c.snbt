@@ -1,0 +1,30 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	text: [
+		"从大灾变以来最伟大的发明，可以将被寄生的生物逐步还原为原始生物，也可以去除生物体内的寄群之患！"
+	],
+	tasks: [{
+		uid: "d360537d",
+		type: "item",
+		items: [{
+			item: "overlast:injected_potion"
+		}]
+	}],
+	rewards: [{
+		uid: "d1a509f9",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$1000.0"
+				},
+				value: 1000.0d
+			}
+		}
+	}]
+}

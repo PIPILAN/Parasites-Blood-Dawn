@@ -1,0 +1,14 @@
+{
+	title: "2106年",
+	disable_toast: true,
+	x: 0.5d,
+	y: 1.0d,
+	description: "太阳活动异常，人类检测到太阳出现异常辐射波，这种辐射波被发现对寄生虫类生物有超强促进作用，可以使他们的生长与进化从几年降低到几个月甚至几天。",
+	dependencies: [
+		"78a97417"
+	],
+	tasks: [{
+		uid: "0ad71ffa",
+		type: "checkmark"
+	}]
+}

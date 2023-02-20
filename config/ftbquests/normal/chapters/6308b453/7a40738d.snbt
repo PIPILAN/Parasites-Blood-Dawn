@@ -1,0 +1,14 @@
+{
+	title: "2179年",
+	disable_toast: true,
+	x: 3.5d,
+	y: 0.0d,
+	description: "人类纷纷建立独立营地基地，国家分裂，联合国解体，世界进入大动荡时代。",
+	dependencies: [
+		"f84b9ebb"
+	],
+	tasks: [{
+		uid: "066e16f0",
+		type: "checkmark"
+	}]
+}

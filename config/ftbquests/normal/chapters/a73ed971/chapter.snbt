@@ -1,0 +1,7 @@
+{
+	title: "终章",
+	icon: "contenttweaker:pbd_controller",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

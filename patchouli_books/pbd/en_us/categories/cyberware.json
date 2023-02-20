@@ -1,0 +1,6 @@
+{
+	"name": "机械改造",
+	"description": "$(br)  得益于机械尸体，人体机械改造技术成熟，已经可用于人体和克隆体。$(br2) 若运用得当，精致的机械义体将为新人类小队的探索提供强大助力。$(br2)By：追忆",
+	"icon": "cyberware:hand_upgrades",
+    "sortnum": 4
+}

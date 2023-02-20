@@ -1,0 +1,20 @@
+{
+    "name": "虫灵",
+    "icon": "srparasites:itemmobspawner_lodo",
+    "category": "patchouli:mob",
+    "sortnum": 0,
+    "pages": [
+		{
+			"type":"entity",
+			"entity":"srparasites:buglin",
+			"scale":"0.5",
+			"title":"虫灵"
+		},
+		{
+			"type":"text",
+			"text":"$(br)◆ 生命值：7.0$(br)◆ 攻击力：3.0$(br)◆ 防御力：1.5$(br)◆ 击退抗性：5%$(br2)▸ 虫灵是裂兽的幼体，经过一定时间后会成长为裂兽，非常的脆弱。虫灵在演化阶段为阶段0时就可以自然生成，在演化阶段达到阶段4后将停止生成。同化种生物（主要为动物）被击杀后有概率爆裂产生数只虫灵，飞行母体和重型母体爆炸会携带数只虫灵，以及远古惧魔在损失一定血量后掉落的触手会召唤虫灵。"
+		}
+    ]
+}
+
+

@@ -1,0 +1,28 @@
+{
+	icon: "srparasites:itemmobspawner_venkrol",
+	x: -1.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "c8e72cfc",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_data76"
+		}]
+	}],
+	rewards: [{
+		uid: "ae993aed",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$1000.0"
+				},
+				value: 1000.0d
+			}
+		}
+	}]
+}

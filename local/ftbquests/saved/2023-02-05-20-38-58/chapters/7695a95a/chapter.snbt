@@ -1,0 +1,7 @@
+{
+	title: "同化种",
+	icon: "srparasites:itemmobspawner_dorpa",
+	always_invisible: false,
+	group: 1661514835,
+	default_quest_shape: ""
+}

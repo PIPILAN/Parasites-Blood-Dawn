@@ -1,0 +1,7 @@
+{
+	title: "始祖种",
+	icon: "srparasites:itemmobspawner_terla",
+	always_invisible: false,
+	group: 1661514835,
+	default_quest_shape: "square"
+}

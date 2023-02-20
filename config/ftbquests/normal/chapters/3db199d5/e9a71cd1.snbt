@@ -1,0 +1,33 @@
+{
+	x: -1.0d,
+	y: 0.5d,
+	text: [
+		"生物群系净化器的高级版，既可以还原生物群系还可以还原寄生方块！"
+	],
+	dependencies: [
+		"295e61b8"
+	],
+	tasks: [{
+		uid: "77e26db4",
+		type: "item",
+		items: [{
+			item: "overlast:blockpurifier"
+		}]
+	}],
+	rewards: [{
+		uid: "fa3750d9",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$1000.0"
+				},
+				value: 1000.0d
+			}
+		}
+	}]
+}

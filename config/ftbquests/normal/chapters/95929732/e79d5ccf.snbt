@@ -1,0 +1,28 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "cec7ecb2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_data56"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "2ea72f14",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$4000.0"
+				},
+				value: 4000.0d
+			}
+		}
+	}]
+}

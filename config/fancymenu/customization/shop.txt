@@ -1,0 +1,53 @@
+type = menu
+
+customization-meta {
+  identifier = com.vnator.adminshop.blocks.shop.GuiShop
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources/image/all_.png
+  description = 商店购买和出售仅需点击对应物品即可%n%按住shift键进行购买/出售，交易量从1变为64%n%按住ctrl进行购买/出售，交易量从1变为16
+  label = 商店说明
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:410393
+  x = -60
+  width = 50
+  actionid = 774abfed-7f02-4017-aeb3-43c11e1ee4441675580674206
+  action = addbutton
+  y = 18
+  backgroundnormal = resources/image/all.png
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources/image/all_.png
+  description = 关于光影的兼容性%n%维克自带了渲染器会与高清修复的渲染器冲突%n%如果同时开启会出现画面卡死和色彩不对等问题%n%整合包默认设置为不开光影的设置%n%如果你想使用光影请打开模组设定%n%找到Modern Warfare ORI(3.0) Squared点击Config%n%打开渲染-启用所有着色器-将true调整为false%n%然后再去开光影即可，不过这样设置后会导致枪皮无效%n%经过测试光影下使用枪皮渲染会出现问题%n%所以大家请自行选择是否要开启光影
+  label = §a重要说明
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:410393
+  x = -60
+  width = 50
+  actionid = f9add533-70b0-4c4f-9a7c-ce024975c3801675753905399
+  action = addbutton
+  y = -3
+  backgroundnormal = resources/image/all.png
+  value = 
+  height = 20
+}
+

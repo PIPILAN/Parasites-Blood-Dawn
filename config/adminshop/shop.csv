@@ -1,0 +1,269 @@
+#ignore rows that start with a '#',,,
+,,,
+"#Item format: ""modname:item_name:metadata {nbt_data}"" metadata and {nbt_data} are optional. Can also use crafttweaker formatting (eg. ""<modname:item_name:metadata>.withTag{nbt_data}"")",,,
+"#Fluid format: ""fluid:fluid_name"" where fluid is literal. Can also use crafttweaker formatting",,,
+,,,
+"#Other configurations found within adminshop.cfg, such as selling price of Forge Energy",,,
+#See the examples below with the default shop,,,
+,,,
+#Category names for buy and sell. Put the category name in each column after the first,,,
+Buy Category Names:,杂物,武器,弹夹,装备,皮肤/载具,子弹
+Sell Category Names:,矿产,废旧装置
+,,,
+,,,
+"#buy or sell (from player's perspective)",Item/Fluid,Price,Category Index (starting from 0)
+#buy,"adminshop:check {display: {Name: "§6管理员支票 §f$10000000.0"}, value: 10000000.0}",0,0
+#buy,"adminshop:check {display: {Lore: ["§a出票人: ???"], Name: "§6支票 §f$1.0"}, value: 1.0}",0,0
+#buy,"adminshop:check {display: {Name: "§6支付卡 §f$100.0"}, value: 100.0}",0,0
+buy,minecraft:coal,5,0
+buy,minecraft:iron_ingot,30,0
+buy,contenttweaker:pbd_ingotzinc,30,0
+buy,minecraft:gold_ingot,400,0
+buy,minecraft:diamond,800,0
+buy,minecraft:emerald,350,0
+buy,"ancientwarfarenpc:coin {metal: "copper"}",1,0
+buy,"ancientwarfarenpc:coin {metal: "silver"}",9,0
+buy,"ancientwarfarenpc:coin {metal: "gold"}",72,0
+buy,adminshop:atm,100,0
+buy,sync:item_placeholder:0,3000,0
+buy,lootbags:itemlootbag:1 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},6000,0
+buy,lootbags:itemlootbag:2 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},9000,0
+buy,lootbags:itemlootbag:3 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},33000,0
+buy,lootbags:itemlootbag:4 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},18000,0
+buy,lootbags:itemlootbag:5 {display: {Lore: ["§7听说这边卖的比市场价贵50%..."]}},33000,0
+buy,contenttweaker:pbd_craftcore,10000,0
+buy,cyberware:creative_battery:0,5000000,0
+
+# 特制匕首 #
+buy,backstab:wood_dagger,1200,1
+buy,backstab:gold_dagger,1000,1
+# 近战武器 #
+buy,mw:night_stick,500,1
+buy,mw:baseball_bat,700,1
+buy,mw:tactical_tomahawk,1000,1
+# 手枪 #
+buy,mw:glock_18c,4000,1
+buy,mw:glock_19,4500,1
+buy,mw:m1911,4000,1
+buy,mw:taurus_raging_hunter,4000,1
+buy,mw:desert_eagle,4500,1
+buy,mw:m712,4000,1
+# 冲锋枪 #
+buy,mw:mp5a5,7500,1
+buy,mw:mp7,7500,1
+buy,mw:p90,7500,1
+buy,mw:mac10,7000,1
+buy,mw:mp40,5000,1
+buy,mw:m1928_thompson,5500,1
+buy,mw:kriss_vector,7000,1
+buy,mw:uzi,5500,1
+# 霰弹枪 #
+buy,mw:m1014,9000,1
+buy,mw:remington870,9500,1
+buy,mw:spas_12,8500,1
+buy,mw:origin12,10000,1
+# 步枪 #
+buy,mw:ak47,12500,1
+buy,mw:g36c,10500,1
+# 狙击枪 #
+buy,mw:m1_garand,15000,1
+buy,mw:springfield,15000,1
+buy,mw:kar98k,16000,1
+# 机枪 #
+buy,mw:dp28,21500,1
+buy,mw:mg42,21000,1
+
+
+# 机枪弹匣
+buy,mw:M249Mag,200,2
+buy,mw:MG42Mag_2,130,2
+buy,mw:DP28Mag,100,2
+buy,mw:M60Mag,200,2
+buy,mw:M134Mag,1800,2
+# 步枪弹匣
+buy,mw:M4A1Mag_2,70,2
+buy,mw:M38Mag_2,100,2
+buy,mw:Stanag50,105,2
+buy,mw:Stanag60,120,2
+buy,mw:Stanag100,200,2
+buy,mw:G36CMag_2,70,2
+buy,mw:AK100Mag,200,2
+buy,mw:AK15Mag_2,100,2
+buy,mw:AK47Mag,70,2
+buy,mw:AK47PMAGTan,100,2
+buy,mw:AK50Mag,105,2
+buy,mw:AK75Mag,153,2
+buy,mw:AUG9mmMag,55,2
+buy,mw:AK101Mag_2,55,2
+buy,mw:AK60Mag,100,2
+buy,mw:socom_mag,50,2
+# 狙击枪弹匣
+buy,mw:VSSVintorezMag_2,75,2
+buy,mw:AS50Mag_2,315,2
+buy,mw:M82Mag_2,315,2
+buy,mw:ASValMag,140,2
+buy,mw:l96a1mag_2,25,2
+# 冲锋枪弹匣
+buy,mw:P90Mag,80,2
+buy,mw:MP5A5Mag,55,2
+buy,mw:HK50Drum,80,2
+buy,mw:MP7Mag20,35,2
+buy,mw:MP7Mag,65,2
+buy,mw:P90TerminatorMag,135,2
+buy,mw:MAC10Mag,55,2
+buy,mw:MP40Mag_2,57,2
+buy,mw:M1928Mag,80,2
+buy,mw:M1A1Mag,55,2
+buy,mw:VectorMag,45,2
+buy,mw:UziMag_2,57,2
+buy,mw:UMP45Mag,45,2
+buy,mw:UMP9Mag,55,2
+buy,mw:FamasF1Mag,50,2
+buy,mw:VectorDrumMag,80,2
+# 手枪弹匣
+buy,mw:GlockMag13,33,2
+buy,mw:Glock18Cmag_2,40,2
+buy,mw:M9Mag30,55,2
+buy,mw:GlockMag50,80,2
+buy,mw:M1911_44Mag,22,2
+buy,mw:M45A1Mag_2,22,2
+buy,mw:M45A1Mag14,34,2
+buy,mw:DesertEagleMag,29,2
+buy,mw:M712mag_2,40,2
+# 霰弹弹匣
+buy,mw:origin12mag,27.5,2
+buy,mw:origin12drummag,70,2
+
+
+# 装备
+
+## 面具类
+buy,mw:m40gasmask_helmet,1000,3
+buy,mw:Tactical_helmet,1000,3
+buy,mw:JPNVG18_helmet,1000,3
+
+# 防具
+buy,mw:marine_helmet,12000,3
+buy,mw:marine_chest,15000,3
+buy,mw:marine_boots,10000,3
+buy,mw:Spec_Ops_helmet,12000,3
+buy,mw:Spec_Ops_chest,15000,3
+buy,mw:Spec_Ops_boots,10000,3
+buy,mw:spetznaz_helmet,12000,3
+buy,mw:spetznaz_chest,15000,3
+buy,mw:spetznaz_boots,10000,3
+buy,mw:urban_helmet,12000,3
+buy,mw:urban_chest,15000,3
+buy,mw:urban_boots,10000,3
+
+
+# 背心
+buy,mw:usmc_vest,50000,3
+buy,mw:usmc_vest_black,50000,3
+buy,mw:usmc_vest_green,50000,3
+buy,mw:usmc_vest_urban,50000,3
+
+# 背包
+buy,mw:combat_sustainment_backpack,3000,3
+buy,mw:combat_sustainment_backpack_black,3000,3
+buy,mw:combat_sustainment_backpack_forest,3000,3
+
+
+# 皮肤
+buy,mw:WoodlandCamo,5000,4
+buy,mw:PinkCamo,1000,4
+buy,mw:ArcticCamo,3500,4
+buy,mw:BlueCamo,4000,4
+buy,mw:Unit01Camo,4000,4
+buy,mw:BloodForestCamo,3500,4
+buy,mw:DiamondCamo,3000,4
+buy,mw:GoldCamo,2000,4
+#载具
+buy,mw:item.audis4,20000,4
+buy,mw:item.mclaren_senna,35000,4
+buy,mw:item.ae86trueno,20000,4
+buy,mw:item.atv_polaris_sportsman_850_2019,15000,4
+
+
+# 子弹
+buy,mw:Bullet3006Springfield,1,5
+buy,mw:Bullet792x57,2,5
+buy,mw:Bullet44,1,5
+buy,mw:Bullet556x45,1.5,5
+buy,mw:Bullet762x54,1.5,5
+buy,mw:Bullet9x39mm,6,5
+buy,mw:Bullet50BMG,30,5
+buy,mw:Bullet20x82mm,50,5
+buy,mw:Bullet9x19mm,1,5
+buy,mw:Bullet46x30mm,1,5
+buy,mw:Bullet57x28mm,1,5
+buy,mw:Bullet45ACP,1,5
+buy,mw:Bullet762x39,1.5,5
+buy,mw:Bullet50AE,2,5
+buy,mw:Shotgun12Gauge,2.5,5
+buy,mw:Bullet762x51,1.5,5
+buy,mw:Bullet763x25,1,5
+#==========================================================#
+sell,ore:gunpowder,5,0
+sell,ore:ingotIron,10,0
+sell,ore:ingotGold,100,0
+sell,ore:gemDiamond,200,0
+sell,ore:gemEmerald,250,0
+
+sell,cyberware:cybereye_upgrades:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:cybereye_upgrades:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:cybereye_upgrades:2 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:cybereye_upgrades:3 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:cybereye_upgrades:4 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:cybereyes {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:eye_upgrades {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:brain_upgrades:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:brain_upgrades:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:brain_upgrades:2 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:brain_upgrades:3 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:brain_upgrades:4 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:brain_upgrades:5 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,rewired:cranium:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,rewired:cranium:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:heart_upgrades:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:heart_upgrades:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:heart_upgrades:2 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:heart_upgrades:3 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:cyberheart {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:lungs_upgrades:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:lungs_upgrades:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,rewired:torso:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,rewired:torso:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:lower_organs_upgrades:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:lower_organs_upgrades:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:lower_organs_upgrades:2 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:lower_organs_upgrades:3 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:dense_battery {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,rewired:skin:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,rewired:skin:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,rewired:skin:2 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:skin_upgrades:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:skin_upgrades:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:skin_upgrades:2 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:skin_upgrades:3 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:muscle_upgrades:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:muscle_upgrades:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:bone_upgrades:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:bone_upgrades:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:bone_upgrades:2 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:cyberlimbs:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:cyberlimbs:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:arm_upgrades {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:hand_upgrades:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:hand_upgrades:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:hand_upgrades:2 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,rewired:hand:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,rewired:hand:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:leg_upgrades:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:leg_upgrades:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:cyberlimbs:2 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:cyberlimbs:3 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:foot_upgrades:0 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:foot_upgrades:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,cyberware:foot_upgrades:2 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+sell,rewired:foot {cyberwareQuality: "cyberware.quality.scavenged"},25,1

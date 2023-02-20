@@ -1,0 +1,14 @@
+{
+	title: "2245年",
+	disable_toast: true,
+	x: 9.5d,
+	y: 0.0d,
+	description: "得益于机械尸体，人体机械改造技术成熟，已经可用于人体和克隆体。",
+	dependencies: [
+		"0c55e4a6"
+	],
+	tasks: [{
+		uid: "027a3e92",
+		type: "checkmark"
+	}]
+}

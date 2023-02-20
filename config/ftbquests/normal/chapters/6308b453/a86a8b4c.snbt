@@ -1,0 +1,14 @@
+{
+	title: "2115年",
+	disable_toast: true,
+	x: 1.5d,
+	y: 0.0d,
+	description: "人类感到了寄生虫生物的威胁，大力发展生物医疗科技，以寻求对抗寄生虫的办法。",
+	dependencies: [
+		"64d03644"
+	],
+	tasks: [{
+		uid: "09b5946e",
+		type: "checkmark"
+	}]
+}

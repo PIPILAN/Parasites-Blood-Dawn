@@ -1,0 +1,963 @@
+[
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 雪鹰组织\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 雪鹰组织\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 雪鹰组织\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 雪鹰组织\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 反抗者联盟\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 反抗者联盟\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 反抗者联盟\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 反抗者联盟\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 寄生虫抵抗联盟\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 寄生虫抵抗联盟\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 寄生虫抵抗联盟\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 寄生虫抵抗联盟\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 兄弟会\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 兄弟会\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 兄弟会\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 兄弟会\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 姊妹天使团\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 姊妹天使团\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 姊妹天使团\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 姊妹天使团\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 先驱者联盟\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 先驱者联盟\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 先驱者联盟\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 先驱者联盟\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 新人类叛军联盟\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 新人类叛军联盟\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 新人类叛军联盟\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 新人类叛军联盟\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 机械人联盟\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 机械人联盟\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 机械人联盟\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 机械人联盟\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 工匠会\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 工匠会\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 工匠会\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 工匠会\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 8,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 8号\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 80,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 8号\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 800,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 8号\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 8000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 8号\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 艾尔·巴隆\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 艾尔·巴隆\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 艾尔·巴隆\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 艾尔·巴隆\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 亚历克斯·费拉里\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 亚历克斯·费拉里\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 亚历克斯·费拉里\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 亚历克斯·费拉里\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 威廉·帕森斯\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 威廉·帕森斯\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 威廉·帕森斯\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 威廉·帕森斯\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 马修·贝尔彻\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 马修·贝尔彻\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 马修·贝尔彻\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 马修·贝尔彻\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 艾莲娜·乔治\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 艾莲娜·乔治\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 艾莲娜·乔治\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 艾莲娜·乔治\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 艾丽卡·坎德尔\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 艾丽卡·坎德尔\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 艾丽卡·坎德尔\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 艾丽卡·坎德尔\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 胡安娜·洛佩兹\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 胡安娜·洛佩兹\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 胡安娜·洛佩兹\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 胡安娜·洛佩兹\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 玛丽·博兰\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 玛丽·博兰\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 玛丽·博兰\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 玛丽·博兰\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 玛凯瑟琳·科顿\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 玛凯瑟琳·科顿\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 玛凯瑟琳·科顿\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 玛凯瑟琳·科顿\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 玛哈德森家族\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 玛哈德森家族\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 玛哈德森家族\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 玛哈德森家族\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 贝蒂家族\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 贝蒂家族\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 贝蒂家族\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 贝蒂家族\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 贝麦克米兰家族\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 贝麦克米兰家族\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 贝麦克米兰家族\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 贝麦克米兰家族\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "adminshop:check",
+    "unitWorth": 10,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 维里安家族\"],Name: \"§6支票 §f$10.0\"}, value: 10}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 100,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 维里安家族\"],Name: \"§6支票 §f$100.0\"}, value: 100}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 1000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 维里安家族\"],Name: \"§6支票 §f$1000.0\"}, value: 1000}",
+    "amount": {
+      "min": 1,
+      "max": 30
+    }
+  },{
+    "content": "adminshop:check",
+    "unitWorth": 10000,
+    "weight": 200,
+    "nbt_data": "{display: {Lore: [\"§a出票人: 维里安家族\"],Name: \"§6支票 §f$10000.0\"}, value: 10000}",
+    "amount": {
+      "min": 1,
+      "max": 10
+    }
+  },
+  {
+    "content": "backstab:wood_dagger",
+    "unitWorth": 600,
+    "weight": 16,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "backstab:stone_dagger",
+    "unitWorth": 1000,
+    "weight": 8,
+    "stages": ["pbd_stage_1"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "backstab:iron_dagger",
+    "unitWorth": 1500,
+    "weight": 4,
+    "stages": ["pbd_stage_1"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "backstab:gold_dagger",
+    "unitWorth": 500,
+    "weight": 2,
+    "stages": ["pbd_stage_2"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "backstab:diamond_dagger",
+    "unitWorth": 3000,
+    "weight": 1,
+    "stages": ["pbd_stage_3"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:splash_potion",
+    "unitWorth": 3200,
+    "weight": 10,
+    "stages": ["pbd_stage_3"],
+    "nbt_data": "{Potion: \"srparasites:res\"}",
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "lootbags:itemlootbag:1",
+    "unitWorth": 4000,
+    "weight": 9,
+    "stages": ["pbd_stage_1"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "lootbags:itemlootbag:2",
+    "unitWorth": 6000,
+    "weight": 7,
+    "stages": ["pbd_stage_2"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "lootbags:itemlootbag:3",
+    "unitWorth": 20000,
+    "weight": 5,
+    "stages": ["pbd_stage_4"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "lootbags:itemlootbag:4",
+    "unitWorth": 12000,
+    "weight": 3,
+    "stages": ["pbd_stage_3"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "lootbags:itemlootbag:5",
+    "unitWorth": 35000,
+    "weight": 1,
+    "stages": ["pbd_stage_5"],
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  }
+]

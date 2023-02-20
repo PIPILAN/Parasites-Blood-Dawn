@@ -1,0 +1,7 @@
+{
+	title: "卓越种",
+	icon: "srparasites:itemmobspawner_jinjo",
+	always_invisible: false,
+	group: 1661514835,
+	default_quest_shape: ""
+}

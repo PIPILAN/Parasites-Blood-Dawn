@@ -1,0 +1,39 @@
+{
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"钩爪可以帮助你快速在城市间移动，逃离怪物视野盲区，突刺背刺，战斗必备！"
+	],
+	tasks: [{
+		uid: "8af152c7",
+		type: "item",
+		title: "钩爪发射器",
+		items: [{
+			item: "adhooks:spear_launcher"
+		},
+		{
+			item: "adhooks:web_launcher"
+		},
+		{
+			item: "adhooks:pudge_launcher"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a20683d0",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
+	}]
+}

@@ -1,0 +1,17 @@
+type = customizablemenus
+
+net.minecraft.client.gui.inventory.GuiContainerCreative {
+}
+
+net.minecraft.client.gui.GuiMainMenu {
+}
+
+com.vnator.adminshop.blocks.shop.GuiShop {
+}
+
+rikka.lanserverproperties.ShareToLanScreen2 {
+}
+
+ejektaflex.bountiful.gui.GuiBoard {
+}
+

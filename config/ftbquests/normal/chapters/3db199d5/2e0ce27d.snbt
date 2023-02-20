@@ -1,0 +1,42 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	text: [
+		"比较劣质的草药，可以去除身上的寄群之患效果，但使用者会中毒。"
+	],
+	tasks: [{
+		uid: "acde5d15",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"foodfunk:rot": {
+					start: 0L,
+					time: 0L
+				}
+			},
+			id: "overlast:pollute_bowl_herbal",
+			tag: {
+				Rot: {
+					start: 0L,
+					time: 0L
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "3118da18",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
+	}]
+}

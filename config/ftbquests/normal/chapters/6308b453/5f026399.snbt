@@ -1,0 +1,14 @@
+{
+	title: "2224年",
+	disable_toast: true,
+	x: 6.5d,
+	y: 1.0d,
+	description: "人类研究出克隆体意识转移技术，人类已经能自由控制克隆人，克隆人死亡后意识可返回原躯体。",
+	dependencies: [
+		"b69ced0e"
+	],
+	tasks: [{
+		uid: "61a12dec",
+		type: "checkmark"
+	}]
+}

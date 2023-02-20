@@ -1,0 +1,69 @@
+{
+    "name": "推荐使用零件",
+    "icon": "cyberware:cybereye_upgrades",
+    "category": "patchouli:cyberware",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type":"spotlight",
+            "item": "cyberware:cybereye_upgrades",
+            "link_recipe":"true",
+            "text":"  眼部零件，用于夜视。"
+        },
+        {
+            "type":"spotlight",
+            "item": "cyberware:cybereye_upgrades:3",
+            "link_recipe":"true",
+            "text":"  眼部零件，可直接高亮一定范围内生物。"
+        },
+        {
+            "type":"spotlight",
+            "item": "cyberware:brain_upgrades:5",
+            "link_recipe":"true",
+            "text":"  脑部零件，用于增加周围半机械怪物的生成几率$(br2)  与信号塔配合使用效果更佳。"
+        },
+        {
+            "type":"spotlight",
+            "item": "cyberware:lungs_upgrades:1",
+            "link_recipe":"true",
+            "text":"  肺部部件，可组装三个，增加冲刺速度。"
+        },
+        {
+            "type":"spotlight",
+            "item": "rewired:skin",
+            "link_recipe":"true",
+            "text":"  皮肤零件，隐身。$(br2)  降低靠近怪物时被发现的几率。"
+        },
+        {
+            "type":"spotlight",
+            "item": "cyberware:leg_upgrades",
+            "link_recipe":"true",
+            "text":"  腿部零件，增加跳跃高度。"
+        },
+        {
+            "type":"spotlight",
+            "item": "cyberware:leg_upgrades:1",
+            "link_recipe":"true",
+            "text":"  腿部零件，若两条腿都是机械腿则可完全免疫摔落伤害。"
+        },
+        {
+            "type":"spotlight",
+            "item": "cyberware:arm_upgrades",
+            "link_recipe":"true",
+            "text":"  手臂零件，增加拉弓速度。"
+        },
+        {
+            "type":"spotlight",
+            "item": "cyberware:bone_upgrades",
+            "link_recipe":"true",
+            "text":"  骨骼零件，最多装载五个，增加生命上限。"
+        },
+        {
+            "type":"spotlight",
+            "item": "cyberware:muscle_upgrades:1",
+            "link_recipe":"true",
+            "text":"  肌肉零件，增加力量及移速。"
+        }
+    ]
+}
+

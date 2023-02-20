@@ -1,0 +1,30 @@
+{
+	x: -2.5d,
+	y: 0.5d,
+	text: [
+		"睡袋可以让你跳过夜晚的同时不改变复活点，如果不想晚上被围殴，那么你需要这个！"
+	],
+	tasks: [{
+		uid: "9011536d",
+		type: "item",
+		items: [{
+			item: "comforts:sleeping_bag"
+		}]
+	}],
+	rewards: [{
+		uid: "d82b6f53",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
+	}]
+}

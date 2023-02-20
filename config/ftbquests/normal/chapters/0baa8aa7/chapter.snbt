@@ -1,0 +1,7 @@
+{
+	title: "粗制种",
+	icon: "srparasites:itemmobspawner_host",
+	always_invisible: false,
+	group: 1661514835,
+	default_quest_shape: ""
+}

@@ -1,0 +1,29 @@
+{
+	icon: "srparasites:itemmobspawner_cruxa",
+	x: 0.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "dee61681",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_data35"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "fc698ba2",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$5000.0"
+				},
+				value: 5000.0d
+			}
+		}
+	}]
+}

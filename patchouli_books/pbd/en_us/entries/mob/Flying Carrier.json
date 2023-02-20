@@ -1,0 +1,20 @@
+{
+    "name": "飞行母体",
+    "icon": "srparasites:itemmobspawner_buthol",
+    "category": "patchouli:mob",
+    "sortnum": 3,
+    "pages": [
+		{
+			"type":"entity",
+			"entity":"srparasites:carrier_flying",
+			"scale":"0.5",
+			"title":"飞行母体"
+		},
+		{
+			"type":"text",
+			"text":"$(br)◆ 生命值：20.0$(br)◆ 攻击力：0.0$(br)◆ 防御力：2.5$(br)◆ 击退抗性：15%$(br2)▸ 飞行版的重型母体，飞行速度较慢，在接近目标或者被击杀后爆炸产生一个较大范围的药水云（中毒Ⅰ/寄群之唤Ⅰ效果），同时给予非寄生虫生物一个等级的病毒感染效果，并产生3-4只裂兽，2-3只虫灵。"
+		}
+    ]
+}
+
+

@@ -1,0 +1,21 @@
+{
+	title: "???",
+	x: 0.0d,
+	y: -4.5d,
+	text: [
+		"找到了，这个就是我们需要的时空能量核心，发射装置相关资料你可以自己看“奇怪的文件”。"
+	],
+	dependencies: [
+		"71e8e450"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e6408c17",
+		type: "item",
+		title: "???",
+		icon: "minecraft:barrier",
+		items: [{
+			item: "overlast:final_specimen"
+		}]
+	}]
+}

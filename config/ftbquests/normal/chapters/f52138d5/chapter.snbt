@@ -1,0 +1,7 @@
+{
+	title: "先天种",
+	icon: "srparasites:itemmobspawner_buthol",
+	always_invisible: false,
+	group: 1661514835,
+	default_quest_shape: ""
+}

@@ -1,0 +1,20 @@
+{
+    "name": "重型母体",
+    "icon": "srparasites:itemmobspawner_rathol",
+    "category": "patchouli:mob",
+    "sortnum": 2,
+    "pages": [
+		{
+			"type":"entity",
+			"entity":"srparasites:carrier_heavy",
+			"scale":"0.5",
+			"title":"重型母体"
+		},
+		{
+			"type":"text",
+			"text":"$(br)◆ 生命值：30.0$(br)◆ 攻击力：0.0$(br)◆ 防御力：5.0$(br)◆ 击退抗性：95%$(br2)▸ 行为类似于苦力怕，移速极慢。可以与海洋更新的海龟媲美。会在主动接近玩家或其他非寄生虫生物以及被击杀后爆炸（苦力怕除外），产生一片含有中毒Ⅰ和寄群之唤Ⅰ的药水云，同时给予附近非寄生虫生物一个级别的病毒感染效果。并生成4只裂兽，3只原始黄眸兽和3-5只虫灵。"
+		}
+    ]
+}
+
+
