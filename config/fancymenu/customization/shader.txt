@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = net.optifine.shaders.gui.GuiShaders
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  x = -131
+  width = 122
+  action = addbutton
+  actionid = b74de3e7-6c53-4625-99ab-ee0e0651d7e91682760039303
+  y = 198
+  description = 关于光影的兼容性%n%维克自带了渲染器会与高清修复的渲染器冲突%n%如果同时开启会出现画面卡死和色彩不对等问题%n%整合包默认设置为不开光影的设置%n%如果你想使用光影请打开模组设定%n%找到Modern Warfare ORI(3.0) Squared点击Config%n%打开渲染-启用所有着色器-将true调整为false%n%然后再去开光影即可，不过这样设置后会导致枪皮无效%n%经过测试光影下使用枪皮渲染会出现问题%n%所以大家请自行选择是否要开启光影
+  label = §c§l开光影必看！
+  height = 20
+}
+

@@ -15,3 +15,6 @@ rikka.lanserverproperties.ShareToLanScreen2 {
 ejektaflex.bountiful.gui.GuiBoard {
 }
 
+net.optifine.shaders.gui.GuiShaders {
+}
+

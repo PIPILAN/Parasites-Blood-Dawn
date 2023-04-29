@@ -2,20 +2,13 @@
 	x: -1.0d,
 	y: 2.0d,
 	text: [
-		"使用食品加工台可以制作三明治，各种食物综合到一起，管饱易携带，如果有药水还可以添加效果！",
-		"&4目前三明治无法恢复理智值，等待后续修复"
+		"使用食品加工台可以制作三明治，各种食物综合到一起，管饱易携带，如果有药水还可以添加效果！"
 	],
 	tasks: [{
 		uid: "08090269",
 		type: "item",
 		title: "三明治",
 		items: [{
-			ForgeCaps: {
-				"foodfunk:rot": {
-					start: 0L,
-					time: 0L
-				}
-			},
 			id: "culinaryconstruct:sandwich",
 			tag: {
 				Size: 5,

@@ -24,6 +24,9 @@ recipes.addShaped(<minecraft:soul_sand>,[
 recipes.addShapeless("pbd_guidebook",<patchouli:guide_book>.withTag({"patchouli:book": "patchouli:pbd"}),[<ore:plankWood>,<ore:logWood>]);
 // 烈焰棒
 recipes.addShapeless(<minecraft:blaze_rod>,[<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>,<minecraft:blaze_powder>]);
+// 地狱岩
+recipes.addShapeless(<minecraft:netherrack>*2,[<ore:stone>,<minecraft:dye:15>,<minecraft:nether_wart>]);
+
 
 # 根据耐久值判断拆解数量-铁套
 recipes.addShapeless(<minecraft:iron_ingot>*5, [<contenttweaker:pbd_craftsmansbag:*>.transformDamage(), <minecraft:iron_helmet>.withDamage(0)]);

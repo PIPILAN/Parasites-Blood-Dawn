@@ -86,6 +86,7 @@ ancientwarfarestructure:aw_gate
 ancientwarfarestructure:seat
 ancientwarfarevehicle:vehicle
 ancientwarfarevehicle:missile
+quark:chest_passenger
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -93,11 +94,6 @@ quark:arrow_torch
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
-quark:totem_of_holding
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -107,9 +103,13 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
-quark:gravisand
+quark:totem_of_holding
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
 quark:seat
-quark:chest_passenger
+quark:gravisand
 cyberware:cyberzombie
 ichunutil:entity_block
 mw:ammo256
@@ -246,6 +246,7 @@ srparasites:gore
 srparasites:tendril
 srparasites:scent
 srparasites:wave
+srparasites:waveshock
 srparasites:nade
 rewired:rail_rider
 rewired:cyberskeleton

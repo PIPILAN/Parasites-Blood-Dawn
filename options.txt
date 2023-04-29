@@ -9,7 +9,7 @@ guiScale:0
 particles:0
 bobView:true
 anaglyph3d:false
-maxFps:260
+maxFps:99
 fboEnable:true
 difficulty:2
 fancyGraphics:false
@@ -89,6 +89,14 @@ key_of.key.zoom:46
 key_Reload Menu | CTRL + ALT + :26
 key_Toggle Customization Overlay | CTRL + ALT + :27
 key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -107,21 +115,13 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:0
 key_keybind.baublesinventory:0
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:0
-key_key.inventorysorter.itemout:-201
 key_key.inventorysorter.sort:-98
 key_key.inventorysorter.itemin:-200
+key_key.inventorysorter.itemout:-201
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_key.opendoor:-96
@@ -176,11 +176,6 @@ key_keybind.vehicle.turret.left:0
 key_keybind.vehicle.turret.right:0
 key_keybind.vehicle.mouse.aim:0
 key_keybind.vehicle.ammo.select:0
-key_waila.keybind.wailaconfig:82
-key_waila.keybind.wailadisplay:79
-key_waila.keybind.liquid:80
-key_waila.keybind.recipe:81
-key_waila.keybind.usage:75
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -223,6 +218,11 @@ key_mod.chiselsandbits.other.undo:0
 key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
 key_cyberware.keybinds.menu:20
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
 key_key.i18nmod.main_key.desc:0
 key_key.i18nmod.report_key.desc:0
 key_key.i18nmod.weblate_key.desc:0

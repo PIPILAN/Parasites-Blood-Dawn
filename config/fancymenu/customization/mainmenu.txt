@@ -293,17 +293,16 @@ customization {
 customization {
   orientation = mid-centered
   restartbackgroundanimations = true
-  buttonaction = openlink
+  buttonaction = openlink;https://pipilan.gitbook.io/parasites-blood-dawn/%btnaction_splitter_fm%
   backgroundhovered = resources\image\wiki_1.png
   label = 
   loopbackgroundanimations = true
   x = -213
   width = 120
-  actionid = 98ed3cab-3cd9-4faa-80c5-3f9ebb8e5a8f1644390251278
   action = addbutton
+  actionid = 98ed3cab-3cd9-4faa-80c5-3f9ebb8e5a8f1644390251278
   y = 48
   backgroundnormal = resources\image\wiki_0.png
-  value = https://pipilan.gitbook.io/parasites-blood-dawn/
   height = 20
 }
 
@@ -316,7 +315,7 @@ customization {
   y = -9
   scale = 1.0
   alignment = left
-  value = Version: 1.1.0 Date: %realtimeyear%.%realtimemonth%.%realtimeday%
+  value = Version: 1.1.1 Date: %realtimeyear%.%realtimemonth%.%realtimeday%
 }
 
 customization {

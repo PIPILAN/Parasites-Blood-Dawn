@@ -11,12 +11,6 @@
 		uid: "b57b2ab5",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"foodfunk:rot": {
-					start: 0L,
-					time: 0L
-				}
-			},
 			id: "overlast:bowl_herbal",
 			tag: {
 				Rot: {
