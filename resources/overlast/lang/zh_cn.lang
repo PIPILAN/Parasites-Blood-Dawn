@@ -105,9 +105,9 @@ message.lowsan.text5=§k They §l§r§f 有人能救救我...吗...
 message.lowsan.text6=§k They §l§r§f 我好想回到家里...
 message.lowsan.text7=§k They §l§r§f 还有机会拯救人类吗...
 message.lowsan.text8=§k They §l§r§8 想跟凯瑟琳说说话...
-message.lowsan.text9=§k They §f 寄生虫永生！
+message.lowsan.text9=§k They §f 寄生兽永生！
 message.lowsan.respawn1=§k They §r§f 愿主与你同在
-message.lowsan.respawn2=§k They §r§f 感谢您对寄生虫演化贡献 %d 点
+message.lowsan.respawn2=§k They §r§f 感谢您对寄生兽演化贡献 %d 点
 
 message.seasons.spring=春季
 message.seasons.summer=夏季
@@ -169,7 +169,7 @@ message.seasons.dailyWinter3=银装素裹，万物冻结，一切都慢——下
 message.seasons.dailyWinter4=铃声已至，风雪缠足
 message.seasons.dailyWinter5=注意请不要在地表与寄生种作战，重复，请不要在地表与寄生种作战
 message.seasons.dailyWinter6=忽如一夜春风来，千树万树梨花开
-message.seasons.dailyWinter7=人类必胜，寄生体是无法战胜人类的！
+message.seasons.dailyWinter7=人类必胜，寄生兽是无法战胜人类的！
 
 message.seasons.dailyEnd0=最艰难的时期已经过去了，人类必胜！
 message.seasons.dailyEnd1=我好像已经习惯世界的迷雾和透彻的红色了，血色一样的美丽，不是么。
@@ -216,10 +216,17 @@ message.finalBattle.start8=§d等我回家，亲爱的。
 message.finalBattle.start9=§7已经，没有什么好害怕的了。
 message.finalBattle.start10=§c人类必胜！
 
-message.finalBattle.initWave1=纯种的怒火，发起进攻！
-message.finalBattle.initWave2=始祖降临，血溅千里
+message.finalBattle.report1=[先驱者作战中心]难度评估报告正在生成中......
+message.finalBattle.report2=基础难度：%d 修正难度：%d 最终难度：%d
+message.finalBattle.report3=[先驱者作战中心]结局条件检测
+message.finalBattle.report4=剩余点数：%d
+message.finalBattle.report5=弥留的恐惧污染了你的灵魂...
+message.finalBattle.report6=伊文...最终还是抛弃了我们吗
+message.finalBattle.report7=§e[完美结局！你们的努力得到了回报，这是属于你们的传奇！]
+message.finalBattle.initWave1=纯种之怒，总攻开始！
+message.finalBattle.initWave2=始祖降临，血溅千里！
 message.finalBattle.initWave3=适应之种，重铸荣光！
-message.finalBattle.initWave4=同化寄群，最后的抵抗。
+message.finalBattle.initWave4=同化寄群，负隅顽抗！
 
 message.finalBattle.death0=死战到底！
 message.finalBattle.death1=呃呃。
@@ -262,6 +269,7 @@ message.finalBattle.rankThree2=§c绝不退缩！
 message.finalBattle.rankFour0=§b干的漂亮，剩下的同化寄群已经不足为惧，
 message.finalBattle.rankFour1=§b继续守护信标，还剩两分钟，胜利就在眼前！
 message.finalBattle.rankFour2=§b好久没有这么畅快的战斗过了，哈哈哈
+message.finalBattle.rankFour3=胜利的曙光就在眼前，时空能量核心，最大功率输出！
 
 message.finalBattle.end0=§b人类，你们好！我们是伊文族，我们已经了解到大致情况了。
 message.finalBattle.end1=§b人类证明了自己文明的伟大，对于伟大的文明请允许我们献上自己的敬意。
@@ -290,6 +298,19 @@ message.finalBattle.end18=我挺想去看看地面上的大海啊哈哈！
 message.finalBattle.end19=人类回到地面应该也就是几天内的事了
 message.finalBattle.end20=为了新世界，我们，还需要努力啊
 message.finalBattle.end21=回头见，先驱者！
+message.finalBattle.end22=§b[解锁结局：神族庇护]
+
+message.finalBattle.bad0=§c最近，我一直在做梦，梦里的世界逐渐被血红色污染。
+message.finalBattle.bad1=§e转动的柱子扭曲着大地，亘古的君主霸占了天空。
+message.finalBattle.bad2=§a被唤作“火种“的英雄教会了人们种植与采集，教会了人们搭建净化信标，甚至教会了人们免于死亡惩罚的方法。
+message.finalBattle.bad3=§c然而，死亡的代价不可避免，灵魂的破损不可修复，世界的净化不可逆转。
+message.finalBattle.bad4=§4唯有...§5§k T§4h§3e§2y §l§r§4寄生永生
+message.finalBattle.bad5=早上好，地球，今天又是崭新的一天，诶等等，至少不是今天。
+message.finalBattle.bad6=由于在时空之战中灵魂磨损过多，火种的持有者选择了将各位转移到新世界。
+message.finalBattle.bad7=也许未来这块土地也会被再次污染，未来的英雄们会做出如何的选择呢？
+message.finalBattle.bad8=§b也终有人，会沉醉在湛蓝色的夜空中。
+message.finalBattle.bad9=§e[达成这个结局说明时空之战人类方死亡次数过多或拖延时间过长，也许还有其他拯救的方法...？]
+message.finalBattle.bad10=§b[解锁结局：寄生永生]
 
 # Config
 overlast.client=客户端
@@ -321,6 +342,14 @@ config.overlast:mechanics.enableTemperature=启用温度机制
 config.overlast:mechanics.enableTemperature.tooltip=是否启用隐藏的温度机制，影响夏季和冬季玩家的BUFF效果。
 config.overlast:mechanics.temperatureScale=温度变化速率
 config.overlast:mechanics.temperatureScale.tooltip=温度变化的速率，影响室温对玩家体温的改变速度。
+config.overlast:mechanics.enableCourage=启用勇气机制
+config.overlast:mechanics.enableCourage.tooltip=是否启用勇气机制，用于代替理智对抗寄生兽。
+config.overlast:mechanics.courageScale=勇气变化速率
+config.overlast:mechanics.courageScale.tooltip=勇气变化的速率，包括增加与降低。
+config.overlast:mechanics.enableParasitic=启用感染机制
+config.overlast:mechanics.enableParasitic.tooltip=是否启用感染机制，这将增加游戏的演化速度。
+config.overlast:mechanics.parasiticScale=感染变化速率
+config.overlast:mechanics.parasiticScale.tooltip=感染变化的速率，包括自然降低与受到感染时的增加。
 config.overlast:mechanics.enableRadio=启用电台广播
 config.overlast:mechanics.enableRadio.tooltip=为整合包提供的功能，整合包作者可以通过资源包自定义相关文本。
 
@@ -335,6 +364,14 @@ config.overlast:seasons.summerLength=夏季时长
 config.overlast:seasons.summerLength.tooltip=夏季的时长，在夏季大部分生物群系会变热，\n设置0来禁用该季节。
 config.overlast:seasons.autumnLength=秋季时长
 config.overlast:seasons.autumnLength.tooltip=秋季的时长，在秋季树叶会变色，\n设置0来禁用该季节。
+config.overlast:seasons.enableSummerParasiteEffect=启用夏季寄生兽效果
+config.overlast:seasons.enableSummerParasiteEffect.tooltip=启用后夏季的白天寄生兽将自燃，失去适应性。
+config.overlast:seasons.enableSummerPlayerEffect=启用夏季玩家效果
+config.overlast:seasons.enableSummerPlayerEffect.tooltip=启用后夏季玩家在高温生物群系将受到高热辐射以及过热效果。
+config.overlast:seasons.enableWinterParasiteEffect=启用冬季寄生兽效果
+config.overlast:seasons.enableWinterParasiteEffect.tooltip=启用后冬季寄生兽将获得力量速度加成。
+config.overlast:seasons.enableWinterPlayerEffect=启用冬季玩家效果
+config.overlast:seasons.enableWinterPlayerEffect.tooltip=启用后冬季玩家在低温生物群系将受到寒潮侵袭以及霜冻效果。
 
 overlast.custom=自定义
 overlast.custom.tooltip=自定义机制
@@ -342,3 +379,16 @@ config.overlast:custom.foodSanity=食物理智
 config.overlast:custom.foodSanity.tooltip=自定义食物提供的理智值。(格式: minecraft:apple;10 )
 config.overlast:custom.hideUI=隐藏UI
 config.overlast:custom.hideUI.tooltip=隐藏指定等级的演化条(eg: -1,0,3)
+config.overlast:custom.specimenFarm=样本方块（农业）配方
+config.overlast:custom.specimenFarm.tooltip=在枪械工作台中合成。(eg: minecraft:id;amount;meta)
+config.overlast:custom.specimenCell=样本方块（细胞）配方
+config.overlast:custom.specimenCell.tooltip=在枪械工作台中合成。(eg: minecraft:id;amount;meta)
+config.overlast:custom.specimenInfect=样本方块（感染）配方
+config.overlast:custom.specimenInfect.tooltip=在枪械工作台中合成。(eg: minecraft:id;amount;meta)
+config.overlast:custom.finalSpecimen=世界净化核心配方
+config.overlast:custom.finalSpecimen.tooltip=在枪械工作台中合成。(eg: minecraft:id;amount;meta)
+config.overlast:custom.finalBattleDim=最终决战维度ID
+config.overlast:custom.finalBattleDim.tooltip=控制最终决战的维度ID，默认为0-主世界(eg: 0)
+
+#command line
+commands.overlast.usage=指令用法

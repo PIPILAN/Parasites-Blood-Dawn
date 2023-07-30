@@ -1,0 +1,7 @@
+{
+	title: "工业生产",
+	icon: "immersiveengineering:powerpack",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

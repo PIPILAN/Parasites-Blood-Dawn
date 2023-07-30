@@ -9,8 +9,7 @@
 		type: "item",
 		items: [{
 			item: "overlast:drinking_potion 1 1"
-		}],
-		ignore_nbt: 1b
+		}]
 	}],
 	rewards: [{
 		uid: "efec8d37",

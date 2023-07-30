@@ -1,0 +1,86 @@
+{
+  "packName": "PBDPack",
+  "version": "1.0",
+  "packManagerVersion": "1.0",
+  "globalParameters": {
+    "damageMultiplier": 1.0,
+    "recoilMultiplier": 1.0,
+    "headshotMultiplier": 1.0
+  },
+  "gunConfigurations": [
+    {
+      "name": "m1014",
+      "enabled": true,
+      "damage": 3.0,
+      "recoil": 1.0
+    },
+    {
+      "name": "remington870",
+      "enabled": true,
+      "damage": 3.0,
+      "recoil": 1.0
+    },
+    {
+      "name": "spas_12",
+      "enabled": true,
+      "damage": 3.0,
+      "recoil": 1.0
+    },
+    {
+      "name": "origin12",
+      "enabled": true,
+      "damage": 3.0,
+      "recoil": 1.0
+    },
+    {
+      "name": "browning_auto_5",
+      "enabled": true,
+      "damage": 3.0,
+      "recoil": 1.0
+    },
+    {
+      "name": "ssg42",
+      "enabled": true,
+      "damage": 12.0,
+      "recoil": 1.0
+    },
+    {
+      "name": "taurus_raging_hunter",
+      "enabled": true,
+      "damage": 8.0,
+      "recoil": 1.0
+    }
+  ],
+  "categoryConfigurations": [
+    {
+      "group": "RIFLES",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0
+    },
+    {
+      "group": "LONG_RANGE_RIFLES",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0
+    },
+    {
+      "group": "SHOTGUN",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0
+    },
+    {
+      "group": "SIDEARM",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0
+    },
+    {
+      "group": "HEAVY",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0
+    },
+    {
+      "group": "NONE",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0
+    }
+  ]
+}

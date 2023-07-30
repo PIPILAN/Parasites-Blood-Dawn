@@ -1,0 +1,33 @@
+{
+	x: 5.0d,
+	y: -2.5d,
+	text: [
+		"聚酰胺纤维需要多重工艺加工，原材料是煤炭、皮革、工业大麻纤维等。"
+	],
+	dependencies: [
+		"70c7274d"
+	],
+	tasks: [{
+		uid: "d5a7469a",
+		type: "item",
+		items: [{
+			item: "mw:syntheticplastic"
+		}]
+	}],
+	rewards: [{
+		uid: "461a5fb9",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
+	}]
+}

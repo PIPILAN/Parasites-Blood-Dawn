@@ -28,6 +28,8 @@ item.contenttweaker.pbd_heavygunparts.name=重型武器零件
 item.contenttweaker.pbd_ingotbrass.name=黄铜锭
 item.contenttweaker.pbd_ingotzinc.name=锌锭
 item.contenttweaker.pbd_dustzinc.name=锌粉
+item.contenttweaker.pbd_littlegunpowder.name=小块火药
+item.contenttweaker.pbd_nuggetbrass.name=黄铜粒
 
 item.contenttweaker.pbd_data.name=§b未知丧尸生命体生物数据
 item.contenttweaker.pbd_data1.name=§b爬行者生物数据

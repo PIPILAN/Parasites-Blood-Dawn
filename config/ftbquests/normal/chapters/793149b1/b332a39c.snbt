@@ -1,0 +1,33 @@
+{
+	x: 2.0d,
+	y: 1.5d,
+	text: [
+		"其实中间还有很多需要工业机器处理材料，但是大多可以自行查询，这里不再赘述。"
+	],
+	dependencies: [
+		"a6bc7485"
+	],
+	tasks: [{
+		uid: "72a822ce",
+		type: "item",
+		items: [{
+			item: "mw:ammo_press"
+		}]
+	}],
+	rewards: [{
+		uid: "a3a78002",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$3000.0"
+				},
+				value: 3000.0d
+			}
+		}
+	}]
+}

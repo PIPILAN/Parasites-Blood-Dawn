@@ -1,0 +1,43 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	text: [
+		"这是您需要踏出的第一步，你需要提炼出杂酚油。",
+		"想要提取杂酚油，你需要制作一个焦炉。",
+		"在其中放入煤炭（块）或者原木，等待一段时间后即可提取出杂酚油。",
+		"您可以用油罐或者铁桶将其取出用于下一阶段。",
+		"至于焦炉的制作方法请自行查阅《工程师手册》。"
+	],
+	dependencies: [
+		"4de9f269"
+	],
+	tasks: [{
+		uid: "e5a9f635",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "creosote",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f1838735",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$200.0"
+				},
+				value: 200.0d
+			}
+		}
+	}]
+}

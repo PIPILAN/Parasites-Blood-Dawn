@@ -1,0 +1,33 @@
+{
+	x: 5.0d,
+	y: 0.5d,
+	text: [
+		"同样是特制的螺丝，与弹簧和致密合金钢原材料相同。"
+	],
+	dependencies: [
+		"70c7274d"
+	],
+	tasks: [{
+		uid: "18aaf1b0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_screw"
+		}]
+	}],
+	rewards: [{
+		uid: "f3f493e5",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
+	}]
+}

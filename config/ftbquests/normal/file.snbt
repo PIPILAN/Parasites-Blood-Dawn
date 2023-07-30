@@ -14,7 +14,7 @@
 			"patchouli:book": "patchouli:pbd"
 		}
 	}],
-	emergency_items_cooldown: "1m",
+	emergency_items_cooldown: "15s",
 	drop_loot_crates: false,
 	loot_crate_no_drop: {
 		passive: 4000,

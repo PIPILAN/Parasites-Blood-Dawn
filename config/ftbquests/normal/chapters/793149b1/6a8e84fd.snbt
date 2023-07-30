@@ -1,0 +1,33 @@
+{
+	x: 5.0d,
+	y: -1.5d,
+	text: [
+		"致密合金钢板是多种金属通过电弧炉制成粗胚，然后经由高炉烧制成锭，最后经由冲压机压制成型。成型工艺相当复杂，但是物有所值。"
+	],
+	dependencies: [
+		"70c7274d"
+	],
+	tasks: [{
+		uid: "515c6478",
+		type: "item",
+		items: [{
+			item: "mw:gunmetalplate"
+		}]
+	}],
+	rewards: [{
+		uid: "5ba4e714",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
+	}]
+}

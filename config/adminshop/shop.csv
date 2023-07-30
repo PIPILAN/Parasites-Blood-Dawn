@@ -8,7 +8,7 @@
 ,,,
 #Category names for buy and sell. Put the category name in each column after the first,,,
 Buy Category Names:,杂物,武器,弹夹,装备,皮肤/载具,子弹
-Sell Category Names:,矿产,废旧装置
+Sell Category Names:,矿产,废旧装置,生物数据
 ,,,
 ,,,
 "#buy or sell (from player's perspective)",Item/Fluid,Price,Category Index (starting from 0)
@@ -267,3 +267,84 @@ sell,cyberware:foot_upgrades:0 {cyberwareQuality: "cyberware.quality.scavenged"}
 sell,cyberware:foot_upgrades:1 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
 sell,cyberware:foot_upgrades:2 {cyberwareQuality: "cyberware.quality.scavenged"},25,1
 sell,rewired:foot {cyberwareQuality: "cyberware.quality.scavenged"},25,1
+
+sell,contenttweaker:pbd_data,1,2
+sell,contenttweaker:pbd_data1,2.5,2
+sell,contenttweaker:pbd_data2,30,2
+sell,contenttweaker:pbd_data3,2,2
+sell,contenttweaker:pbd_data4,1,2
+sell,contenttweaker:pbd_data5,8,2
+sell,contenttweaker:pbd_data6,6,2
+sell,contenttweaker:pbd_data7,10,2
+sell,contenttweaker:pbd_data8,0.5,2
+sell,contenttweaker:pbd_data9,15,2
+sell,contenttweaker:pbd_data10,10,2
+sell,contenttweaker:pbd_data11,15,2
+sell,contenttweaker:pbd_data12,80,2
+sell,contenttweaker:pbd_data13,5,2
+sell,contenttweaker:pbd_data14,5,2
+sell,contenttweaker:pbd_data15,5,2
+sell,contenttweaker:pbd_data16,5,2
+sell,contenttweaker:pbd_data17,15,2
+sell,contenttweaker:pbd_data18,6,2
+sell,contenttweaker:pbd_data19,12,2
+sell,contenttweaker:pbd_data20,800,2
+sell,contenttweaker:pbd_data21,0.5,2
+sell,contenttweaker:pbd_data22,15,2
+sell,contenttweaker:pbd_data23,0.5,2
+sell,contenttweaker:pbd_data24,0.5,2
+sell,contenttweaker:pbd_data25,0.5,2
+sell,contenttweaker:pbd_data26,0.5,2
+sell,contenttweaker:pbd_data27,0.5,2
+sell,contenttweaker:pbd_data28,0.5,2
+sell,contenttweaker:pbd_data29,0.5,2
+sell,contenttweaker:pbd_data30,50,2
+sell,contenttweaker:pbd_data34,100,2
+sell,contenttweaker:pbd_data35,400,2
+sell,contenttweaker:pbd_data36,300,2
+sell,contenttweaker:pbd_data37,250,2
+sell,contenttweaker:pbd_data38,120,2
+sell,contenttweaker:pbd_data39,50,2
+sell,contenttweaker:pbd_data40,50,2
+sell,contenttweaker:pbd_data41,50,2
+sell,contenttweaker:pbd_data42,50,2
+sell,contenttweaker:pbd_data43,50,2
+sell,contenttweaker:pbd_data44,50,2
+sell,contenttweaker:pbd_data45,50,2
+sell,contenttweaker:pbd_data47,250,2
+sell,contenttweaker:pbd_data48,250,2
+sell,contenttweaker:pbd_data49,250,2
+sell,contenttweaker:pbd_data50,250,2
+sell,contenttweaker:pbd_data51,250,2
+sell,contenttweaker:pbd_data52,250,2
+sell,contenttweaker:pbd_data53,250,2
+sell,contenttweaker:pbd_data54,250,2
+sell,contenttweaker:pbd_data55,300,2
+sell,contenttweaker:pbd_data56,300,2
+sell,contenttweaker:pbd_data57,300,2
+sell,contenttweaker:pbd_data58,600,2
+sell,contenttweaker:pbd_data59,80,2
+sell,contenttweaker:pbd_data60,400,2
+sell,contenttweaker:pbd_data61,1000,2
+sell,contenttweaker:pbd_data62,1000,2
+sell,contenttweaker:pbd_data63,1000,2
+sell,contenttweaker:pbd_data64,1000,2
+sell,contenttweaker:pbd_data65,1000,2
+sell,contenttweaker:pbd_data66,1000,2
+sell,contenttweaker:pbd_data67,2000,2
+sell,contenttweaker:pbd_data68,2000,2
+sell,contenttweaker:pbd_data69,50,2
+sell,contenttweaker:pbd_data70,30,2
+sell,contenttweaker:pbd_data71,15,2
+sell,contenttweaker:pbd_data72,20,2
+sell,contenttweaker:pbd_data73,0.2,2
+sell,contenttweaker:pbd_data74,20,2
+sell,contenttweaker:pbd_data75,10,2
+sell,contenttweaker:pbd_data76,30,2
+sell,contenttweaker:pbd_data77,80,2
+sell,contenttweaker:pbd_data78,300,2
+sell,contenttweaker:pbd_data79,1000,2
+sell,contenttweaker:pbd_data80,30,2
+sell,contenttweaker:pbd_data81,80,2
+sell,contenttweaker:pbd_data82,300,2
+sell,contenttweaker:pbd_data83,1000,2

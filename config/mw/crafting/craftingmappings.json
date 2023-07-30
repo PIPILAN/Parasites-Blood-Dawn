@@ -2794,7 +2794,7 @@
           "count": 1
         },
         {
-          "entryName": "immersiveengineering:material:27",
+          "entryName": "minecraft:gold_nugget",
           "isOreDictionary": false,
           "count": 1
         }
@@ -2820,7 +2820,7 @@
           "count": 1
         },
         {
-          "entryName": "immersiveengineering:material:27",
+          "entryName": "minecraft:gold_nugget",
           "isOreDictionary": false,
           "count": 1
         }
@@ -6674,14 +6674,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -6690,14 +6690,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 2
+          "count": 12
         }
       ]
     },
@@ -6706,14 +6706,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -6722,14 +6722,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -6738,14 +6738,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -6754,14 +6754,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 3
+          "count": 18
         }
       ]
     },
@@ -6770,14 +6770,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 5
+          "count": 30
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 3
+          "count": 18
         }
       ]
     },
@@ -6786,14 +6786,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 8
+          "count": 48
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 4
+          "count": 24
         }
       ]
     },
@@ -6802,14 +6802,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -6818,14 +6818,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -6834,14 +6834,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -6850,14 +6850,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -6866,14 +6866,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -6882,14 +6882,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 2
+          "count": 12
         }
       ]
     },
@@ -6898,14 +6898,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 2
+          "count": 12
         }
       ]
     },
@@ -6914,14 +6914,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -6930,14 +6930,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -6946,14 +6946,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         }
       ]
     },
@@ -6962,14 +6962,14 @@
       "craftingGroup": "BULLET",
       "recipe": [
         {
-          "entryName": "contenttweaker:pbd_ingotbrass",
+          "entryName": "contenttweaker:pbd_nuggetbrass",
           "isOreDictionary": false,
-          "count": 1
+          "count": 6
         },
         {
-          "entryName": "minecraft:gunpowder",
+          "entryName": "contenttweaker:pbd_littlegunpowder",
           "isOreDictionary": false,
-          "count": 2
+          "count": 12
         }
       ]
     },

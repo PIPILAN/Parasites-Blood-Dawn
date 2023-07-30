@@ -15,7 +15,8 @@
 					time: 0L
 				}
 			}
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "3118da18",

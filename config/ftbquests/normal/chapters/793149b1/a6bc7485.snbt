@@ -1,0 +1,34 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"你可以在工程师装配台使用蓝图和相应工具制作零部件，这些零部件是你制造枪械武器的关键。",
+		"至于蓝图，你可以在废弃楼房中的战利品中发现，这取决于你的运气。"
+	],
+	dependencies: [
+		"2eb63a65"
+	],
+	tasks: [{
+		uid: "16c13cd3",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "3eb5b29a",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$1000.0"
+				},
+				value: 1000.0d
+			}
+		}
+	}]
+}

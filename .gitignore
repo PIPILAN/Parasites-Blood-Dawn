@@ -1,25 +1,25 @@
 #Whitelist
 /*
 
-#Folders
+#同步的文件夹
+!/balancepacks/
 !/config/
+!/Document
+!/patchouli_books
 !/profileImage
 !/resourcepacks
-!/patchouli_books
 !/resources
 !/scripts
 !/local
 !/.github
-!/Document
 
-#Files
+#同步的文件
 !/.gitignore
 !/LICENSE.md
-!/options.txt
-!/optionsof.txt
 !/README.md
 
-#ignore
+#忽略的文件夹
 local/client
+local/ftbquests
 local/ftbutilities/backups.json
 local/ftbutilities/players.txt

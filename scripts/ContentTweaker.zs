@@ -119,6 +119,14 @@ var battery as Item = VanillaFactory.createItem("pbd_battery");
 	battery.creativeTab = <creativetab:pbdtab>;
     battery.register();
 
+var littlegunpowder as Item = VanillaFactory.createItem("pbd_littlegunpowder");
+	littlegunpowder.creativeTab = <creativetab:pbdtab>;
+    littlegunpowder.register();
+
+var nuggetbrass as Item = VanillaFactory.createItem("pbd_nuggetbrass");
+	nuggetbrass.creativeTab = <creativetab:pbdtab>;
+    nuggetbrass.register();
+
 // 数据
 var data as Item = VanillaFactory.createItem("pbd_data");
 	data.creativeTab = <creativetab:pbddatatab>;

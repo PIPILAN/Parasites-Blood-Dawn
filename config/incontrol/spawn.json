@@ -1,0 +1,7 @@
+[
+    {
+        "mob": ["mw:terrorist", "mw:zombieblistered", "mw:zombieripper", "mw:tornzombie", "mw:necromorph", "mw:tyke", "mw:zombie", "mw:hazmat_zombie", "mw:defiled zombie", "mw:deathclaw", "mw:molded", "mw:soldier"],
+        "result": "false",
+        "onjoin": true
+    }
+]

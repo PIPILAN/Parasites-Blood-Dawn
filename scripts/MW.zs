@@ -152,6 +152,7 @@ recipes.addShapeless(<immersiveengineering:metal:8>*2,[<mw:steelingot>,<mw:steel
 recipes.addShapeless(<mw:steelingot>*2,[<ancientwarfare:steel_ingot>,<ancientwarfare:steel_ingot>]);
 // 铜锭转换
 recipes.addShapeless(<immersiveengineering:metal>*2,[<mw:copperingot>,<mw:copperingot>]);
+recipes.addShapeless(<mw:copperingot>*2,[<immersiveengineering:metal>,<immersiveengineering:metal>]);
 // 武器/装甲工作台
 recipes.addShaped(<mw:weapon_workbench>,[
 [<immersiveengineering:metal_decoration2>, <immersiveengineering:toolupgrade:10>, <immersiveengineering:toolupgrade>],

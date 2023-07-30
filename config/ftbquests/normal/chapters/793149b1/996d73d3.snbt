@@ -1,0 +1,32 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	text: [
+		"工程师锤可以将部分材料直接加工成板材。",
+		"若你想要更自动化的生产，你需要制造金属冲压机，具体方法请参考《工程师手册》。"
+	],
+	tasks: [{
+		uid: "26915ba0",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:tool"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "97c8fcc2",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
+	}]
+}

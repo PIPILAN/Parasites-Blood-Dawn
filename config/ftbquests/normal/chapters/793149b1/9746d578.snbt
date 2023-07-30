@@ -1,0 +1,52 @@
+{
+	x: 5.0d,
+	y: -3.5d,
+	text: [
+		"枪械零件可在搜刮废弃大楼时概率获得，是较为珍贵的一种材料，可用于指定类型的枪械制造。"
+	],
+	dependencies: [
+		"70c7274d"
+	],
+	tasks: [{
+		uid: "c3b3d557",
+		type: "item",
+		title: "枪械零件",
+		items: [{
+			item: "contenttweaker:pbd_sidearmparts"
+		},
+		{
+			item: "contenttweaker:pbd_longrangerifleparts"
+		},
+		{
+			item: "contenttweaker:pbd_submachinegunparts"
+		},
+		{
+			item: "contenttweaker:pbd_rifleparts"
+		},
+		{
+			item: "contenttweaker:pbd_machinegunparts"
+		},
+		{
+			item: "contenttweaker:pbd_heavygunparts"
+		},
+		{
+			item: "contenttweaker:pbd_shotgunparts"
+		}]
+	}],
+	rewards: [{
+		uid: "684259ed",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
+	}]
+}

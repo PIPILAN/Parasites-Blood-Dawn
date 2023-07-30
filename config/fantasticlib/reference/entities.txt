@@ -86,7 +86,6 @@ ancientwarfarestructure:aw_gate
 ancientwarfarestructure:seat
 ancientwarfarevehicle:vehicle
 ancientwarfarevehicle:missile
-quark:chest_passenger
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -103,13 +102,14 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
-quark:totem_of_holding
+quark:gravisand
 quark:flat_item_frame
 quark:leash_knot
 quark:colored_item_frame
 quark:glass_item_frame
 quark:seat
-quark:gravisand
+quark:chest_passenger
+quark:totem_of_holding
 cyberware:cyberzombie
 ichunutil:entity_block
 mw:ammo256

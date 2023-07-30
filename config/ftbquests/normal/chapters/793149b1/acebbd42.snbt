@@ -1,0 +1,33 @@
+{
+	x: 5.0d,
+	y: -0.5d,
+	text: [
+		"此弹簧为特制弹簧，对材料需求也极高，所以原材料与致密合金相同。"
+	],
+	dependencies: [
+		"70c7274d"
+	],
+	tasks: [{
+		uid: "cb6fde91",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pbd_spring"
+		}]
+	}],
+	rewards: [{
+		uid: "fdfd0bce",
+		type: "item",
+		item: {
+			id: "adminshop:check",
+			tag: {
+				display: {
+					Lore: [
+						"§a出票人: 先驱者联盟"
+					],
+					Name: "§6任务支票 §f$500.0"
+				},
+				value: 500.0d
+			}
+		}
+	}]
+}
